@@ -24,7 +24,7 @@ plugins:
 
 # Setup
 title:               LIED UMR 8236
-description:         *Génétique et Epigénétique des Champignons*
+description:         Génétique et Epigénétique des Champignons
 url:                 https://podo-gec.github.io
 baseurl:             ''
 

@@ -1,0 +1,13 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               
+tagline:             Procédés des Systèmes Vivants -- Génétique et Epigénétique des Champignons
+url:                 https://podo-gec.github.io
+
+# About/contact
+author:
+  name:              Philippe Silar
+  email:             philippe.silar@univ-paris-diderot.fr
+

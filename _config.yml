@@ -43,7 +43,7 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
-- title: &#8682;
+- title: "&#8682;"
   url: "#top"
 
 # About/contact

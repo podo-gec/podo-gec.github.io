@@ -1,10 +1,46 @@
 # Permalinks
 permalink:           pretty
 
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
+# Theme
+remote_theme: daviddarnes/alembic
+
+# Set plugins
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
+- jekyll-remote-theme
+
 # Setup
 title:               Procédés des Systèmes Vivants
-tagline:             Equipe *Génétique et Epigénétique des Champignons*
+description:         Equipe *Génétique et Epigénétique des Champignons*
 url:                 https://podo-gec.github.io
+baseurl:             ''
+
+# Header nav
+navigation_header:
+- title: Home
+  url: /
+- title: About
+  url: /about/
+- title: Publications
+  url: /publications/
+
+# Footer nav
+navigation_footer:
+- title: Back to top
+  url: "#top"
 
 # About/contact
 author:

@@ -8,12 +8,12 @@ title: Génétique et Epigénétique des Champignons
 ### Equipe actuelle
 
 - [SILAR Philippe](mailto:philippe.silar@univ-paris-diderot.fr), professeur Univ. P7 Denis Diderot (resp. eq.) habilité à diriger les recherches
-- BRUN Sylvain, maître de conférences Univ. P7 Denis Diderot
-- FERRARI Roselyne, maître de conférences Univ. P7 Denis Diderot
-- GAUTIER Valérie, IE Univ. paris 7
-- CANGEMI Sylvie, AGT Univ. Paris 7
-- LALANNE Christophe, IR Univ. Paris 7
-- DEMOOR Alexander, Doctorant Univ. Paris 7
+- [BRUN Sylvain](sylvain.brun@univ-paris-diderot.fr), maître de conférences Univ. P7 Denis Diderot
+- [FERRARI Roselyne](ferrari@ipgp.fr), maître de conférences Univ. P7 Denis Diderot
+- [GAUTIER Valérie](valerie.gautier@univ-paris-diderot.fr), IE Univ. paris 7
+- [CANGEMI Sylvie](sylvie.cangemi@univ-paris-diderot.fr), AGT Univ. Paris 7
+- [LALANNE Christophe](christophe.lalanne@univ-paris-diderot.fr), IR Univ. Paris 7
+- [DEMOOR Alexander](alex.demoor@gmail.com), Doctorant Univ. Paris 7
 
 ### Anciens membres
 

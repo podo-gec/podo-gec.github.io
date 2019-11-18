@@ -7,7 +7,7 @@ title: Génétique et Epigénétique des Champignons
 
 ### Equipe actuelle
 
-- SILAR Philippe, professeur Univ. P7 Denis Diderot (resp. eq.) habilité à diriger les recherches
+- [SILAR Philippe](mailto:philippe.silar@univ-paris-diderot.fr), professeur Univ. P7 Denis Diderot (resp. eq.) habilité à diriger les recherches
 - BRUN Sylvain, maître de conférences Univ. P7 Denis Diderot
 - FERRARI Roselyne, maître de conférences Univ. P7 Denis Diderot
 - GAUTIER Valérie, IE Univ. paris 7

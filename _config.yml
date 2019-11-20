@@ -28,7 +28,19 @@ description: Génétique et Epigénétique des Champignons
 url: https://podo-gec.github.io
 baseurl: ""
 lang: fr-FR
+logo: "/assets/logos/logo.png"
 # google_analytics:    'UA-XXXXXXXX-1'
+
+favicons:
+  57: "/assets/logos/apple-icon-57x57.png"
+  60: "/assets/logos/apple-icon-60x60.png"
+  72: "/assets/logos/apple-icon-72x72.png"
+  76: "/assets/logos/apple-icon-76x76.png"
+  114: "/assets/logos/apple-icon-114x114.png"
+  120: "/assets/logos/apple-icon-120x120.png"
+  144: "/assets/logos/apple-icon-144x44.png"
+  152: "/assets/logos/apple-icon-152x152.png"
+  180: "/assets/logos/apple-icon-180x180.png"
 
 # Header nav
 navigation_header:
@@ -49,6 +61,5 @@ navigation_footer:
     url: "#top"
 
 # About/contact
-author:
-  name: Philippe Silar
-  email: philippe.silar@univ-paris-diderot.fr
+author: "Philippe Silar"
+email: "philippe.silar@univ-paris-diderot.fr"

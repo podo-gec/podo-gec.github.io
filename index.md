@@ -2,11 +2,7 @@
 layout: page
 title: Génétique et Epigénétique des Champignons
 feature_image: "static/img/header.jpg"
-feature_text: |
-  team champipi
 ---
-
-## Génétique et Epigénétique des Champignons
 
 L'équipe GEC est constituée d'enseignants-chercheurs et est donc engagée dans la découverte de nouvelles connaissances ainsi que dans leur diffusion via un enseignement classique ou directement sur internet.
 
@@ -19,7 +15,7 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 
 **Mots clés:** mycologie, génétique et épigénétique, régulation/différentiation, énergie, déconstruction de la biomasse.
 
-[Page web](http://podospora.i2bc.paris-saclay.fr/) de _Podospora anserina_.
+{% include button.html text="Page web de <em>Podospora anserina</em>" link="http://podospora.i2bc.paris-saclay.fr/" %}
 
 ## Diffusion des connaissances
 

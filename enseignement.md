@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Génétique et Epigénétique des Champignons
+title: Participation à la formation
 ---
 
-## Participation à la formation
-
-### DEA
+## DEA
 
 - GAGNY Bénédicte (DEA de microbiologie 1994)
 - LALUCQUE Hervé (3eme stage DEA de Génétique 1998)
@@ -15,11 +13,11 @@ title: Génétique et Epigénétique des Champignons
 - KLAPHOLZ Benjamin (1er stage DEA de Génétique 2003)
 - MARCHAIS Antonin (3eme stage DEA de Génétique 2004)
 
-### DESS
+## DESS
 
 - KHALILI Hamid (2004)
 
-### M2
+## M2
 
 - LIU Jin (M2 SPGF 2006)
 - POIDEVIN Laetitia (M2 IMVI 2007)
@@ -33,11 +31,11 @@ title: Génétique et Epigénétique des Champignons
 - NGUYEN Tinh-Suong (M2 IMVI 2015)
 - DEMOOR Alexander (M2 IMVI 2017)
 
-### Thèse d’exercice Pharmacie
+## Thèse d’exercice Pharmacie
 
 - BROZZATTI Lorenzo, Thèse d’exercice Erasmus (2014)
 
-### Thèses
+## Thèses
 
 - GAGNY Bénédicte (1994--1998)
 - GRAZIANI Stéphane (1997--2002)
@@ -50,5 +48,3 @@ title: Génétique et Epigénétique des Champignons
 - LACAZE Isabelle (2012--2016)
 - NGUYEN Tinh-Suong (2015--)
 - DEMOOR Alexander (2017--)
-
-

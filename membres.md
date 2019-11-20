@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Génétique et Epigénétique des Champignons
+title: Composition de l'équipe
 ---
 
-## Composition de l'équipe
-
-### Equipe actuelle
+## Equipe actuelle
 
 - [SILAR Philippe](mailto:philippe.silar@univ-paris-diderot.fr), professeur Univ. P7 Denis Diderot (resp. eq.) habilité à diriger les recherches
 - [BRUN Sylvain](sylvain.brun@univ-paris-diderot.fr), maître de conférences Univ. P7 Denis Diderot
@@ -15,7 +13,7 @@ title: Génétique et Epigénétique des Champignons
 - [LALANNE Christophe](christophe.lalanne@univ-paris-diderot.fr), IR Univ. Paris 7
 - [DEMOOR Alexander](alex.demoor@gmail.com), Doctorant Univ. Paris 7
 
-### Anciens membres
+## Anciens membres
 
 - ROSSIGNOL Michèle, IE CNRS (1994-1999)
 - HAEDENS Vicki, IE CNRS (1997-2004)
@@ -34,7 +32,7 @@ title: Génétique et Epigénétique des Champignons
 - TANGTHIRASUNUN Narumon, doctorante (2011-2014) et Postdoctorante Ambassade de France Bangkok
 - NGUYEN Tinh-Suong, Doctorante (2015-2018)
 - BROZZATTI Lorenzo, Thèse d’exercice Erasmus (2014)
-- GANESAN Latha Prabha, postdoctorant  (2000-2001)
+- GANESAN Latha Prabha, postdoctorant (2000-2001)
 - SOBERING Andrew K, postdoctorant (2002)
 - GRISSA Ibtissem, postdoc ATER Univ. P7 Denis Diderot (2009-2010)
 - DILMAGHANI Azita, postdoc (2011-2012)
@@ -54,12 +52,10 @@ title: Génétique et Epigénétique des Champignons
 - DELAITRE François, Stagiaire MASTER 2
 - IVANOFF Dimitri, Stagiaire MASTER 2
 
-### Anciens Membres Associés:
+## Anciens Membres Associés:
 
 - GRAZIANI Stéphane, doctorant Univ. P11 Sud
 - MARTINS Marta, doctorante Univ. P7 Denis Diderot
 - NARUZAWA Erika, doctorante Université Laval (Québec)
 - LACAZE Isabelle, doctorante Univ. P7 Denis Diderot/CSTB
 - BERNIER Louis, Professeur Université Laval, (Québec)
-
-

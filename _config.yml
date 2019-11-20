@@ -1,53 +1,54 @@
 # Permalinks
-permalink:           pretty
+permalink: pretty
 
 # File excludes
 exclude:
-- README.md
-- Gemfile
-- Gemfile.lock
+  - README.md
+  - Gemfile
+  - Gemfile.lock
 
 # Theme
 remote_theme: daviddarnes/alembic
 
 # Set plugins
 plugins:
-- jekyll-sitemap
-- jekyll-mentions
-- jekyll-paginate
-- jekyll-seo-tag
-- jekyll-redirect-from
-- jekyll-default-layout
-- jekyll-feed
-- jemoji
-- jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-default-layout
+  - jekyll-feed
+  - jemoji
+  - jekyll-remote-theme
 
 # Setup
-title:               LIED UMR 8236
-description:         Génétique et Epigénétique des Champignons
-url:                 https://podo-gec.github.io
-baseurl:             ''
+title: LIED UMR 8236
+description: Génétique et Epigénétique des Champignons
+url: https://podo-gec.github.io
+baseurl: ""
+lang: fr-FR
+# google_analytics:    'UA-XXXXXXXX-1'
 
 # Header nav
 navigation_header:
-- title: Accueil
-  url: /
-- title: Présentation
-  url: /membres/
-- title: Recherche
-  url: /recherche/
-- title: Publications
-  url: /publications/
-- title: Enseignements
-  url: /enseignement/
+  - title: Accueil
+    url: /
+  - title: Présentation
+    url: /membres/
+  - title: Recherche
+    url: /recherche/
+  - title: Publications
+    url: /publications/
+  - title: Enseignements
+    url: /enseignement/
 
 # Footer nav
 navigation_footer:
-- title: "&#8682;"
-  url: "#top"
+  - title: "&#8682;"
+    url: "#top"
 
 # About/contact
 author:
-  name:              Philippe Silar
-  email:             philippe.silar@univ-paris-diderot.fr
-
+  name: Philippe Silar
+  email: philippe.silar@univ-paris-diderot.fr

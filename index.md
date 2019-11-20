@@ -15,7 +15,9 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 
 **Mots clés:** mycologie, génétique et épigénétique, régulation/différentiation, énergie, déconstruction de la biomasse.
 
+<center>
 {% include button.html text="Page web de <em>Podospora anserina</em>" link="http://podospora.i2bc.paris-saclay.fr/" %}
+</center>
 
 ## Diffusion des connaissances
 

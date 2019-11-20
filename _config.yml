@@ -23,8 +23,8 @@ plugins:
   - jekyll-remote-theme
 
 # Setup
-title: LIED UMR 8236
-description: Génétique et Epigénétique des Champignons
+title: "LIED UMR 8236 | GEC"
+description: Génétique et Epigénétique des Champignons (Dir. Pr. Ph. Silar)
 url: https://podo-gec.github.io
 baseurl: ""
 lang: fr-FR

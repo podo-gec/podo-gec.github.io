@@ -7,7 +7,7 @@ title: Publications
 
 **2019**
 
-88- Mercier A, Clairet C., Debychy R, Morais D. Silar P & Brun S (2019) The mitochondrial translocase of the inner membrane PaTim54 is involved in defense response and longevity in _Podospora anserina_. **Fung. Genet. Biol.** Sous presse.
+88- Mercier A, Clairet C., Debychy R, Morais D. Silar P & Brun S (2019) The mitochondrial translocase of the inner membrane PaTim54 is involved in defense response and longevity in _Podospora anserina_. **Fung. Genet. Biol.** 132: 1032572.
 
 87- Demoor A, Silar P & Brun S (2019) Appressorium: The Breakthrough in Dikarya. **J. Fungi** 5(3): 72.
 

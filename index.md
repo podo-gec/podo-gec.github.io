@@ -32,12 +32,11 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 <small>base de données en cours d'élaboration : pour avoir un aperçu, se connecter avec l'identifiant/mot de passe "guest"/"guest". </small>
 
 ## Diffusion des connaissances
-<br>
 
-- Le livre sur les _Bases Fondamentales de la Biologie_ (ISBN 978-2-9555841-1-8), en [version PDF](https://hal.archives-ouvertes.fr/hal-01401263) gratuite
+- Le livre sur les _Bases Fondamentales de la Biologie_ (ISBN 978-2-9555841-1-8), en [version PDF](https://hal.archives-ouvertes.fr/hal-01401263) gratuite<br>
     ![Bases Fondamentales de la Biologie](static/img/bfb.jpg)
 
-- Le livre de _Microbiologie eucaryote_ (ISBN 978-2-9555841-0-1), en [version PDF](https://hal.archives-ouvertes.fr/hal-01263138) gratuite
+- Le livre de _Microbiologie eucaryote_ (ISBN 978-2-9555841-0-1), en [version PDF](https://hal.archives-ouvertes.fr/hal-01263138) gratuite<br>
     ![Microbiologie eucaryote](static/img/pe.jpg)
 
 <br>

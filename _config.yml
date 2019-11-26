@@ -52,8 +52,7 @@ navigation_header:
     url: /recherche/
   - title: Publications
     url: /publications/
-  - title: Enseignements
-    url: /enseignement/
+
 
 # Footer nav
 navigation_footer:

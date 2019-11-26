@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Génétique et Epigénétique des Champignons
-feature_image: "static/img/header.jpg"
+feature_image: "static/img/podospora_anserina_50pct.jpg"
 ---
 
 L'équipe GEC est constituée d'enseignants-chercheurs et est donc engagée dans la découverte de nouvelles connaissances ainsi que dans leur diffusion via un enseignement classique ou directement sur internet.

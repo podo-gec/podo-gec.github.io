@@ -24,7 +24,7 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 ![Bases Fondamentales de la Biologie](static/img/bfb.jpg)
 ![Microbiologie eucaryote](static/img/pe.jpg)
 
-- Nouveau : le livre sur les _Bases Fondamentales de la Biologie_ (ISBN 978-2-9555841-1-8), en [version PDF](https://hal.archives-ouvertes.fr/hal-01401263) gratuite
+- Le livre sur les _Bases Fondamentales de la Biologie_ (ISBN 978-2-9555841-1-8), en [version PDF](https://hal.archives-ouvertes.fr/hal-01401263) gratuite
 - Le livre de _Microbiologie eucaryote_ (ISBN 978-2-9555841-0-1), en [version PDF](https://hal.archives-ouvertes.fr/hal-01263138) gratuite
 
 ## Enseignements

@@ -15,9 +15,15 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 
 **Mots clés:** mycologie, génétique et épigénétique, régulation/différentiation, énergie, déconstruction de la biomasse.
 
+## Ressources scientifiques produites par le laboratoire
+
 <center>
 {% include button.html text="Page web de <em>Podospora anserina</em>" link="http://podospora.i2bc.paris-saclay.fr/" %}
 </center>
+<center>
+{% include button.html text="Base de données taxonomiques sur les <em>Sordariales</em>" link="http://fungi-db.herokuapp.com/" %}
+</center>
+
 
 ## Diffusion des connaissances
 
@@ -26,8 +32,9 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 
 - Le livre sur les _Bases Fondamentales de la Biologie_ (ISBN 978-2-9555841-1-8), en [version PDF](https://hal.archives-ouvertes.fr/hal-01401263) gratuite
 - Le livre de _Microbiologie eucaryote_ (ISBN 978-2-9555841-0-1), en [version PDF](https://hal.archives-ouvertes.fr/hal-01263138) gratuite
+- le documentaire de France Culture sur les champignons: [Les champignons sortent du bois](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/les-champignons-sortent-du-bois-14-champignons-vos-papiers)
 
-## Enseignements
+## Liens de téléchargements des cours pour les étudiants de l'Université de Paris
 
 - Le cours de [Génétique](http://gec.sdv.univ-paris-diderot.fr/genetique/licence.html) (wip) de L3
 - Le cours de [Génétique humaine](http://gec.sdv.univ-paris-diderot.fr/GenetCoursL3S5genethumaine.pdf) du L3S5 (format PDF)

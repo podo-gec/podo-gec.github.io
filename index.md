@@ -15,7 +15,7 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 
 **Mots clés:** mycologie, génétique et épigénétique, régulation/différentiation, énergie, déconstruction de la biomasse.
 
-### Ressources scientifiques produites par le laboratoire
+## Ressources scientifiques produites par le laboratoire
 <br>
 
 <center>
@@ -25,26 +25,26 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 <br>
 
 <center>
-**A venir prochainement**<br>
+<b>A venir prochainement</b><br>
 {% include button.html text="Base de données taxonomiques sur les <em>Sordariales</em>" link="http://fungi-db.herokuapp.com/" %}
 </center>
 
 <small>base de données en cours d'élaboration : pour avoir un aperçu, se connecter avec l'identifiant/mot de passe "guest"/"guest". </small>
 
-### Diffusion des connaissances
+## Diffusion des connaissances
 <br>
 
-<center>
-![Bases Fondamentales de la Biologie](static/img/bfb.jpg)
-![Microbiologie eucaryote](static/img/pe.jpg)
-</center>
-
 - Le livre sur les _Bases Fondamentales de la Biologie_ (ISBN 978-2-9555841-1-8), en [version PDF](https://hal.archives-ouvertes.fr/hal-01401263) gratuite
+    ![Bases Fondamentales de la Biologie](static/img/bfb.jpg)
+
 - Le livre de _Microbiologie eucaryote_ (ISBN 978-2-9555841-0-1), en [version PDF](https://hal.archives-ouvertes.fr/hal-01263138) gratuite
+    ![Microbiologie eucaryote](static/img/pe.jpg)
+
+<br>
 - La création radiophonique de la RTBF: ['Une pour tous, tous par une' : une immersion dans l'univers méconnu des microbes, des bactéries, des champignons](https://www.rtbf.be/lapremiere/article/detail_une-pour-tous-tous-par-une-une-immersion-dans-l-univers-meconnu-des-microbes-des-bacteries-des-champignons?id=10015919)
 - Le documentaire de France Culture sur les champignons: [Les champignons sortent du bois](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/les-champignons-sortent-du-bois-14-champignons-vos-papiers)
 
-### Liens de téléchargements des cours pour les étudiants de l'Université de Paris
+## Liens de téléchargements des cours pour les étudiants de l'Université de Paris
 
 - Le cours de [Génétique](http://gec.sdv.univ-paris-diderot.fr/genetique/licence.html) (wip) de L3
 - Le cours de [Génétique humaine](http://gec.sdv.univ-paris-diderot.fr/GenetCoursL3S5genethumaine.pdf) du L3S5 (format PDF)

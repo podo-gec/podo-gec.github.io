@@ -19,14 +19,14 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 <br>
 
 <center>
-{% include button.html text="Page web de <em>Podospora anserina</em>" link="http://podospora.i2bc.paris-saclay.fr/" %}
+{% include button.html text="Page web de <em>Podospora anserina</em>" link="http://podospora.i2bc.paris-saclay.fr/" color="#6a1d33" %}
 </center>
 
 <br>
 
 <center>
 <b>A venir prochainement</b><br>
-{% include button.html text="Base de données taxonomiques sur les <em>Sordariales</em>" link="http://fungi-db.herokuapp.com/" %}
+{% include button.html text="Base de données taxonomiques sur les <em>Sordariales</em>" link="http://fungi-db.herokuapp.com/" color="#6a1d33" %}
 </center>
 
 <small>base de données en cours d'élaboration : pour avoir un aperçu, se connecter avec l'identifiant/mot de passe "guest"/"guest". </small>

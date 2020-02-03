@@ -45,7 +45,7 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 
 ## Liens de téléchargements des cours pour les étudiants de l'Université de Paris
 
-- Le cours de [Génétique](http://gec.sdv.univ-paris-diderot.fr/genetique/licence.html) (wip) de L3
+- Le cours de [Génétique](/genetique/licence.html) (wip) de L3
 - Le cours de [Génétique humaine](http://gec.sdv.univ-paris-diderot.fr/GenetCoursL3S5genethumaine.pdf) du L3S5 (format PDF)
 - Le cours de L2/L3 [Biologie des Champignons](http://gec.sdv.univ-paris-diderot.fr/coursL2myco.pdf) (format PDF)
 - [Annales de M1](http://gec.sdv.univ-paris-diderot.fr/examenmicrobioeuc.zip) (Archive zip)

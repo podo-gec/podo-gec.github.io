@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Participation à la formation
+feature_image: "static/img/podospora_anserina_50pct.jpg"
 ---
 
 ## DEA

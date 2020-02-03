@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+feature_image: "static/img/podospora_anserina_50pct.jpg"
 ---
 
 ## Dans les revues à comité de lecture

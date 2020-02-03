@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Composition de l'équipe
-feature_image: "static/img/podospora_anserina_50pct.jpg"
+feature_image: "../static/img/podospora_anserina_50pct.jpg"
 ---
 
 ## Equipe actuelle

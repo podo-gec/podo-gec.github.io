@@ -46,5 +46,5 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 ## Liens de téléchargements des cours pour les étudiants de l'Université de Paris
 
 - Le cours de [Génétique](http://saratoga.dsi.univ-paris-diderot.fr/genetique/licence.html) (wip) de L3
-- Le cours de [Microbiologie Eucaryote du L3S6](http://saratoga.dsi.univ-paris-diderot.fr/courslicenceIMVI.pdf) (format PDF)
-- [Annales de M1](http:/saratoga.dsi.univ-paris-diderot.fr/examenmicrobioeuc.zip) (Archive zip)
+- Le cours de [Microbiologie Eucaryote du L3S6](docs/courslicenceIMVI.pdf) (format PDF)
+- [Annales de M1](docs/examenmicrobioeuc.zip) (Archive zip)

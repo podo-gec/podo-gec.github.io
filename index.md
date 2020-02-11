@@ -46,5 +46,5 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 ## Liens de téléchargements des cours pour les étudiants de l'Université de Paris
 
 - Le cours de [Génétique](https://github.com/podo-gec/cours/blob/master/genetique/book.md) de L3 - version de travail - En cours d'actualisation
-- Le cours de [Microbiologie Eucaryote du L3S6](docs/courslicenceIMVI.pdf) (format PDF)
-- [Annales de M1](docs/examenmicrobioeuc.zip) (Archive zip)
+- Le cours de [Microbiologie Eucaryote du L3S6](http://podo-gec.sdv.univ-paris-diderot.fr/courslicenceIMVI.pdf) (format PDF)
+- [Annales de M1](http://podo-gec.sdv.univ-paris-diderot.fr/examenmicrobioeuc.zip) (Archive zip)

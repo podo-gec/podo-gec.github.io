@@ -36,7 +36,7 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 - Le livre sur _Podospora anserina_ (ISBN 978-2-9555841-1-8), en [version PDF](https://hal.archives-ouvertes.fr/hal-02475488) gratuite<br>
     ![Podospora anserina](static/img/pa.jpg)
 -->
-- Le livre sur les _Bases Fondamentales de la Biologie_ (ISBN 978-2-9555841-1-8), en [version PDF](https://hal.archives-ouvertes.fr/hal-01401263) gratuite<br>
+- Le livre sur les _Bases Fondamentales de la Biologie_ (ISBN 978-2-9555841-2-5), en [version PDF](https://hal.archives-ouvertes.fr/hal-01401263) gratuite<br>
     ![Bases Fondamentales de la Biologie](static/img/bfb.jpg)
 
 - Le livre de _Microbiologie eucaryote_ (ISBN 978-2-9555841-0-1), en [version PDF](https://hal.archives-ouvertes.fr/hal-01263138) gratuite<br>

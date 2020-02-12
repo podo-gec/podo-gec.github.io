@@ -32,10 +32,10 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 <small>base de données en cours d'élaboration : pour avoir un aperçu, se connecter avec l'identifiant/mot de passe "guest"/"guest". </small>
 
 ## Diffusion des connaissances
-
+<!--
 - Le livre sur _Podospora anserina_ (ISBN 978-2-9555841-1-8), en [version PDF](https://hal.archives-ouvertes.fr/hal-02475488) gratuite<br>
     ![Podospora anserina](static/img/pa.jpg)
-
+-->
 - Le livre sur les _Bases Fondamentales de la Biologie_ (ISBN 978-2-9555841-1-8), en [version PDF](https://hal.archives-ouvertes.fr/hal-01401263) gratuite<br>
     ![Bases Fondamentales de la Biologie](static/img/bfb.jpg)
 

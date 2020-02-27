@@ -6,7 +6,7 @@ feature_image: "static/img/podospora_anserina_50pct.jpg"
 
 L'équipe GEC est constituée d'enseignants-chercheurs et est donc engagée dans la découverte de nouvelles connaissances ainsi que dans leur diffusion via un enseignement classique ou directement sur internet.
 
-L'équipe GEC fait partie du [Laboratoire Interdisciplinaire des Energies de Demain](http://www.lied-pieri.univ-paris-diderot.fr/) (LIED), UMR 8236).
+L'équipe GEC fait partie du [Laboratoire Interdisciplinaire des Energies de Demain](http://www.lied-pieri.univ-paris-diderot.fr/) (LIED, UMR 8236).
 
 **Responsable de l'équipe:**
 Professeur Philippe Silar<br>
@@ -16,6 +16,7 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 **Mots clés:** mycologie, génétique et épigénétique, régulation/différentiation, énergie, déconstruction de la biomasse.
 
 ## Ressources scientifiques produites par le laboratoire
+
 <br>
 
 <center>
@@ -33,21 +34,17 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 
 ## Diffusion des connaissances
 
-
 **Nouveau et gratuit**
+
 - Le livre sur _Podospora anserina_ (ISBN 978-2-9555841-2-5), en [version PDF](https://hal.archives-ouvertes.fr/hal-02475488) gratuite<br>
-    ![Podospora anserina](static/img/pa.jpg)
-    
-    
-    
- **et toujours disponible gratuitement** 
- 
+  ![Podospora anserina](static/img/pa.jpg)
+  **et toujours disponible gratuitement**
 
-- Le livre sur les _Bases Fondamentales de la Biologie_ (ISBN 978-2-9555841-1-8), en [version PDF](https://hal.archives-ouvertes.fr/hal-01401263) gratuite<br>
-    ![Bases Fondamentales de la Biologie](static/img/bfb.jpg)
+* Le livre sur les _Bases Fondamentales de la Biologie_ (ISBN 978-2-9555841-1-8), en [version PDF](https://hal.archives-ouvertes.fr/hal-01401263) gratuite<br>
+  ![Bases Fondamentales de la Biologie](static/img/bfb.jpg)
 
-- Le livre de _Microbiologie eucaryote_ (ISBN 978-2-9555841-0-1), en [version PDF](https://hal.archives-ouvertes.fr/hal-01263138) gratuite<br>
-    ![Microbiologie eucaryote](static/img/pe.jpg)
+* Le livre de _Microbiologie eucaryote_ (ISBN 978-2-9555841-0-1), en [version PDF](https://hal.archives-ouvertes.fr/hal-01263138) gratuite<br>
+  ![Microbiologie eucaryote](static/img/pe.jpg)
 
 <br>
 - La création radiophonique de la RTBF: ['Une pour tous, tous par une' : une immersion dans l'univers méconnu des microbes, des bactéries, des champignons](https://www.rtbf.be/lapremiere/article/detail_une-pour-tous-tous-par-une-une-immersion-dans-l-univers-meconnu-des-microbes-des-bacteries-des-champignons?id=10015919)

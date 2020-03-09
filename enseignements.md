@@ -21,11 +21,11 @@ resp. Philippe Silar - 6 ects
 
 - Cours de M. Silar (15h)
 
-Origine de la cellule eucaryote
-Grands évènements jalonnant l’évolution des eucaryotes
-Diversité du monde eucaryote: La nouvelle classification phylogénétique des eucaryotes
-Rôles des protistes eucaryotes dans la biosphère: Les biotopes à l’échelle des microbes eucaryotes, Cycle global du carbone, Cycle de l’azote et autres cycles géochimiques
-Interactions des protistes avec les sociétés humaines : Rôles dans l’alimentation, Rôle dans l’industrie pharmaceutique : les métabolites secondaires, Les parasites de l’homme et de ses animaux commensaux, Les parasites des plantes et des autres eucaryotes
+Origine de la cellule eucaryote  
+Grands évènements jalonnant l’évolution des eucaryotes  
+Diversité du monde eucaryote: La nouvelle classification phylogénétique des eucaryotes  
+Rôles des protistes eucaryotes dans la biosphère: Les biotopes à l’échelle des microbes eucaryotes, Cycle global du carbone, Cycle de l’azote et autres cycles géochimiques  
+Interactions des protistes avec les sociétés humaines : Rôles dans l’alimentation, Rôle dans l’industrie pharmaceutique : les métabolites secondaires, Les parasites de l’homme et de ses animaux commensaux, Les parasites des plantes et des autres eucaryotes  
 
 - Cours de M. Brun (10h)
 

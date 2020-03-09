@@ -50,6 +50,8 @@ navigation_header:
     url: /membres/
   - title: Recherche
     url: /recherche/
+  - title: Enseignements
+    url: /enseignements/
   - title: Publications
     url: /publications/
 

@@ -4,7 +4,8 @@ title: Enseignements de Microbiologie Eucaryote et de Mycologie
 feature_image: "../static/img/podospora_anserina_50pct.jpg"
 ---
 
-Une des spécificités de l'équipe GEC est sa participation importante dans des enseignements de microbiologie eucaryotes au niveau L et M et plus spécifiquement de mycologie en L2/L3 et M2. Pour le niveau M1, les enseignements sont dispensés au sein du Master de Biologie Moléculaire et Cellulaire (https://sdv.u-paris.fr/master-biologie-moleculaire-et-cellulaire-bmc) en UE obligatoire dans le cadre du parcours de Microbiologie de M1 et en UE optionnelle pour les autres parcours sur l'**Origine, diversité et Biologie des Microorganismes Eucaryotes**. Pour le M2, il s'agit d'un parcours spécifique de **Mycologie  Environnementale et Médicale** intégré au parcours plus général de Microbiologie avec lequel il partage des enseignements.
+Une des spécificités de l'équipe GEC est sa participation importante dans des enseignements de microbiologie eucaryotes au niveau L et M et plus spécifiquement de mycologie en L2/L3 et M2. 
+Pour le niveau M, les enseignements sont dispensés au sein du Master de Biologie Moléculaire et Cellulaire (https://sdv.u-paris.fr/master-biologie-moleculaire-et-cellulaire-bmc) en UE obligatoire dans le cadre du parcours de Microbiologie de M1 et en UE optionnelle pour les autres parcours sur l'**Origine, diversité et Biologie des Microorganismes Eucaryotes**; pour le M2, il s'agit d'un parcours spécifique de **Mycologie  Environnementale et Médicale** intégré au parcours plus général de Microbiologie avec lequel il partage des enseignements.
 <br>
 <br>
 

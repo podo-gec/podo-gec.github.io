@@ -8,7 +8,7 @@ Une des spécificités de l'équipe GEC est sa participation importante dans des
 
 
 
-<figure><img src="docs/image1.png"><figcaption></figcaption></figure><br><br>
+<figure><img src="docs/Image1.png"><figcaption></figcaption></figure><br><br>
 
 Présentation de l'UE de M1 **Origine, diversité et Biologie des Microorganismes Eucaryotes**
 
@@ -50,7 +50,7 @@ Contrôle des connaissance:  présentation orale de TD = CC 30% de la note + exa
 
 
 
-<figure><img src="docs/image2.png"><figcaption></figcaption></figure><br><br>
+<figure><img src="docs/Image2.png"><figcaption></figcaption></figure><br><br>
 
 Présentation du parcours de **Mycologie  Environnementale et Médicale**
 

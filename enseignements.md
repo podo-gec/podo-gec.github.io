@@ -63,27 +63,27 @@ Le parcours est un des trois parcours du M2 de microbiologie du Master BMC de l'
 
 - **I - Acquisition de notions approfondies de la biologie, de la diversité et de la classification des** **champignons**
 
-Programme du cours 2019-2020
+  Programme du cours 2019-2020
 
-- Diversité, phylogénie et classification (P. Silar, LIED) 
-- Programmes de développement (P. Silar, LIED) 
-- Evolution des génomes fongiques (P. Silar, LIED)  
-- Physiologie des levures (Sylvain Brun, LIED) 
-- Dégradation de la biomasse (Sylvain Brun, LIED) 
-- Champignons Phytopathogènes (1 jour à Bioger)
-- Résistance aux stress (Mélanie Morel-Rouhier, Univ. Nancy)
-- Mycoses humaines (2 jours à Pasteur)
-- Types sexuels (R. Debuchy, CNRS Orsay)
-- Champignons mutualistes de végétaux : mycorhizes (Annegret Koehler, INRA Nancy) 
-- Métabolites secondaires et Mycotoxines (Hervé Lalucque, LIED) 
-- Mécanismes de spéciations (fanny Hartmann, ESE Orsay)
+  - Diversité, phylogénie et classification (P. Silar, LIED) 
+  - Programmes de développement (P. Silar, LIED) 
+  - Evolution des génomes fongiques (P. Silar, LIED)  
+  - Physiologie des levures (Sylvain Brun, LIED) 
+  - Dégradation de la biomasse (Sylvain Brun, LIED) 
+  - Champignons Phytopathogènes (1 jour à Bioger)
+  - Résistance aux stress (Mélanie Morel-Rouhier, Univ. Nancy)
+  - Mycoses humaines (2 jours à Pasteur)
+  - Types sexuels (R. Debuchy, CNRS Orsay)
+  - Champignons mutualistes de végétaux : mycorhizes (Annegret Koehler, INRA Nancy) 
+  - Métabolites secondaires et Mycotoxines (Hervé Lalucque, LIED) 
+  - Mécanismes de spéciations (fanny Hartmann, ESE Orsay)
 
 
 - **II - Biodiversité des Microorganismes Eucaryotes - Acquisition des méthodes pour isoler, conserver et identifier les microbes eucaryotes, particulièrement les champignons**
 
-- Isolement de champignons à partir d’échantillons divers. Extraction d’ADN et identification moléculaire (séquençage ITS) des isolats. 
-- Notions de phylogénie et constructions d'arbres phylogénétiques
-- Première approches de génomiques: assemblage de génome, de transcriptomes et analyses quantitives de transcriptomes
+  - Isolement de champignons à partir d’échantillons divers. Extraction d’ADN et identification moléculaire (séquençage ITS) des isolats. 
+  - Notions de phylogénie et constructions d'arbres phylogénétiques
+  - Première approches de génomiques: assemblage de génome, de transcriptomes et analyses quantitives de transcriptomes
 
 
 

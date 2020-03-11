@@ -78,7 +78,7 @@ Le parcours est un des trois parcours du M2 de microbiologie du Master BMC de l'
 
 
 - **B - Biodiversité des Microorganismes Eucaryotes - Acquisition des méthodes pour isoler, conserver et identifier les microbes eucaryotes, particulièrement les champignons**
-- Isolement de champignons à partir d’échantillons divers. Extraction d’ADN et identification moléculaire (séquençage ITS) des isolats. 
+  - Isolement de champignons à partir d’échantillons divers. Extraction d’ADN et identification moléculaire (séquençage ITS) des isolats. 
   - Notions de phylogénie et constructions d'arbres phylogénétiques
   - Première approches de génomiques: assemblage de génome, de transcriptomes et analyses quantitives de transcriptomes
 
@@ -88,7 +88,7 @@ Le parcours est un des trois parcours du M2 de microbiologie du Master BMC de l'
 
 - Délétion de gènes chez *Podospora anserina*. Analyse physiologique, biochimique et cytologique des phénotypes provoqués. Validation moléculaire de l'évènement de délétion par PCR et Southern Blot. Chaque étudiant délète son gène.
 
-  </br>
+  <br>
 
 #### Quelques témoignages d'anciens étudiants du M2:
 

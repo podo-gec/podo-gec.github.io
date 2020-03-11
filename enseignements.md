@@ -57,7 +57,7 @@ Le parcours est un des trois parcours du M2 de microbiologie du Master BMC de l'
 
 
 
-3 UE sont spécifiques au parcours :
+2 UE sont spécifiques au parcours :
 
 **UE outils modernes en mycologie** - 6 ects
 

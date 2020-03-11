@@ -59,7 +59,9 @@ Le parcours est un des trois parcours du M2 de microbiologie du Master BMC de l'
 
 3 UE sont spécifiques au parcours :
 
-**UE outils modernes en mycologie:** **Acquisition de notions approfondies de la biologie, de la diversité et de la classification des** **champignons** - 3 ects
+**UE outils modernes en mycologie** - 6 ects
+
+- **I - Acquisition de notions approfondies de la biologie, de la diversité et de la classification des** **champignons**
 
 Programme du cours 2019-2020
 
@@ -77,20 +79,19 @@ Programme du cours 2019-2020
 - Mécanismes de spéciations (fanny Hartmann, ESE Orsay)
 
 
-
-**UE cours en laboratoire:** **Acquisition des méthodes de génétique et biologie moléculaire permettant de travailler avec les champignons** **filamenteux** - 12 ects
-
-- Délétion de gènes chez *Podospora anserina*. Analyse physiologique, biochimique et cytologique des phénotypes provoqués. Validation moléculaire de l'évènement de délétion par PCR et Southern Blot. Chaque étudiant délète son gène.
-
-  
-
-**UE Biodiversité des Microorganismes Eucaryotes: Acquisition des méthodes pour isoler, conserver et identifier les microbes eucaryotes, particulièrement les champignons** - 3 ects
+- **II - Biodiversité des Microorganismes Eucaryotes - Acquisition des méthodes pour isoler, conserver et identifier les microbes eucaryotes, particulièrement les champignons**
 
 - Isolement de champignons à partir d’échantillons divers. Extraction d’ADN et identification moléculaire (séquençage ITS) des isolats. 
 - Notions de phylogénie et constructions d'arbres phylogénétiques
 - Première approches de génomiques: assemblage de génome, de transcriptomes et analyses quantitives de transcriptomes
 
 
+
+**UE cours en laboratoire:** **Acquisition des méthodes de génétique et biologie moléculaire permettant de travailler avec les champignons** **filamenteux** - 12 ects
+
+- Délétion de gènes chez *Podospora anserina*. Analyse physiologique, biochimique et cytologique des phénotypes provoqués. Validation moléculaire de l'évènement de délétion par PCR et Southern Blot. Chaque étudiant délète son gène.
+
+  
 
 #### Quelques témoignages d'anciens étudiants du M2:
 

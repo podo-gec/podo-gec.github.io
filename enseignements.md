@@ -29,11 +29,19 @@ resp. Philippe Silar - 6 ects
 
 - Cours de M. Brun (10h)
 
-  - Tout sur *Saccharomyces cerevisiae*
+  - Un exemple de cellule eucaryote, Saccharomyces cerevisiae
+  - Biologie, Culture et Nutrition
+  - Synthèse et Structure des Macromolécules
+  - Insertion des Macromolécules dans la Physiologie Cellulaire
+  - Cycle et Division Cellulaire
+  - La Phase Stationnaire et autres conditions physiologiques
+  - La Reproduction Sexuée
+  - Utilisation de la Levure par l’Homme
 
 - Cours de M. Lalucque (10h)
 
-  - Comment le prion psi de *Saccharomyces cerevisiae* a été découvert et comment il a été analysé par une panoblie de méthodes génétiques, moléculaires, cytologiques, génomiques, biochimiques...
+  - Un exemple d’analyse d’un phénomène biologique utilisant un modèle de microbe eucaryote : le phénomène PSI chez la levure Saccharomyces cerevisiae
+  - Méthodes génétiques, génomiques, biochimiques et cytologiques
 
 - TD: présentations de groupes phylogénétiques par les étudiants et corrections d'annales 
 

@@ -58,3 +58,5 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 - Les présentations de [Microbiologie Eucaryote du L3S6 groupe 2](http://podo-gec.sdv.univ-paris-diderot.fr/presentations_groupes_2.zip)
 - [Annales de M1](http://podo-gec.sdv.univ-paris-diderot.fr/examenmicrobioeuc.zip) (Archive zip)
 - [Les présentations 2019-2020 du M1 microbio eucaryote](http://podo-gec.sdv.univ-paris-diderot.fr/présentations_M1.zip)
+- [Le cours sur les champignons de la licence Pro](http://gec.sdv.univ-paris-diderot.fr/docs/cours_licence_pro.pdf)
+- [le cours sur les biobanques/mycothèques de la licence Pro](http://gec.sdv.univ-paris-diderot.fr/docs/cours_Biobanque_%20champignons.pdf)

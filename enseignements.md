@@ -61,7 +61,7 @@ resp. Philippe Silar
 
 
 
-Le parcours est un des trois parcours du M2 de microbiologie du Master BMC de l'Université de Paris. Pour en savoir plus sur le M2 de Microbiologie cliquez ici.
+Le parcours est un des trois parcours du M2 de microbiologie du Master BMC de l'Université de Paris. Pour en savoir plus sur le M2 de Microbiologie [cliquez ici](https://www.master-bmc-universite-paris.fr/microbiologie-microbio/).
 
 2 UE sont spécifiques au parcours :
 

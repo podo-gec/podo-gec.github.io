@@ -1,15 +1,14 @@
 name: Bibliography
 
-on: 
-  push:
-    paths: 'publications.md'
+on: push
 
 jobs:
   convert_via_pandoc:
-    name: Convert via Pandoc
     runs-on: ubuntu-18.04
     steps:
-      - uses: actions/checkout@v1
-      - uses: maxheld83/pandoc@v2
+      - uses: docker://pandoc/core:2.9
         with:
-          args: "publications.md -o publications.docx"
+          args: |>
+            --standalone
+            --output=docs/publications.docx
+            publications.md

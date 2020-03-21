@@ -37,8 +37,9 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 **Nouveau et gratuit**
 
 - Le livre sur _Podospora anserina_ (ISBN 978-2-9555841-2-5), en [version PDF](https://hal.archives-ouvertes.fr/hal-02475488) gratuite<br>
-  ![Podospora anserina](static/img/pa.jpg)
-  **et toujours disponible gratuitement**
+  ![Podospora anserina](static/img/pa.jpg)  
+  <br>
+  **et toujours disponibles gratuitement**
 
 * Le livre sur les _Bases Fondamentales de la Biologie_ (ISBN 978-2-9555841-1-8), en [version PDF](https://hal.archives-ouvertes.fr/hal-01401263) gratuite<br>
   ![Bases Fondamentales de la Biologie](static/img/bfb.jpg)
@@ -58,3 +59,5 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 - Les présentations de [Microbiologie Eucaryote du L3S6 groupe 2](http://podo-gec.sdv.univ-paris-diderot.fr/presentations_groupes_2.zip)
 - [Annales de M1](http://podo-gec.sdv.univ-paris-diderot.fr/examenmicrobioeuc.zip) (Archive zip)
 - [Les présentations 2019-2020 du M1 microbio eucaryote](http://podo-gec.sdv.univ-paris-diderot.fr/présentations_M1.zip)
+- [Le cours sur les champignons de la licence Pro](http://gec.sdv.univ-paris-diderot.fr/docs/cours_licence_pro.pdf)
+- [le cours sur les biobanques/mycothèques de la licence Pro](http://gec.sdv.univ-paris-diderot.fr/docs/cours_Biobanque_%20champignons.pdf)

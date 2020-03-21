@@ -8,7 +8,4 @@ jobs:
     steps:
       - uses: docker://pandoc/core:2.9
         with:
-          args: |>
-            --standalone
-            --output=docs/publications.docx
-            publications.md
+          args: "--standalone --output=docs/publications.docx publications.md"

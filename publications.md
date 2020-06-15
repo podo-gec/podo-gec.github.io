@@ -232,6 +232,10 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 **2016**
 
+4- Philippe Silar (2020) **Podospora anserina**. En accès libre (https://hal.archives-ouvertes.fr/hal-02475488>) ISBN n°978-2-9555841-2-5
+
+**2016**
+
 3- Philippe Silar (2016) **Bases Fondamentales de la Biologie**. En accès libre (<https://hal.archives-ouvertes.fr/hal-01401263>) ISBN n°978-2-9555841-1-8
 
 2- Philippe Silar (2016) **Protistes Eucaryotes : Origine, Evolution et Biologie des Microbes Eucaryotes**. En accès libre (<https://hal.archives-ouvertes.fr/hal-01263138>) ISBN n°978-2-9555841-0-1

@@ -3,9 +3,9 @@ layout: page
 title: Publications
 feature_image: "../static/img/podospora_anserina_50pct.jpg"
 ---
-
+<br/><br/>
 ## Dans les revues à comité de lecture
-
+<br/><br/>
 **2019**
 
 88- Mercier A, Clairet C., Debychy R, Morais D. Silar P & Brun S (2019) The mitochondrial translocase of the inner membrane PaTim54 is involved in defense response and longevity in _Podospora anserina_. **Fung. Genet. Biol.** 132: 1032572.
@@ -227,7 +227,7 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 2- Jamet-Vierny C, Boulay J, Begel O & Silar P (1997) Contribution of various classes of defective mitochondrial DNA molecules to senescence in _Podospora anserina_. **Curr. Genet.** 31: 171-178.
 
 1- Jamet-Vierny C, Boulay J & Briand JF (1997) Intramolecular cross-overs generate deleted mitochondrial DNA molecules in _Podospora anserina_. **Curr. Genet.** 31: 162-170.
-
+<br/><br/>
 ## Livres
 
 **2016**
@@ -243,7 +243,7 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 **2013**
 
 1- Philippe Silar & Fabienne Malagnac (2013) **Les champignons redécouverts**. Ed. Belin. ISBN n°978-2701159027
-
+<br/><br/>
 ## Chapitres de livre
 
 **2019**
@@ -275,7 +275,7 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 2- Brun S & Silar P (2010) Convergent evolution of morphogenetic processes in fungi. In **Evolutionary Biology -- Concepts, Molecular and Morphological Evolution**. pp. 317-328.
 
 1- Debuchy R, Berteaux-Lecellier V & Silar P (2010) Mating Systems and Sexual Morphogenesis in Ascomycetes. In **Cellular and Molecular Biology of Filamentous Fungi**. K. Borkovich and D. Ebbole eds. pp. 501-535.
-
+<br/><br/>
 ## Autres
 
 6- Silar P (2013) La mycologie au début du 21 siècle : crise et renouveau. **Biol. Auj.** 207: 1-7.
@@ -315,7 +315,7 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 2- Storlazzi A, Gargano S, Ruprich-Robert G, Falque M, David M, Kleckner N & Zickler D (2010) Recombination proteins mediate meiotic spatial chromosome organization and pairing. **Cell** 141: 94-106.
 
 1- Padilla-Parra S, Audugé N, Lalucque H, Mevel JC, Coppey-Moisan M & Tramier M. (2009) Quantitative comparison of different fluorescent protein couples for fast FRET-FLIM acquisition. **Biophys J.** 97: 2368-2376.
-
+<br/><br/>
 ## Thèses du laboratoire
 
 - Thèse de Hervé Lalucque

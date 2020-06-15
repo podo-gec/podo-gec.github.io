@@ -144,7 +144,7 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 32- Lambou K, Malagnac F, Barbisan C, Tharreau D, Lebrun MH & Silar P (2008) The crucial role during ascospore germination of the Pls1 tetraspanin in Podospora anserina provides an example of the convergent evolution of morphogenetic processes in fungal plant pathogens and saprobes. **Euk. Cell** 7: 1809-1818.
 
-31- Espagne E*, Lespinet O*, Malagnac F*, Da Silva C, Jaillon O, Porcel BM, Couloux A, Aury J.M, Ségurens B, Poulain J, Anthouard V, Grossetete S, Khalili H, Coppin E, Déquard-Chablat M, Picard M, Contamine V, Arnaise S, Bourdais A, Berteaux-Lecellier V, Gautheret D, de Vries RP, Battaglia E, Coutinho PM, Danchin EGJ, Henrissat B, El Khoury R, Sainsard-Chanet A, Boivin A, Pinan-Lucarré B, Sellem C.H, Debuchy R, Wincker P, Weissenbach J & Silar P (2008) The Genome Sequence of the Model Ascomycete Fungus *Podospora anserina*. **Genome Biology** 9: R77. * These authors contributed equally to the work
+31- Espagne E$, Lespinet O$, Malagnac F$, Da Silva C, Jaillon O, Porcel BM, Couloux A, Aury J.M, Ségurens B, Poulain J, Anthouard V, Grossetete S, Khalili H, Coppin E, Déquard-Chablat M, Picard M, Contamine V, Arnaise S, Bourdais A, Berteaux-Lecellier V, Gautheret D, de Vries RP, Battaglia E, Coutinho PM, Danchin EGJ, Henrissat B, El Khoury R, Sainsard-Chanet A, Boivin A, Pinan-Lucarré B, Sellem C.H, Debuchy R, Wincker P, Weissenbach J & Silar P (2008) The Genome Sequence of the Model Ascomycete Fungus *Podospora anserina*. **Genome Biology** 9: R77. $ These authors contributed equally to the work
 
 **2007**
 

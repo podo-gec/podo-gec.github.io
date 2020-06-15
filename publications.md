@@ -266,7 +266,7 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 5- Cocaign A, Dairou J, Busi F, Silar P, Martins M, Mougin C, Rodrigues-Lima F & Dupret JM (2011) Pesticide-Derived Armatic Amines and Their Biotransformation. In **Pesticide in the Modern World**. Margarita Stoytcheva ed. pp 601-614.
 
-2010
+**2010**
 
 4- Malagnac F & Silar P (2010) Epigenetics of Eukaryotic Microbes. In **Handbook of Epigenetics**. Trygve Tollefsbol ed. pp. 185-201.
 

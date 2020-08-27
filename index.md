@@ -36,7 +36,7 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 
 **Nouveau et gratuit**
 
-* le livre de Génétique (ISBN ISBN 978-2-9555841-3-2), en [version PDF](https://hal.archives-ouvertes.fr/hal-02921475) gratuite<br>
+* le livre de Génétique (ISBN 978-2-9555841-3-2), en [version PDF](https://hal.archives-ouvertes.fr/hal-02921475) gratuite<br>
   ![Génétique](static/img/gen.jpg)
 
   **et toujours disponibles gratuitement**

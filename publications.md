@@ -232,6 +232,10 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 **2016**
 
+4- Philippe Silar (2020) **Génétique : Concepts de Base et Notions Approfondies**. En accès libre (<https://hal.archives-ouvertes.fr/hal-02921475>) ISBN 978-2-9555841-3-2
+
+**2016**
+
 4- Philippe Silar (2020) **Podospora anserina**. En accès libre (<https://hal.archives-ouvertes.fr/hal-02475488>) ISBN n°978-2-9555841-2-5
 
 **2016**

@@ -57,11 +57,5 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 
 ## Liens de téléchargements des cours pour les étudiants de l'Université de Paris
 
-- Le cours de [Génétique](http://podo-gec.sdv.univ-paris-diderot.fr/genetique/licence.html) de L3
-- Le cours de [Microbiologie Eucaryote du L3S6](http://podo-gec.sdv.univ-paris-diderot.fr/courslicenceIMVI.pdf) (format PDF)
-- Les présentations de [Microbiologie Eucaryote du L3S6 groupe 1](http://podo-gec.sdv.univ-paris-diderot.fr/presentations_groupes_1.zip)
-- Les présentations de [Microbiologie Eucaryote du L3S6 groupe 2](http://podo-gec.sdv.univ-paris-diderot.fr/presentations_groupes_2.zip)
+- Le cours de online de Génétique de L3 est pour l'instant inactif. Une nouvelle version sera mise en ligne prochainement. Elle reprend le cours en version PDF disponible ici: https://hal.archives-ouvertes.fr/hal-02921475
 - [Annales de M1](http://podo-gec.sdv.univ-paris-diderot.fr/examenmicrobioeuc.zip) (Archive zip)
-- [Les présentations 2019-2020 du M1 microbio eucaryote](http://podo-gec.sdv.univ-paris-diderot.fr/présentations_M1.zip)
-- [Le cours sur les champignons de la licence Pro](http://gec.sdv.univ-paris-diderot.fr/docs/cours_licence_pro.pdf)
-- [le cours sur les biobanques/mycothèques de la licence Pro](http://gec.sdv.univ-paris-diderot.fr/docs/cours_Biobanque_%20champignons.pdf)

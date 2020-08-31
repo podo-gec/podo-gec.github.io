@@ -6,9 +6,13 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 <br/><br/>
 ## Dans les revues à comité de lecture
 <br/><br/>
+**2020**
+
+89- Lorena Ament-Velásquez S., Johannesson H, Giraud T., Debuchy R., Saupe S.J., Debets  A.J.M., Bastiaans E., Malagnac F., Grognet P., Peraza-Reyes  L., Gladieux P., Kruys Å., Silar  P, Huhndorf S.M., Miller A. & Vogan A. (2020) The taxonomy of the model filamentous fungus _Podospora anserina_. **FMycoKeys** in the press.
+
 **2019**
 
-88- Mercier A, Clairet C., Debychy R, Morais D. Silar P & Brun S (2019) The mitochondrial translocase of the inner membrane PaTim54 is involved in defense response and longevity in _Podospora anserina_. **Fung. Genet. Biol.** 132: 1032572.
+88- Mercier A, Clairet C., Debuchy R, Morais D. Silar P & Brun S (2019) The mitochondrial translocase of the inner membrane PaTim54 is involved in defense response and longevity in _Podospora anserina_. **Fung. Genet. Biol.** 132: 1032572.
 
 87- Demoor A, Silar P & Brun S (2019) Appressorium: The Breakthrough in Dikarya. **J. Fungi** 5(3): 72.
 

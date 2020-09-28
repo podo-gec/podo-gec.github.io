@@ -58,6 +58,7 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 ## Liens de téléchargements des cours pour les étudiants de l'Université de Paris
 
 - Le cours de online de [Génétique de Licence](http://gec.sdv.univ-paris-diderot.fr/cours/genetique/). Il reprend le cours en version PDF disponible [ici]( https://hal.archives-ouvertes.fr/hal-02921475). Ce cours contient encore des coquilles: merci de me les signaler... [ici](mailto:philippe.silar@univ-paris-diderot.fr)
+- Les diapos du [cours sur les Types sexuels (genetique de L3S5, cours de M. Silar)](podo-gec.sdv.univ-paris-diderot.fr/coursgénétiqueL3S5.pdf)
 - [Annales de M1](http://podo-gec.sdv.univ-paris-diderot.fr/examenmicrobioeuc.zip) (Archive zip)
 - [cours de licence pro sur les champignons](http://podo-gec.sdv.univ-paris-diderot.fr/courslicencepro.pdf)
 - [cours de licence pro sur les biobanques](http://podo-gec.sdv.univ-paris-diderot.fr/Biobanque.pdf)

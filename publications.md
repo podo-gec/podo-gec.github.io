@@ -8,6 +8,8 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 <br/><br/>
 **2020**
 
+91- Dicko M., Ferrari R., Tangthirasunun N., Gautier V., Lalanne C., Lamari F. & Silar P. (2020) Lignin degradation and its use in signaling development by the coprophilous ascomycete _Podospora anserina_. **Journal of Fungi** in the press.
+
 90- Hartmann F.E., Duhamel M., Carpentier F, Hood M.E., Foulongne-Oriol M., Silar P., Malagnac F., Grognet P. & Giraud T (2020) Pervasive recombination suppression around mating-type loci in fungi: documenting patterns and understanding evolutionary and proximal causes. **New Phytologist** in the press.
 
 

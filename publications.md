@@ -6,12 +6,15 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 <br/><br/>
 ## Dans les revues à comité de lecture
 <br/><br/>
+**2021**
+
+92- Valette N., Renou J., Boutilliat A., Fernández‐González A.J., Gautier V., Silar P., Guyeux C., Charr J.-C., Cuenot S., Rose C., Gelhaye E. &  Morel‐Rouhier M. (2021) OSIP1 is a self‐assembling DUF3129 protein required to protect fungal cells from toxins and stressors. **Env. Microbiol.** in the press.
+
+91- Hartmann F.E., Duhamel M., Carpentier F, Hood M.E., Foulongne-Oriol M., Silar P., Malagnac F., Grognet P. & Giraud T (2021) Pervasive recombination suppression around mating-type loci in fungi: documenting patterns and understanding evolutionary and proximal causes. **New Phytologist** in the press.
+
 **2020**
 
-91- Dicko M., Ferrari R., Tangthirasunun N., Gautier V., Lalanne C., Lamari F. & Silar P. (2020) Lignin degradation and its use in signaling development by the coprophilous ascomycete _Podospora anserina_. **Journal of Fungi** 6:278.
-
-90- Hartmann F.E., Duhamel M., Carpentier F, Hood M.E., Foulongne-Oriol M., Silar P., Malagnac F., Grognet P. & Giraud T (2020) Pervasive recombination suppression around mating-type loci in fungi: documenting patterns and understanding evolutionary and proximal causes. **New Phytologist** in the press.
-
+90- Dicko M., Ferrari R., Tangthirasunun N., Gautier V., Lalanne C., Lamari F. & Silar P. (2020) Lignin degradation and its use in signaling development by the coprophilous ascomycete _Podospora anserina_. **Journal of Fungi** 6:278.
 
 89- Lorena Ament-Velásquez S., Johannesson H, Giraud T., Debuchy R., Saupe S.J., Debets  A.J.M., Bastiaans E., Malagnac F., Grognet P., Peraza-Reyes  L., Gladieux P., Kruys Å., Silar  P, Huhndorf S.M., Miller A. & Vogan A. (2020) The taxonomy of the model filamentous fungus _Podospora anserina_. **MycoKeys** 75:51-69.
 

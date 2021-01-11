@@ -61,4 +61,5 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 - Les diapos du [cours sur les Types sexuels (genetique de L3S5, cours de M. Silar)](http://podo-gec.sdv.univ-paris-diderot.fr/coursgénétiqueL3S5.pdf)
 - [Annales de M1](http://podo-gec.sdv.univ-paris-diderot.fr/examenmicrobioeuc.zip) (Archive zip)
 - [cours de L2 sur la biologie des champignons](http://podo-gec.sdv.univ-paris-diderot.fr/coursL2 myco.pdf)
+- [cours de L3 IMVI sur les microbes eucaryotes](http://podo-gec.sdv.univ-paris-diderot.fr/IMVI.pdf)
 

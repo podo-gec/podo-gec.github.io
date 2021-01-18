@@ -16,7 +16,7 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 Membres invités
 
-- Paradis Aymeric
+- PARADIS Aymeric
 - LEVERT Emilie
 
 ## Anciens membres

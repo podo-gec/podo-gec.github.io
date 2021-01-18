@@ -14,7 +14,7 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 - [LALANNE Christophe](christophe.lalanne@univ-paris-diderot.fr), IR Univ. Paris 7
 - [DEMOOR Alexander](alex.demoor@gmail.com), Doctorant Univ. Paris 7
 
-Membres invités
+**Membres invités**
 
 - PARADIS Aymeric
 - LEVERT Emilie
@@ -57,9 +57,9 @@ Membres invités
 - GIRODET Charlène, Stagiaire MASTER 2
 - DELAITRE François, Stagiaire MASTER 2
 - IVANOFF Dimitri, Stagiaire MASTER 2
-- FOREST Thomas,Stagiaire MASTER 2 
+- FOREST Thomas, Stagiaire MASTER 2
 
-## Anciens Membres Associés:
+## Anciens Membres Associés
 
 - GRAZIANI Stéphane, doctorant Univ. P11 Sud
 - MARTINS Marta, doctorante Univ. P7 Denis Diderot

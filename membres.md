@@ -59,6 +59,7 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 - IVANOFF Dimitri, Stagiaire MASTER 2
 - FOREST Thomas, Stagiaire MASTER 2
 
+
 ## Anciens Membres Associés
 
 - GRAZIANI Stéphane, doctorant Univ. P11 Sud

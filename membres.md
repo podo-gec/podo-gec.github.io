@@ -7,17 +7,13 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 ## Equipe actuelle
 
 - [SILAR Philippe](mailto:philippe.silar@univ-paris-diderot.fr), professeur Univ. P7 Denis Diderot (resp. eq.) habilité à diriger les recherches
-- [BRUN Sylvain](mailto:sylvain.brun@univ-paris-diderot.fr), maître de conférences Univ. P7 Denis Diderot
-- [FERRARI Roselyne](mailto:ferrari@ipgp.fr), maître de conférences Univ. P7 Denis Diderot
-- [GAUTIER Valérie](mailto:valerie.gautier@univ-paris-diderot.fr), IE Univ. paris 7
-- [CANGEMI Sylvie](mailto:sylvie.cangemi@univ-paris-diderot.fr), AGT Univ. Paris 7
-- [LALANNE Christophe](mailto:christophe.lalanne@univ-paris-diderot.fr), IR Univ. Paris 7
-- [DEMOOR Alexander](mailto:alex.demoor@gmail.com), Doctorant Univ. Paris 7
-
-## Membres invités
-
-- PARADIS Aymeric
-- LEVERT Emilie
+- [BRUN Sylvain](sylvain.brun@univ-paris-diderot.fr), maître de conférences Univ. P7 Denis Diderot
+- [FERRARI Roselyne](ferrari@ipgp.fr), maître de conférences Univ. P7 Denis Diderot
+- [GAUTIER Valérie](valerie.gautier@univ-paris-diderot.fr), IE Univ. paris 7
+- [CANGEMI Sylvie](sylvie.cangemi@univ-paris-diderot.fr), AGT Univ. Paris 7
+- [LALANNE Christophe](christophe.lalanne@univ-paris-diderot.fr), IR Univ. Paris 7
+- [DEMOOR Alexander](alex.demoor@gmail.com), Doctorant Univ. Paris 7
+- [FOREST Thomas](thomas.forest@etu.univ-paris-diderot.fr), M2 Bioinformatique Univ. Paris 7
 
 ## Anciens membres
 
@@ -57,9 +53,8 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 - GIRODET Charlène, Stagiaire MASTER 2
 - DELAITRE François, Stagiaire MASTER 2
 - IVANOFF Dimitri, Stagiaire MASTER 2
-- FOREST Thomas, Stagiaire MASTER 2
 
-## Anciens Membres Associés
+## Anciens Membres Associés:
 
 - GRAZIANI Stéphane, doctorant Univ. P11 Sud
 - MARTINS Marta, doctorante Univ. P7 Denis Diderot

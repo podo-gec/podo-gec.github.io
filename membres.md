@@ -15,6 +15,8 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 - [DEMOOR Alexander](alex.demoor@gmail.com), Doctorant Univ. Paris 7
 - PARADIS Aymeric, M2 Microbiologie, Université de paris
 
+membre associé
+- LEVERT Emilie, IE
 
 ## Anciens membres
 

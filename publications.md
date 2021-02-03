@@ -12,7 +12,7 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 92- Valette N., Renou J., Boutilliat A., Fernández‐González A.J., Gautier V., Silar P., Guyeux C., Charr J.-C., Cuenot S., Rose C., Gelhaye E. &  Morel‐Rouhier M. (2021) OSIP1 is a self‐assembling DUF3129 protein required to protect fungal cells from toxins and stressors. **Env. Microbiol.** in the press.
 
-91- Hartmann F.E., Duhamel M., Carpentier F, Hood M.E., Foulongne-Oriol M., Silar P., Malagnac F., Grognet P. & Giraud T (2021) Pervasive recombination suppression around mating-type loci in fungi: documenting patterns and understanding evolutionary and proximal causes. **New Phytologist** in the press.
+91- Hartmann F.E., Duhamel M., Carpentier F, Hood M.E., Foulongne-Oriol M., Silar P., Malagnac F., Grognet P. & Giraud T (2021) Pervasive recombination suppression around mating-type loci in fungi: documenting patterns and understanding evolutionary and proximal causes. **New Phytologist** 229 (5): 2470-2491.
 
 **2020**
 

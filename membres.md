@@ -13,7 +13,8 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 - [CANGEMI Sylvie](sylvie.cangemi@univ-paris-diderot.fr), AGT Univ. Paris 7
 - [LALANNE Christophe](christophe.lalanne@univ-paris-diderot.fr), IR Univ. Paris 7
 - [DEMOOR Alexander](alex.demoor@gmail.com), Doctorant Univ. Paris 7
-- [FOREST Thomas](thomas.forest@etu.univ-paris-diderot.fr), M2 Bioinformatique Univ. Paris 7
+- PARADIS Aymeric, M2 Microbiologie, Université de paris
+
 
 ## Anciens membres
 
@@ -53,6 +54,7 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 - GIRODET Charlène, Stagiaire MASTER 2
 - DELAITRE François, Stagiaire MASTER 2
 - IVANOFF Dimitri, Stagiaire MASTER 2
+- FOREST Thomas, Stagiaire MASTER 2
 
 ## Anciens Membres Associés:
 

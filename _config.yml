@@ -20,7 +20,7 @@ plugins:
   - jekyll-default-layout
   - jekyll-feed
   - jemoji
-  - jekyll-remote-theme
+  - jekyll-remote-theme@main
 
 # Setup
 title: "LIED UMR 8236 – GEC"

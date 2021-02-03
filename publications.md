@@ -8,6 +8,8 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 <br/><br/>
 **2021**
 
+93- Hartmann F.E., , Ament-Velásquez S.L., Vogan A.A., Gautier V., Le Prieur S., Berramdane M., Snirc A., Johannesson H., Grognet P, Malagnac F., Silar P. & Giraud T. (2021) Size variation of the non-recombining region on the mating-type chromosomes in the fungal *Podospora anserina* species complex. ** Mol. Biol. Evol.** in the press.
+
 92- Valette N., Renou J., Boutilliat A., Fernández‐González A.J., Gautier V., Silar P., Guyeux C., Charr J.-C., Cuenot S., Rose C., Gelhaye E. &  Morel‐Rouhier M. (2021) OSIP1 is a self‐assembling DUF3129 protein required to protect fungal cells from toxins and stressors. **Env. Microbiol.** in the press.
 
 91- Hartmann F.E., Duhamel M., Carpentier F, Hood M.E., Foulongne-Oriol M., Silar P., Malagnac F., Grognet P. & Giraud T (2021) Pervasive recombination suppression around mating-type loci in fungi: documenting patterns and understanding evolutionary and proximal causes. **New Phytologist** in the press.

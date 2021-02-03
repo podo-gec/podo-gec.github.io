@@ -8,7 +8,7 @@ exclude:
   - Gemfile.lock
 
 # Theme
-remote_theme: daviddarnes/alembic
+remote_theme: daviddarnes/alembic@main
 
 # Set plugins
 plugins:
@@ -20,7 +20,7 @@ plugins:
   - jekyll-default-layout
   - jekyll-feed
   - jemoji
-  - jekyll-remote-theme@main
+  - jekyll-remote-theme
 
 # Setup
 title: "LIED UMR 8236 – GEC"

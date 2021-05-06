@@ -8,6 +8,8 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 <br/><br/>
 **2021**
 
+95- Gautier V., Levert E., Giraud T. & Silar P. (2021) Important role of melanin for fertility in the fungus *Podospora anserina*. **G3** in the press.
+
 94- Vogan A., Miller A.N. & Silar P. (2021) Proposal to change the conserved type of Podospora, nom. cons. (Ascomycota). **Taxon** 70(2): 429-430.
 
 93- Hartmann F.E., , Ament-Velásquez S.L., Vogan A.A., Gautier V., Le Prieur S., Berramdane M., Snirc A., Johannesson H., Grognet P, Malagnac F., Silar P. & Giraud T. (2021) Size variation of the non-recombining region on the mating-type chromosomes in the fungal *Podospora anserina* species complex. **Mol. Biol. Evol.** in the press.

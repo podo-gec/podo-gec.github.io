@@ -12,7 +12,7 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 94- Vogan A., Miller A.N. & Silar P. (2021) Proposal to change the conserved type of Podospora, nom. cons. (Ascomycota). **Taxon** 70(2): 429-430.
 
-93- Hartmann F.E., , Ament-Velásquez S.L., Vogan A.A., Gautier V., Le Prieur S., Berramdane M., Snirc A., Johannesson H., Grognet P, Malagnac F., Silar P. & Giraud T. (2021) Size variation of the non-recombining region on the mating-type chromosomes in the fungal *Podospora anserina* species complex. **Mol. Biol. Evol.** in the press.
+93- Hartmann F.E., , Ament-Velásquez S.L., Vogan A.A., Gautier V., Le Prieur S., Berramdane M., Snirc A., Johannesson H., Grognet P, Malagnac F., Silar P. & Giraud T. (2021) Size variation of the non-recombining region on the mating-type chromosomes in the fungal *Podospora anserina* species complex. **Mol. Biol. Evol.** 38(6):2475-2492.
 
 92- Valette N., Renou J., Boutilliat A., Fernández‐González A.J., Gautier V., Silar P., Guyeux C., Charr J.-C., Cuenot S., Rose C., Gelhaye E. &  Morel‐Rouhier M. (2021) OSIP1 is a self‐assembling DUF3129 protein required to protect fungal cells from toxins and stressors. **Env. Microbiol.** 23(3):1594-1607.
 

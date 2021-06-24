@@ -12,7 +12,6 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 - [GAUTIER Valérie](valerie.gautier@univ-paris-diderot.fr), IE Univ. paris 7
 - [CANGEMI Sylvie](sylvie.cangemi@univ-paris-diderot.fr), AGT Univ. Paris 7
 - [LALANNE Christophe](christophe.lalanne@univ-paris-diderot.fr), IR Univ. Paris 7
-- [DEMOOR Alexander](alex.demoor@gmail.com), Doctorant Univ. Paris 7
 - PARADIS Aymeric, M2 Microbiologie, Université de paris
 
 membre associé
@@ -36,6 +35,7 @@ membre associé
 - XIE Ning, doctorant Univ. P7 Denis Diderot + postdoc (2010-2014)
 - TANGTHIRASUNUN Narumon, doctorante (2011-2014) et Postdoctorante Ambassade de France Bangkok
 - NGUYEN Tinh-Suong, Doctorante (2015-2018)
+- DEMOOR Alexander, Doctorant Univ. Paris 7 (2017-2021)
 - BROZZATTI Lorenzo, Thèse d’exercice Erasmus (2014)
 - GANESAN Latha Prabha, postdoctorant (2000-2001)
 - SOBERING Andrew K, postdoctorant (2002)

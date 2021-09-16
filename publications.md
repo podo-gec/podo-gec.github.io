@@ -268,7 +268,7 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 **2021**
 
-10- Ferrari R, Gautier V & Silar P (2021) Lignin degradation by ascomycetes. In **Advances in Botanical Research** 99: In the press.
+10- Ferrari R, Gautier V & Silar P (2021) Lignin degradation by ascomycetes. In **Advances in Botanical Research** 99: 77-113.
 
 **2019**
 

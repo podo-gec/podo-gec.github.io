@@ -7,7 +7,6 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 ## Equipe actuelle
 
 - [SILAR Philippe](mailto:philippe.silar@univ-paris-diderot.fr), professeur Univ. P7 Denis Diderot (resp. eq.) habilité à diriger les recherches
-- [BRUN Sylvain](sylvain.brun@univ-paris-diderot.fr), maître de conférences Univ. P7 Denis Diderot
 - [FERRARI Roselyne](ferrari@ipgp.fr), maître de conférences Univ. P7 Denis Diderot
 - [GAUTIER Valérie](valerie.gautier@univ-paris-diderot.fr), IE Univ. paris 7
 - [CANGEMI Sylvie](sylvie.cangemi@univ-paris-diderot.fr), AGT Univ. Paris 7
@@ -26,6 +25,7 @@ membre associé
 - LALUCQUE Hervé, maître de conférences Univ. P7 Denis Diderot (2007-2015)
 - CHAPELAND-LECLERC Florence, maître de conférences Univ. P5 René Descartes, Habilitée à Diriger les Recherches (2009-2015)
 - RUPRICH-ROBERT Gwenaël, maître de conférences Univ. P5 René Descartes (2009-2015)
+- BRUN Sylvain, maître de conférences Univ. P7 Denis Diderot (2007-2021)
 - DAUGET Jean-Marc, IE Univ. paris 7 (2015-2019)
 - GAGNY Bénédicte, doctorante (1994-1998)
 - LALUCQUE Hervé, doctorant (1998-2002)

@@ -7,13 +7,13 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 ## Equipe actuelle
 
 - [SILAR Philippe](mailto:philippe.silar@univ-paris-diderot.fr), professeur Univ. P7 Denis Diderot (resp. eq.) habilité à diriger les recherches
-- [FERRARI Roselyne](ferrari@ipgp.fr), maître de conférences Univ. P7 Denis Diderot
-- [GAUTIER Valérie](valerie.gautier@univ-paris-diderot.fr), IE Univ. paris 7
-- [CANGEMI Sylvie](sylvie.cangemi@univ-paris-diderot.fr), AGT Univ. Paris 7
-- [LALANNE Christophe](christophe.lalanne@univ-paris-diderot.fr), IR Univ. Paris 7
+- [FERRARI Roselyne](mailto:ferrari@ipgp.fr), maître de conférences Univ. P7 Denis Diderot
+- [GAUTIER Valérie](mailto:valerie.gautier@univ-paris-diderot.fr), IE Univ. paris 7
+- [CANGEMI Sylvie](mailto:sylvie.cangemi@univ-paris-diderot.fr), AGT Univ. Paris 7
+- [LALANNE Christophe](mailto:christophe.lalanne@univ-paris-diderot.fr), IR Univ. Paris 7
 - PARADIS Aymeric, M2 Microbiologie, Université de paris
 
-membre associé
+**Membre associé**
 - LEVERT Emilie, IE
 
 ## Anciens membres

@@ -302,7 +302,7 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 <br/><br/>
 ## Autres
 
-7- Silar P (2020) À la découverte des microbes - I : un aperçu de leur classification. Bulletin de la Société linnéenne Nord-Picardie. 38 : 3-7.
+7- Silar P (2020) À la découverte des microbes - I : un aperçu de leur classification. **Bulletin de la Société linnéenne Nord-Picardie** 38 : 3-7.
 
 6- Silar P (2013) La mycologie au début du 21 siècle : crise et renouveau. **Biol. Auj.** 207: 1-7.
 

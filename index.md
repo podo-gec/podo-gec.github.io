@@ -61,4 +61,4 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 - [Les présentations de M1](http://podo-gec.sdv.univ-paris-diderot.fr/présentationsM1.zip)
 - [Annales de M1](http://podo-gec.sdv.univ-paris-diderot.fr/examenmicrobioeuc.zip) (Archive zip)
 - [Le cours de la L3 Pro](http://podo-gec.sdv.univ-paris-diderot.fr/courslicencepro.pdf)
-
+- [Le cours de la L3 Pro sur les biobanques](http://podo-gec.sdv.univ-paris-diderot.fr/coursBiobanquechampignons.pdf)

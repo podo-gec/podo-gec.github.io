@@ -67,7 +67,7 @@ Le parcours est un des trois parcours du M2 de microbiologie du Master BMC de l'
 
 **I- UE outils modernes en mycologie** - 6 ects
 
-- **A - Acquisition de notions approfondies de la biologie, de la diversité et de la classification des **champignons**
+- **A - Acquisition de notions approfondies de la biologie, de la diversité et de la classification des champignons**
 
   Programme du cours 2019-2020
 

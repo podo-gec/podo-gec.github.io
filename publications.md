@@ -6,6 +6,10 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 <br/><br/>
 ## Dans les revues à comité de lecture
 <br/><br/>
+**2022**
+
+96- Nguyen TS, Gautier V., Chan Ho Tong L. & Silar P. (2022) A gene cluster with positive and negative elements controls bistability and hysteresis of the Crippled versus Normal growth in the fungus *Podospora anserina*. **Fung. Fenet. Biol.** In the press.
+
 **2021**
 
 95- Gautier V., Levert E., Giraud T. & Silar P. (2021) Important role of melanin for fertility in the fungus *Podospora anserina*. **G3** 11(8), jkab159.

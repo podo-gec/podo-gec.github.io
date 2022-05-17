@@ -270,6 +270,10 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 <br/><br/>
 ## Chapitres de livre
 
+**2022**
+
+11- Silar P (2022) Prions and Prion-like Phenomena in Epigenetic Inheritance. In **Handbook of Epigenetics: The New Molecular and Medical Genetics** (3rd edition). Trygve Tollefsbol ed., In the press.
+
 **2021**
 
 10- Ferrari R, Gautier V & Silar P (2021) Lignin degradation by ascomycetes. In **Advances in Botanical Research** 99: 77-113.

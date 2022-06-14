@@ -65,36 +65,39 @@ Le parcours est un des trois parcours du M2 de microbiologie du Master BMC de l'
 
 2 UE sont spécifiques au parcours :
 
-**I- UE outils modernes en mycologie** - 6 ects
+**I- UE Outils modernes d’analyse de la biodiversité fongique** - 6 ects
 
 - **A - Acquisition de notions approfondies de la biologie, de la diversité et de la classification des champignons**
 
-  Programme du cours 2019-2020
+  Programme du cours 2022-2023
 
+  - Généralités, Styles de vie fongique (P. Silar, LIED)
   - Diversité, phylogénie et classification (P. Silar, LIED) 
   - Programmes de développement (P. Silar, LIED) 
   - Evolution des génomes fongiques (P. Silar, LIED)  
-  - Physiologie des levures (Sylvain Brun, LIED) 
-  - Dégradation de la biomasse (Sylvain Brun, LIED) 
-  - Champignons Phytopathogènes (1 jour à Bioger)
-  - Résistance aux stress (Mélanie Morel-Rouhier, Univ. Nancy)
-  - Mycoses humaines (2 jours à Pasteur)
-  - Types sexuels (R. Debuchy, CNRS Orsay)
-  - Champignons mutualistes de végétaux : mycorhizes (Annegret Koehler, INRA Nancy) 
-  - Métabolites secondaires et Mycotoxines (Hervé Lalucque, LIED) 
-  - Mécanismes de spéciations (fanny Hartmann, ESE Orsay)
+  - L'exemple des *Sordariales* (P. Silar, LIED)
 
 
-- **B - Biodiversité des Microorganismes Eucaryotes - Acquisition des méthodes pour isoler, conserver et identifier les microbes eucaryotes, particulièrement les champignons**
-  - Isolement de champignons à partir d’échantillons divers. Extraction d’ADN et identification moléculaire (séquençage ITS) des isolats. 
-  - Notions de phylogénie et constructions d'arbres phylogénétiques
-  - Première approches de génomiques: assemblage de génome, de transcriptomes et analyses quantitives de transcriptomes
+- **B - Biodiversité des Microorganismes Eucaryotes - Acquisition des méthodes pour étudier les Big Data (génomique, transcriptomique, métagénomique) pertinents aux champignons**
+  
+  - Notions de bioinformatiques, phylogénie et constructions d'arbres phylogénétiques : 2 TD de 2.5 h
+  - Première approches de génomiques: assemblage de génome, de transcriptomes et analyses quantitives de transcriptomes (atelier pratique d'une semaine)
 
 
 
-**II- UE cours en laboratoire:** **Acquisition des méthodes de génétique et biologie moléculaire permettant de travailler avec les champignons** **filamenteux** - 12 ects
+**II- UE en partenariat avec Sorbonne Université:**BIOLOGIE MOLECULAIRE ET CELLULAIRE DES AGENTS INFECTIEUX ET DE LA CELLULE HOTE** - 12 ects
 
-- Délétion de gènes chez *Podospora anserina*. Analyse physiologique, biochimique et cytologique des phénotypes provoqués. Validation moléculaire de l'évènement de délétion par PCR et Southern Blot. Chaque étudiant délète son gène.
+a) Objectifs de l'Unité d'Enseignement 
+Ce  module  est  le  premier  module  du  parcours  de M2 Parasitologie/Mycologie  fondamentale  et médicale de Sorbonne Université .  Son objectif  est  la  formation  des  personnes  qui  auront  en  charge  la  lutte  contre  les  maladies parasitaires et fongiques, qu’elles soient humaines ou animales. Cette formation passe par une meilleure  connaissance,  au  niveau  cellulaire  et  moléculaire,  du  parasite,  du  phénomène parasitaire et des interactions hôte-parasite. Les outils de la biologie cellulaire et de la biologie moléculaire  ont  permis  dernièrement  des  avancées  remarquables  dans  la  connaissance  des agents et processus parasitaires. Ce savoir est la base indispensable aux parasitologues, qu’ils soient  fondamentalistes  ou  plus  impliqués  dans  une  démarche  clinique,  diagnostique, thérapeutique  ou  encore  dans  des  actions  de  valorisation.  Il  leur  permettra  de  mieux appréhender la physiopathologie des maladies parasitaires et fongiques et d’aborder sur une base rationnelle les stratégies vaccinales et thérapeutiques. Le module s’achève par un exposé des  étudiants  (validation  du  module  sous  forme  d’une  analyse  critique  de  projets  et/ou d’articles scientifiques).  
+ 
+b) Thèmes abordés  
+Evolution,  phylogénie,  relation  génotypes/phénotypes,  diversité  etc.  application  aux parasites  
+Parasites  et  Champignons:  génome,  banque  de  données,  expression  génique, transcriptome, protéome, analyse bio-informatique Etude de la variation antigénique, systèmes d’échappement
+Régulation de la transcription et ARN interférence dans l’analyse de la biologie cellulaire de protozoaires parasites 
+Physiopathologie des infections fongiques 
+Mobilité de protozoaires parasites et processus pathogène 
+Molécules de surface et mécanismes de transport 
+Mécanismes d’action de molécules antiparasitaires et résistances 
 
   <br>
 

@@ -80,8 +80,8 @@ Le parcours est un des trois parcours du M2 de microbiologie du Master BMC de l'
 
 - **B - Biodiversité des Microorganismes Eucaryotes - Acquisition des méthodes pour étudier les Big Data (génomique, transcriptomique, métagénomique) pertinents aux champignons**
   
-  - Notions de bioinformatiques, phylogénie et constructions d'arbres phylogénétiques : 2 TD de 2.5 h
-  - Première approches de génomiques: assemblage de génome, de transcriptomes et analyses quantitives de transcriptomes (atelier pratique d'une semaine)
+  - Notions de bioinformatiques, phylogénie et constructions d'arbres phylogénétiques : 2 TD de 2.5 h (Christophe Lalanne)
+  - Première approches de génomiques: assemblage de génome, de transcriptomes et analyses quantitives de transcriptomes (atelier pratique d'une semaine: Christophe Lalanne & Philippe Silar)
 
 
 

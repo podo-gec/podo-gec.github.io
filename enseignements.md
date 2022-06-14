@@ -93,12 +93,18 @@ a) Objectifs de l'Unité d'Enseignement
 Ce  module  est  le  premier  module  du  parcours  de M2 Parasitologie/Mycologie  fondamentale  et médicale de Sorbonne Université .  Son objectif  est  la  formation  des  personnes  qui  auront  en  charge  la  lutte  contre  les  maladies parasitaires et fongiques, qu’elles soient humaines ou animales. Cette formation passe par une meilleure  connaissance,  au  niveau  cellulaire  et  moléculaire,  du  parasite,  du  phénomène parasitaire et des interactions hôte-parasite. Les outils de la biologie cellulaire et de la biologie moléculaire  ont  permis  dernièrement  des  avancées  remarquables  dans  la  connaissance  des agents et processus parasitaires. Ce savoir est la base indispensable aux parasitologues, qu’ils soient  fondamentalistes  ou  plus  impliqués  dans  une  démarche  clinique,  diagnostique, thérapeutique  ou  encore  dans  des  actions  de  valorisation.  Il  leur  permettra  de  mieux appréhender la physiopathologie des maladies parasitaires et fongiques et d’aborder sur une base rationnelle les stratégies vaccinales et thérapeutiques. Le module s’achève par un exposé des  étudiants  (validation  du  module  sous  forme  d’une  analyse  critique  de  projets  et/ou d’articles scientifiques).  
  
 b) Thèmes abordés  
-  Evolution,  phylogénie,  relation  génotypes/phénotypes,  diversité  etc.  application  aux parasites  
+  Evolution,  phylogénie,  relation  génotypes/phénotypes,  diversité  etc.  application  aux parasites 
+  
   Parasites  et  Champignons:  génome,  banque  de  données,  expression  génique, transcriptome, protéome, analyse bio-informatique Etude de la variation antigénique, systèmes d’échappement
+  
   Régulation de la transcription et ARN interférence dans l’analyse de la biologie cellulaire de protozoaires parasites
+  
   Physiopathologie des infections fongiques
+  
   Mobilité de protozoaires parasites et processus pathogène
+  
   Molécules de surface et mécanismes de transport
+  
   Mécanismes d’action de molécules antiparasitaires et résistances 
 
   <br>

@@ -86,6 +86,8 @@ Le parcours est un des trois parcours du M2 de microbiologie du Master BMC de l'
 
 
 **II- UE en partenariat avec Sorbonne Université:**BIOLOGIE MOLECULAIRE ET CELLULAIRE DES AGENTS INFECTIEUX ET DE LA CELLULE HOTE** - 12 ects
+  
+  équipe pédagogique: Christophe Hennequin, Olivier Silvie & Valérie Soulard - Code de l’UE : 5V641 
 
 a) Objectifs de l'Unité d'Enseignement 
 Ce  module  est  le  premier  module  du  parcours  de M2 Parasitologie/Mycologie  fondamentale  et médicale de Sorbonne Université .  Son objectif  est  la  formation  des  personnes  qui  auront  en  charge  la  lutte  contre  les  maladies parasitaires et fongiques, qu’elles soient humaines ou animales. Cette formation passe par une meilleure  connaissance,  au  niveau  cellulaire  et  moléculaire,  du  parasite,  du  phénomène parasitaire et des interactions hôte-parasite. Les outils de la biologie cellulaire et de la biologie moléculaire  ont  permis  dernièrement  des  avancées  remarquables  dans  la  connaissance  des agents et processus parasitaires. Ce savoir est la base indispensable aux parasitologues, qu’ils soient  fondamentalistes  ou  plus  impliqués  dans  une  démarche  clinique,  diagnostique, thérapeutique  ou  encore  dans  des  actions  de  valorisation.  Il  leur  permettra  de  mieux appréhender la physiopathologie des maladies parasitaires et fongiques et d’aborder sur une base rationnelle les stratégies vaccinales et thérapeutiques. Le module s’achève par un exposé des  étudiants  (validation  du  module  sous  forme  d’une  analyse  critique  de  projets  et/ou d’articles scientifiques).  

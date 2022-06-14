@@ -85,7 +85,7 @@ Le parcours est un des trois parcours du M2 de microbiologie du Master BMC de l'
 
 
 
-**II- UE en partenariat avec Sorbonne Université:**BIOLOGIE MOLECULAIRE ET CELLULAIRE DES AGENTS INFECTIEUX ET DE LA CELLULE HOTE** - 12 ects
+**II- UE en partenariat avec Sorbonne Université:BIOLOGIE MOLECULAIRE ET CELLULAIRE DES AGENTS INFECTIEUX ET DE LA CELLULE HOTE** - 12 ects
   
   équipe pédagogique: Christophe Hennequin, Olivier Silvie & Valérie Soulard - Code de l’UE : 5V641 
 

@@ -9,8 +9,8 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 - [SILAR Philippe](mailto:philippe.silar@univ-paris-diderot.fr), professeur Université de Paris Cité (resp. eq.) habilité à diriger les recherches
 - [FERRARI Roselyne](mailto:ferrari@ipgp.fr), maître de conférences Université de Paris Cité
 - [GAUTIER Valérie](mailto:valerie.gautier@univ-paris-diderot.fr), IE Université de Paris Cité
-- [CANGEMI Sylvie](mailto:sylvie.cangemi@univ-paris-diderot.fr), AGT Université de Paris Cité
 - [LALANNE Christophe](mailto:christophe.lalanne@univ-paris-diderot.fr), IR Université de Paris Cité
+- [RENAULT Aurélien](mailto:aurelien.renault@u-paris.fr), AGT Université de Paris Cité
 - PARADIS Aymeric, Doctorant, Université de Paris Cité
 
 **Membre associé**
@@ -18,15 +18,17 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 ## Anciens membres
 
-- ROSSIGNOL Michèle, IE CNRS (1994-1999)
-- HAEDENS Vicki, IE CNRS (1997-2004)
 - JAMET-VIERNY Corinne, maître de conférences (1997-2004)
 - MALAGNAC Fabienne, maître de conférences Univ. P7 Denis Diderot, Habilitée à Diriger les Recherches (2002-2014)
 - LALUCQUE Hervé, maître de conférences Univ. P7 Denis Diderot (2007-2015)
 - CHAPELAND-LECLERC Florence, maître de conférences Univ. P5 René Descartes, Habilitée à Diriger les Recherches (2009-2015)
 - RUPRICH-ROBERT Gwenaël, maître de conférences Univ. P5 René Descartes (2009-2015)
 - BRUN Sylvain, maître de conférences Univ. P7 Denis Diderot (2007-2021)
+- ROSSIGNOL Michèle, IE CNRS (1994-1999)
+- HAEDENS Vicki, IE CNRS (1997-2004)
+- FRANCOIS Sylvie, ADT (2006-2013)
 - DAUGET Jean-Marc, IE Univ. paris 7 (2015-2019)
+- CANGEMI Sylvie, AGT (20014-2022)
 - GAGNY Bénédicte, doctorante (1994-1998)
 - LALUCQUE Hervé, doctorant (1998-2002)
 - KICKA Sébastien, doctorant (2001-2005)

@@ -272,7 +272,7 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 **2022**
 
-11- Silar P (2022) Prions and Prion-like Phenomena in Epigenetic Inheritance. In **Handbook of Epigenetics: The New Molecular and Medical Genetics** (3rd edition). Trygve Tollefsbol ed., In the press.
+11- Silar P (2022) Prions and Prion-like Phenomena in Epigenetic Inheritance. In **Handbook of Epigenetics: The New Molecular and Medical Genetics** (3rd edition). Trygve Tollefsbol ed., pp 73-87.
 
 **2021**
 

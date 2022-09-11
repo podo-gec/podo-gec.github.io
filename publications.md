@@ -6,6 +6,7 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 <br/><br/>
 ## Dans les revues à comité de lecture
 <br/><br/>
+
 **2022**
 
 96- Nguyen TS, Gautier V., Chan Ho Tong L. & Silar P. (2022) A gene cluster with positive and negative elements controls bistability and hysteresis of the Crippled versus Normal growth in the fungus *Podospora anserina*. **Fung. Fenet. Biol.** 161: 103711.

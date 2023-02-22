@@ -11,10 +11,10 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 98- Vittorelli N., Rodríguez de la Vega R.C., Snirc A., Levert E., Gautier V., Lalanne C., De Filippo E., Gladieux P., Guillou S., Zhang Y., Tejomurthula S., Grigoriev I.V., Debuchy R., Silar P., Giraud T. & Hartmann F.E. (2023) Stepwise recombination suppression around the mating-type locus in an ascomycete fungus with self-fertile spores. **PLOS Genet.** In the press.
 
+97- Demoor A., Lacaze I., Ferrari R., Lalanne C., Silar P. & Brun S. (2023) The GUN mutants: new weapons to unravel ascospore germination regulation in the model fungus *Podospora anserina*. **Microb. Spectr.** In the press.
+
 
 **2022**
-
-97- Demoor A., Lacaze I., Ferrari R., Lalanne C., Silar P. & Brun S. (2022) The GUN mutants: new weapons to unravel ascospore germination regulation in the model fungus *Podospora anserina*. **Microb. Spectr.** In the press.
 
 96- Nguyen T.S., Gautier V., Chan Ho Tong L. & Silar P. (2022) A gene cluster with positive and negative elements controls bistability and hysteresis of the Crippled versus Normal growth in the fungus *Podospora anserina*. **Fung. Fenet. Biol.** 161: 103711.
 

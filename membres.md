@@ -13,8 +13,7 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 - [RENAULT Aurélien](mailto:aurelien.renault@u-paris.fr), AGT Université de Paris Cité
 - PARADIS Aymeric, Doctorant, Université de Paris Cité
 
-**Membre associé**
-- LEVERT Emilie, IE
+
 
 ## Anciens membres
 
@@ -67,3 +66,4 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 - NARUZAWA Erika, doctorante Université Laval (Québec)
 - LACAZE Isabelle, doctorante Univ. P7 Denis Diderot/CSTB
 - BERNIER Louis, Professeur Université Laval, (Québec)
+- LEVERT Emilie, IE

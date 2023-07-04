@@ -26,15 +26,10 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 <br>
 
 <center>
-<b>A venir prochainement</b><br>
-{% include button.html text="Base de données taxonomiques sur les <em>Sordariales</em>" link="http://fungi-db.herokuapp.com/" color="#6a1d33" %}
-</center>
-
-<small>base de données en cours d'élaboration : pour avoir un aperçu, se connecter avec l'identifiant/mot de passe "guest"/"guest". </small>
 
 ## Diffusion des connaissances
 
-**Nouveau et gratuit**
+**gratuit**
 
 * le livre de Génétique (ISBN 978-2-9555841-3-2), en [version PDF](https://hal.archives-ouvertes.fr/hal-02921475) gratuite<br>
   ![Génétique](static/img/gen.jpg)
@@ -59,4 +54,3 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 
 - Le cours online de [Génétique de Licence](http://gec.sdv.univ-paris-diderot.fr/cours/genetique/). Il reprend le cours en version PDF disponible [ici]( https://hal.archives-ouvertes.fr/hal-02921475). Ce cours contient encore des coquilles: merci de me les signaler... [ici](mailto:philippe.silar@univ-paris-diderot.fr)
 - [Annales de M1](http://podo-gec.sdv.univ-paris-diderot.fr/examenmicrobioeuc.zip) (Archive zip)
-- [fichier zip des présentations du M1 microbio eucaryotes](http://podo-gec.sdv.univ-paris-diderot.fr/presentationsM1.zip)

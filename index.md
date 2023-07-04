@@ -32,9 +32,7 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 * le livre de Génétique (ISBN 978-2-9555841-3-2), en [version PDF](https://hal.archives-ouvertes.fr/hal-02921475) gratuite<br>
   ![Génétique](static/img/gen.jpg)
 
-  **et toujours disponibles gratuitement**
-
-* Le livre sur _Podospora anserina_ (ISBN 978-2-9555841-2-5), en [version PDF](https://hal.archives-ouvertes.fr/hal-02475488) gratuite<br>
+ * Le livre sur _Podospora anserina_ (ISBN 978-2-9555841-2-5), en [version PDF](https://hal.archives-ouvertes.fr/hal-02475488) gratuite<br>
   ![Podospora anserina](static/img/pa.jpg)
   <br>
 
@@ -45,8 +43,6 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
   ![Microbiologie eucaryote](static/img/pe.jpg)
 
 <br>
-- La création radiophonique de la RTBF: ['Une pour tous, tous par une' : une immersion dans l'univers méconnu des microbes, des bactéries, des champignons](https://www.rtbf.be/lapremiere/article/detail_une-pour-tous-tous-par-une-une-immersion-dans-l-univers-meconnu-des-microbes-des-bacteries-des-champignons?id=10015919)
-- Le documentaire de France Culture sur les champignons: [Les champignons sortent du bois](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/les-champignons-sortent-du-bois-14-champignons-vos-papiers)
 
 ## Liens de téléchargements des cours pour les étudiants de l'Université de Paris
 

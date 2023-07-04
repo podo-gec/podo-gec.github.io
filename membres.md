@@ -13,7 +13,7 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 - [RENAULT Aurélien](mailto:aurelien.renault@u-paris.fr), AGT Université de Paris Cité
 - PARADIS Aymeric, Doctorant, Université de Paris Cité
 
-
+-Invited researcher: Dr. Narumon Tangthirasunun
 
 ## Anciens membres
 

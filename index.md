@@ -25,8 +25,6 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 
 <br>
 
-<center>
-
 ## Diffusion des connaissances
 
 **gratuit**

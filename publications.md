@@ -9,6 +9,8 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 **2023**
 
+99- Hensen N., Bonometti L., Westerberg I., Brännströmc I.O., Guillou S., Cros-Aarteil S., Calhoun S., Haridas S., Kuo A., Mondo S., Pangilinan J., Riley R., LaButti K., Andreopoulos B., Lipzen A., Chen C., Yan M., Daum C., Ng V., Clum A., Steindorff A., Ohm R., Martin F., Silar P., Natvig D., Lalanne C., Gautier V., Ament-Velásquez S.L., Kruys A., Hutchinson M.I., Powell A.J., Barry K., Miller A.N., Grigoriev I.V., Debuchy R.,  Gladieux P., Hiltunen Thorén M. & Johannesson H. (2023) Genome-scale phylogeny and comparative genomics of the fungal order Sordariales. Molecular Phylogenetics and Evolution. In the press.
+
 98- Vittorelli N., Rodríguez de la Vega R.C., Snirc A., Levert E., Gautier V., Lalanne C., De Filippo E., Gladieux P., Guillou S., Zhang Y., Tejomurthula S., Grigoriev I.V., Debuchy R., Silar P., Giraud T. & Hartmann F.E. (2023) Stepwise recombination suppression around the mating-type locus in an ascomycete fungus with self-fertile spores. **PLOS Genet.** 19(2):e1010347.
 
 97- Demoor A., Lacaze I., Ferrari R., Lalanne C., Silar P. & Brun S. (2023) The GUN mutants: new weapons to unravel ascospore germination regulation in the model fungus *Podospora anserina*. **Microb. Spectr.** 11(2):e0146122. doi: 10.1128/spectrum.01461-22..

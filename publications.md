@@ -9,6 +9,8 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 **2024**
 
+101- Gautier V., Nguyen T-S & Silar P. (2024) Fungal/bacterial syntrophy of glycerol utilization **Cryptogamie Mycologie** In the press.
+
 100- Ferrari R., Gautier V., Tangthirasunun N., Chan Ho Tong L. & Silar P. (2024) Characterization of the *Podospora anserina* peroxidase gene family. **Cryptogamie Mycologie** In the press.
 
 **2023**

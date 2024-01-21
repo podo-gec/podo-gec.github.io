@@ -8,7 +8,7 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 <br/><br/>
 
 **2024**
-103- Essadik I., Boucher C., Bobée C., Cabet E., Gautier V., Lalucque H., Silar P., Chapeland-Leclerc F. & Ruprich-Robert G. (2024) Mutations in *Podospora anserina MCM1* and *VelC* trigger spontaneous development of barren fruiting bodies. **JoF** In the press.
+103- Essadik I., Boucher C., Bobée C., Cabet E., Gautier V., Lalucque H., Silar P., Chapeland-Leclerc F. & Ruprich-Robert G. (2024) Mutations in *Podospora anserina MCM1* and *VelC* trigger spontaneous development of barren fruiting bodies. **JoF** 10: 79.
 
 102- Gautier V., Nguyen T.S. & Silar P. (2024) Fungal/bacterial syntrophy of glycerol utilization **Cryptogamie Mycologie** In the press.
 

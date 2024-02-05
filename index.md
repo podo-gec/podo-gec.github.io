@@ -52,3 +52,4 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 
 - [Cours L3 IMVI](http://podo-gec.sdv.univ-paris-diderot.fr/courslicenceIMVI.pdf) (Fichier PDF)
 - [planning présentations des TD L3 IMVI](http://podo-gec.sdv.univ-paris-diderot.fr/sujetsdeTD.pdf) (Fichier PDF)
+- [présentations de L3 IMVI](http://podo-gec.sdv.univ-paris-diderot.fr/presentationsL3.zip) (Fichier ZIP)

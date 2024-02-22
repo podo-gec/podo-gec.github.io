@@ -105,57 +105,57 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 67- Chan Ho Tong L, Dairou J, Bui LC, Bouillon J, Rodrigues-Lima F, Dupret JM & Silar P (2015) Screen for soil fungi highly resistant to dichloroaniline uncovers mostly Fusarium species. **Fung. Genet. Biol.** 81: 82-87. doi: 10.1016/j.fgb.2015.05.011
 
-66- Grognet P & Silar P (2015) Maintaining heterokaryosis in pseudo-homothallic fungi. **Comm. Int. Biol.** 8(4): e994382.
+66- Grognet P & Silar P (2015) Maintaining heterokaryosis in pseudo-homothallic fungi. **Comm. Int. Biol.** 8(4): e994382. doi: 10.4161/19420889.2014.994382
 
-65- Lacaze I, Lalucque H, Siegmund U, Silar P & Brun S (2015) Identification of NoxD/Pro41 as the homologue of the p22phox NADPH oxidase subunit in fungi. **Mol. Microbiol.** 95: 1006-1024.
+65- Lacaze I, Lalucque H, Siegmund U, Silar P & Brun S (2015) Identification of NoxD/Pro41 as the homologue of the p22phox NADPH oxidase subunit in fungi. **Mol. Microbiol.** 95: 1006-1024. doi: 10.1111/mmi.12876
 
-64- Goarin A, Silar P & Malagnac F (2015) Gene replacement in _Penicillium roqueforti_. **Curr. Genet.** 61: 203-210.
+64- Goarin A, Silar P & Malagnac F (2015) Gene replacement in _Penicillium roqueforti_. **Curr. Genet.** 61: 203-210. doi: 10.1007/s00294-014-0456-8
 
-63- Xie N, Ruprich-Robert G, Silar P & Chapeland-Leclerc F (2015) Bilirubin oxidase-like proteins from _Podospora anserina_: promising thermostable enzymes for application in transformation of plant biomass. **Env. Microbiol.** 17: 866-875.
+63- Xie N, Ruprich-Robert G, Silar P & Chapeland-Leclerc F (2015) Bilirubin oxidase-like proteins from _Podospora anserina_: promising thermostable enzymes for application in transformation of plant biomass. **Env. Microbiol.** 17: 866-875. doi: 10.1111/1462-2920.12549
 
 **2014**
 
-62- Tangthirasunun N, Silar P, Bhat DJ, Maharachchikumbura SSN & Hyde KD (2014) _Greeneria saprophytica sp. nov._ on dead leaves of Syzygium cumini from Chiang Rai, Thailand. **Phytotaxa** 184: 275-282.
+62- Tangthirasunun N, Silar P, Bhat DJ, Maharachchikumbura SSN & Hyde KD (2014) _Greeneria saprophytica sp. nov._ on dead leaves of Syzygium cumini from Chiang Rai, Thailand. **Phytotaxa** 184: 275-282. doi.org/10.11646/phytotaxa.184.5.3
 
-61- Chan Ho Tong L, Silar P & Lalucque H (2014) Genetic control of anastomosis in _Podospora anserina_. **Fung. Genet. Biol.** 70: 94-103.
+61- Chan Ho Tong L, Silar P & Lalucque H (2014) Genetic control of anastomosis in _Podospora anserina_. **Fung. Genet. Biol.** 70: 94-103. DOI: 10.1016/j.fgb.2014.07.006
 
-60- Tangthirasunun N, Silar P, Bhat DJ, Chukeatirote E, Wikee S, Maharachchikumbura SNM, Hyde KD & Wang Y (2014) Morphology and phylogeny of _Chaetospermum_ (asexual coelomycetous Basidiomycota). **Phytotaxa** 175: 061-072.
+60- Tangthirasunun N, Silar P, Bhat DJ, Chukeatirote E, Wikee S, Maharachchikumbura SNM, Hyde KD & Wang Y (2014) Morphology and phylogeny of _Chaetospermum_ (asexual coelomycetous Basidiomycota). **Phytotaxa** 175: 061-072. doi.org/10.11646/phytotaxa.175.2.1 
 
-59- Silar P (2014) Simple genetic tools to study fruiting body development in fungi. **Open Mycol.** 8: 148-155.
+59- Silar P (2014) Simple genetic tools to study fruiting body development in fungi. **Open Mycol.** 8: 148-155. DOI: 10.2174/1874437001408010148
 
-58- Tangthirasunun N, Silar P, Bhat DJ, Chukeatirote E, Wijayawardene DNN, Maharachchikumbura SSN & Hyde KD (2014) Morphology and phylogeny of _Pseudorobillarda eucalypti sp. nov._, from Thailand. **Phytotaxa** 176: 251-259.
+58- Tangthirasunun N, Silar P, Bhat DJ, Chukeatirote E, Wijayawardene DNN, Maharachchikumbura SSN & Hyde KD (2014) Morphology and phylogeny of _Pseudorobillarda eucalypti sp. nov._, from Thailand. **Phytotaxa** 176: 251-259. doi.org/10.11646/phytotaxa.176.1.24
 
-57- Grognet P, Lalucque H, Malagnac F & Silar P (2014) Genes That Bias Mendelian Segregation. **PLoS Genetics** 10: e1004387.
+57- Grognet P, Lalucque H, Malagnac F & Silar P (2014) Genes That Bias Mendelian Segregation. **PLoS Genetics** 10: e1004387. doi.org/10.1371/journal.pgen.1004387 
 
-56- Grognet P, Bidard F, Kuchly C, Chan Ho Tong L, Coppin E, Ait Benkhali J, Couloux A, Wincker P, Debuchy R & Silar P (2014) Maintaining two mating types: Structure of the mating type locus and its role in heterokaryosis in _Podospora anserina_. **Genetics** 197: 421-432.
+56- Grognet P, Bidard F, Kuchly C, Chan Ho Tong L, Coppin E, Ait Benkhali J, Couloux A, Wincker P, Debuchy R & Silar P (2014) Maintaining two mating types: Structure of the mating type locus and its role in heterokaryosis in _Podospora anserina_. **Genetics** 197: 421-432. doi: 10.1534/genetics.113.159988
 
-55- Cheeseman K, Ropars J, Renault P, Dupont J, Gouzy J, Branca A, Abraham AL, Ceppi M, Conseiller E, Debuchy R, Malagnac F, Goarin A, Silar P, Lacoste S, Sallet A, Bensimon A, Giraud T & Brygoo Y (2014) Multiple recent horizontal transfers of a large genomic region in cheesemaking fungi. **Nat. Comm.** 5: 2876.
+55- Cheeseman K, Ropars J, Renault P, Dupont J, Gouzy J, Branca A, Abraham AL, Ceppi M, Conseiller E, Debuchy R, Malagnac F, Goarin A, Silar P, Lacoste S, Sallet A, Bensimon A, Giraud T & Brygoo Y (2014) Multiple recent horizontal transfers of a large genomic region in cheesemaking fungi. **Nat. Comm.** 5: 2876. doi: 10.1038/ncomms3876
 
-54- Xie N, Chapeland-Leclerc F, Silar P & Ruprich-Robert G (2014) Systematic gene deletions evidences that laccases are involved in several stages of wood degradation in the filamentous fungus _Podospora anserina_. **Env. Microbiol.** 16: 141-161.
+54- Xie N, Chapeland-Leclerc F, Silar P & Ruprich-Robert G (2014) Systematic gene deletions evidences that laccases are involved in several stages of wood degradation in the filamentous fungus _Podospora anserina_. **Env. Microbiol.** 16: 141-161. doi: 10.1111/1462-2920.12253
 
 **2013**
 
-53- Malagnac F, Fabret C, Prigent M, Rousset JP, Namy O & Silar P (2013) A Rab-GDI complex dissociation factor expressed through translational frameshifting in filamentous ascomycetes. **PLoS ONE** 8(9): e73772.
+53- Malagnac F, Fabret C, Prigent M, Rousset JP, Namy O & Silar P (2013) A Rab-GDI complex dissociation factor expressed through translational frameshifting in filamentous ascomycetes. **PLoS ONE** 8(9): e73772. doi.org/10.1371/journal.pone.0073772
 
-52- Ait Benkhali J, Coppin E, Brun S, Peraza-Reyes L, Martin T, Dixelius D, Lazar N, van Tilbeurgh H & Debuchy R (2013) A Network of HMG-Box Transcription Factors Regulates Sexual Cycle in the Fungus _Podospora anserina_. **PLoS Genetics** 7: e1003642.
+52- Ait Benkhali J, Coppin E, Brun S, Peraza-Reyes L, Martin T, Dixelius D, Lazar N, van Tilbeurgh H & Debuchy R (2013) A Network of HMG-Box Transcription Factors Regulates Sexual Cycle in the Fungus _Podospora anserina_. **PLoS Genetics** 7: e1003642. DOI: 10.1371/journal.pgen.1003642
 
-51- Cocaign A, Bui L-H, Silar P, Chan Ho Tong L, Busi F, Lamouri A, Mougin C, Rodrigues-Lima F, Dupret JM & Dairou J (2013) Biotransformation and tolerance of _Trichoderma spp._ to aromatic amines, a major class of pollutants. **Appl. Env. Microb.** 79: 4719-4726.
+51- Cocaign A, Bui L-H, Silar P, Chan Ho Tong L, Busi F, Lamouri A, Mougin C, Rodrigues-Lima F, Dupret JM & Dairou J (2013) Biotransformation and tolerance of _Trichoderma spp._ to aromatic amines, a major class of pollutants. **Appl. Env. Microb.** 79: 4719-4726. doi: 10.1128/AEM.00989-13
 
 **2012**
 
-50- Morcx S, Kunz C, Choquer M, Assié S, Blondet, Simond-côte E, Gajek K, Chapeland-Leclerc F, Expert D & Soulié M-C. (2012) Disruption of Bcchs4, Bcchs6 or Bcchs7 chitin synthase genes in _Botrytis cinerea_ and the essential role of classVI chitin synthase (Bcchs6). **Fung. Genet. Biol.** 52: 1-8.
+50- Morcx S, Kunz C, Choquer M, Assié S, Blondet, Simond-côte E, Gajek K, Chapeland-Leclerc F, Expert D & Soulié M-C. (2012) Disruption of Bcchs4, Bcchs6 or Bcchs7 chitin synthase genes in _Botrytis cinerea_ and the essential role of classVI chitin synthase (Bcchs6). **Fung. Genet. Biol.** 52: 1-8. doi: 10.1016/j.fgb.2012.11.011
 
-49- Déquard-Chablat M, Nguyen T-T, Contamine V, Hermann-Le Denmat S & Malagnac F (2012) Efficient tools to target DNA to _Podospora anserina_. **Fung Gen. Rep.** 59: 21-25.
+49- Déquard-Chablat M, Nguyen T-T, Contamine V, Hermann-Le Denmat S & Malagnac F (2012) Efficient tools to target DNA to _Podospora anserina_. **Fung Gen. Rep.** 59: 21-25. doi.org/10.4148/1941-4765.1011
 
-48- Ropars J, Dupont J, Fontanillas E, Rodríguez de la Vega R, Malagnac F, Coton M, Giraud T & López-Villavicencio M (2012) Sex in cheese: evidence for sexuality in the fungus _Penicillium roqueforti_. **PLOS One** 7(11): e49665.
+48- Ropars J, Dupont J, Fontanillas E, Rodríguez de la Vega R, Malagnac F, Coton M, Giraud T & López-Villavicencio M (2012) Sex in cheese: evidence for sexuality in the fungus _Penicillium roqueforti_. **PLOS One** 7(11): e49665. doi: 10.1371/journal.pone.0049665
 
-47- Grognet P, Lalucque H & Silar P (2012) The PaAlr1 magnesium transporter is required for ascospore development in _Podospora anserina_. **Fung. Biol.** 116: 1111-1118.
+47- Grognet P, Lalucque H & Silar P (2012) The PaAlr1 magnesium transporter is required for ascospore development in _Podospora anserina_. **Fung. Biol.** 116: 1111-1118. doi: 10.1016/j.funbio.2012.08.004
 
-46- Bidard F, Coppin E & Silar P (2012) The transcriptional response to the inactivation of the PaMpk1 and PaMpk2 MAP kinase pathways in _Podospora anserina_. **Fung. Genet. Biol.** 49: 643–652.
+46- Bidard F, Coppin E & Silar P (2012) The transcriptional response to the inactivation of the PaMpk1 and PaMpk2 MAP kinase pathways in _Podospora anserina_. **Fung. Genet. Biol.** 49: 643–652. doi: 10.1016/j.fgb.2012.06.002
 
-45- Coppin E, Berteaux-Lecellier V, Bidard F, Brun S, Ruprich-Robert G, Espagne E, Aït-Benkhali J, Goarin A, Nesseir A, Planamente S, Debuchy R & Silar P (2012) Systematic deletion of homeobox genes in _Podospora anserina_ uncovers their roles in shaping the fruiting body. **PLoS ONE** 7(5): e37488.
+45- Coppin E, Berteaux-Lecellier V, Bidard F, Brun S, Ruprich-Robert G, Espagne E, Aït-Benkhali J, Goarin A, Nesseir A, Planamente S, Debuchy R & Silar P (2012) Systematic deletion of homeobox genes in _Podospora anserina_ uncovers their roles in shaping the fruiting body. **PLoS ONE** 7(5): e37488. doi.org/10.1371/journal.pone.0037488
 
-44- Lalucque H, Malagnac F, Brun S, Kicka S & Silar P (2012) A non-mendelian MAPK-generated hereditary unit controlled by a second MAPK pathway in _Podospora anserina_. **Genetics** 191: 419–433.
+44- Lalucque H, Malagnac F, Brun S, Kicka S & Silar P (2012) A non-mendelian MAPK-generated hereditary unit controlled by a second MAPK pathway in _Podospora anserina_. **Genetics** 191: 419–433. doi: 10.1534/genetics.112.139469
 
 43- Lasrama S, Oueslati S, Mliki A, Ghorbel A, Silar P & Chebil S (2012) Ochratoxin A and ochratoxigenic black Aspergillus species in Tunisian grapes cultivated in different geographic areas. **Food Control** 25: 75-80.
 

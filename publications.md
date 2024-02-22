@@ -39,23 +39,23 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 94- Vogan A., Miller A.N. & Silar P. (2021) Proposal to change the conserved type of Podospora, nom. cons. (Ascomycota). **Taxon** 70(2): 429-430. doi.org/10.1002/tax.12478
 
-93- Hartmann F.E., Ament-Velásquez S.L., Vogan A.A., Gautier V., Le Prieur S., Berramdane M., Snirc A., Johannesson H., Grognet P, Malagnac F., Silar P. & Giraud T. (2021) Size variation of the non-recombining region on the mating-type chromosomes in the fungal *Podospora anserina* species complex. **Mol. Biol. Evol.** 38(6):2475-2492.
+93- Hartmann F.E., Ament-Velásquez S.L., Vogan A.A., Gautier V., Le Prieur S., Berramdane M., Snirc A., Johannesson H., Grognet P, Malagnac F., Silar P. & Giraud T. (2021) Size variation of the non-recombining region on the mating-type chromosomes in the fungal *Podospora anserina* species complex. **Mol. Biol. Evol.** 38(6):2475-2492. doi.org/10.1093/molbev/msab040
 
-92- Valette N., Renou J., Boutilliat A., Fernández‐González A.J., Gautier V., Silar P., Guyeux C., Charr J.-C., Cuenot S., Rose C., Gelhaye E. &  Morel‐Rouhier M. (2021) OSIP1 is a self‐assembling DUF3129 protein required to protect fungal cells from toxins and stressors. **Env. Microbiol.** 23(3):1594-1607.
+92- Valette N., Renou J., Boutilliat A., Fernández‐González A.J., Gautier V., Silar P., Guyeux C., Charr J.-C., Cuenot S., Rose C., Gelhaye E. &  Morel‐Rouhier M. (2021) OSIP1 is a self‐assembling DUF3129 protein required to protect fungal cells from toxins and stressors. **Env. Microbiol.** 23(3):1594-1607. DOI: 10.1111/1462-2920.15381
 
-91- Hartmann F.E., Duhamel M., Carpentier F, Hood M.E., Foulongne-Oriol M., Silar P., Malagnac F., Grognet P. & Giraud T (2021) Pervasive recombination suppression around mating-type loci in fungi: documenting patterns and understanding evolutionary and proximal causes. **New Phytologist** 229 (5): 2470-2491.
+91- Hartmann F.E., Duhamel M., Carpentier F, Hood M.E., Foulongne-Oriol M., Silar P., Malagnac F., Grognet P. & Giraud T (2021) Pervasive recombination suppression around mating-type loci in fungi: documenting patterns and understanding evolutionary and proximal causes. **New Phytologist** 229 (5): 2470-2491. DOI: 10.1111/nph.17039
 
 **2020**
 
-90- Dicko M., Ferrari R., Tangthirasunun N., Gautier V., Lalanne C., Lamari F. & Silar P. (2020) Lignin degradation and its use in signaling development by the coprophilous ascomycete _Podospora anserina_. **Journal of Fungi** 6:278.
+90- Dicko M., Ferrari R., Tangthirasunun N., Gautier V., Lalanne C., Lamari F. & Silar P. (2020) Lignin degradation and its use in signaling development by the coprophilous ascomycete _Podospora anserina_. **Journal of Fungi** 6:278. DOI: 10.3390/jof6040278
 
-89- Lorena Ament-Velásquez S., Johannesson H, Giraud T., Debuchy R., Saupe S.J., Debets  A.J.M., Bastiaans E., Malagnac F., Grognet P., Peraza-Reyes  L., Gladieux P., Kruys Å., Silar  P, Huhndorf S.M., Miller A. & Vogan A. (2020) The taxonomy of the model filamentous fungus _Podospora anserina_. **MycoKeys** 75:51-69.
+89- Lorena Ament-Velásquez S., Johannesson H, Giraud T., Debuchy R., Saupe S.J., Debets  A.J.M., Bastiaans E., Malagnac F., Grognet P., Peraza-Reyes  L., Gladieux P., Kruys Å., Silar  P, Huhndorf S.M., Miller A. & Vogan A. (2020) The taxonomy of the model filamentous fungus _Podospora anserina_. **MycoKeys** 75:51-69. doi: 10.3897/mycokeys.75.55968
 
 **2019**
 
-88- Mercier A, Clairet C., Debuchy R, Morais D. Silar P & Brun S (2019) The mitochondrial translocase of the inner membrane PaTim54 is involved in defense response and longevity in _Podospora anserina_. **Fung. Genet. Biol.** 132: 1032572.
+88- Mercier A, Clairet C., Debuchy R, Morais D. Silar P & Brun S (2019) The mitochondrial translocase of the inner membrane PaTim54 is involved in defense response and longevity in _Podospora anserina_. **Fung. Genet. Biol.** 132: 1032572. doi: 10.1016/j.fgb.2019.103257
 
-87- Demoor A, Silar P & Brun S (2019) Appressorium: The Breakthrough in Dikarya. **J. Fungi** 5(3): 72.
+87- Demoor A, Silar P & Brun S (2019) Appressorium: The Breakthrough in Dikarya. **J. Fungi** 5(3): 72. DOI: 10.3390/jof5030072
 
 86- Silar P, Dauget JM, Gautier V, Grognet P, Chablat M, Hermann Le Denmat S, Couloux A, Wincker P & Debuchy R (2019) A gene graveyard in the genome of the fungus _Podospora comata_. **Mol. Gen. Genom.** 294: 177-190.
 

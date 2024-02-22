@@ -87,23 +87,23 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 **2016**
 
-74- Lacaze I, Moularat S, Bousta F, Draghi M, Silar P & Robine E (2016) Etude de la dynamique de colonisation microbienne de produits de construction. **Matériaux et techniques** 104: 507 1-13.
+74- Lacaze I, Moularat S, Bousta F, Draghi M, Silar P & Robine E (2016) Etude de la dynamique de colonisation microbienne de produits de construction. **Matériaux et techniques** 104: 507 1-13. doi.org/10.1051/mattech/2016035
 
-73- Jaber S, Mercier A, Knio K, Brun S & Kambris Z (2016) Isolation of fungi from dead arthropods and identification of a new mosquito natural pathogen. **Parasites & Vectors** 9(1): 491.
+73- Jaber S, Mercier A, Knio K, Brun S & Kambris Z (2016) Isolation of fungi from dead arthropods and identification of a new mosquito natural pathogen. **Parasites & Vectors** 9(1): 491. doi.org/10.1186/s13071-016-1763-3
 
-72- Timpano H, Chan Ho Tong L, Gautier V, Lalucque H & Silar P (2016) The PaPsr1 and PaWhi2 genes are members of the regulatory network that connect stationary phase to mycelium differentiation and reproduction in _Podospora anserina_. **Fung. Genet. Biol.** 94: 1-10.
+72- Timpano H, Chan Ho Tong L, Gautier V, Lalucque H & Silar P (2016) The PaPsr1 and PaWhi2 genes are members of the regulatory network that connect stationary phase to mycelium differentiation and reproduction in _Podospora anserina_. **Fung. Genet. Biol.** 94: 1-10. doi: 10.1016/j.fgb.2016.06.006
 
-71- Couturier M, Tangthirasunun N, Xie N, Brun S, Gautier V, Bennati-Granier C, Silar P, Berrin JG (2016) Plant biomass degrading ability of the coprophilic ascomycete fungus _Podospora anserina_. **Biotechnology Advances** 34: 976-983.
+71- Couturier M, Tangthirasunun N, Xie N, Brun S, Gautier V, Bennati-Granier C, Silar P, Berrin JG (2016) Plant biomass degrading ability of the coprophilic ascomycete fungus _Podospora anserina_. **Biotechnology Advances** 34: 976-983. doi.org/10.1016/j.biotechadv.2016.05.010
 
-70- Wijayawardene NN, Hyde KD, Wanasinghe DN, Papizadeh M, Goonasekara ID, Camporesi E, Bhat DJ, McKenzie EHC, Phillips AJL, Diederich P, Tanaka K, Li WJ, Tangthirasunun N, Phookamsak R, Dai D-Q, Dissanayake AJ, Weerakoon G, Maharachchikumbura SSN, Hashimoto A, Matsumura M, Bahkali AH & Wang Y (2016) Taxonomy and phylogeny of dematiaceous coelomycetes. **Fungal Diversity** 77: 1-316.
+70- Wijayawardene NN, Hyde KD, Wanasinghe DN, Papizadeh M, Goonasekara ID, Camporesi E, Bhat DJ, McKenzie EHC, Phillips AJL, Diederich P, Tanaka K, Li WJ, Tangthirasunun N, Phookamsak R, Dai D-Q, Dissanayake AJ, Weerakoon G, Maharachchikumbura SSN, Hashimoto A, Matsumura M, Bahkali AH & Wang Y (2016) Taxonomy and phylogeny of dematiaceous coelomycetes. **Fungal Diversity** 77: 1-316. DOI:10.1007/s13225-016-0360-2
 
 **2015**
 
-69- Tangthirasunun N, Silar P, Bhat DJ, Maharachchikumbura SSN, Wijayawardene NN, Bahkali AH & Hyde KD (2015) Morphology and phylogeny of two appendaged genera of coelomycetes: _Ciliochorella_ and _Discosia_. **Sydowia** 66: 217-226.
+69- Tangthirasunun N, Silar P, Bhat DJ, Maharachchikumbura SSN, Wijayawardene NN, Bahkali AH & Hyde KD (2015) Morphology and phylogeny of two appendaged genera of coelomycetes: _Ciliochorella_ and _Discosia_. **Sydowia** 66: 217-226. DOI 10.12905/0380.sydowia67-2015-0217
 
-68- Chapeland-Leclerc F, Dilmaghani A, Ez-Zaki L, Boisnard S, Da Silva B, Gaslonde T, Porée FH & Ruprich-Robert G (2015) Systematic gene deletion and functional characterization of histidine kinase phosphorelay receptors (HKRs) in the human pathogenic fungus _Aspergillus fumigatus_. **Fung. Genet. Biol.** 84: 1-11.
+68- Chapeland-Leclerc F, Dilmaghani A, Ez-Zaki L, Boisnard S, Da Silva B, Gaslonde T, Porée FH & Ruprich-Robert G (2015) Systematic gene deletion and functional characterization of histidine kinase phosphorelay receptors (HKRs) in the human pathogenic fungus _Aspergillus fumigatus_. **Fung. Genet. Biol.** 84: 1-11. doi: 10.1016/j.fgb.2015.09.005
 
-67- Chan Ho Tong L, Dairou J, Bui LC, Bouillon J, Rodrigues-Lima F, Dupret JM & Silar P (2015) Screen for soil fungi highly resistant to dichloroaniline uncovers mostly Fusarium species. **Fung. Genet. Biol.** 81: 82-87.
+67- Chan Ho Tong L, Dairou J, Bui LC, Bouillon J, Rodrigues-Lima F, Dupret JM & Silar P (2015) Screen for soil fungi highly resistant to dichloroaniline uncovers mostly Fusarium species. **Fung. Genet. Biol.** 81: 82-87. doi: 10.1016/j.fgb.2015.05.011
 
 66- Grognet P & Silar P (2015) Maintaining heterokaryosis in pseudo-homothallic fungi. **Comm. Int. Biol.** 8(4): e994382.
 

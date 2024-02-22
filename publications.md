@@ -47,21 +47,26 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 **2020**
 
-90- Dicko M., Ferrari R., Tangthirasunun N., Gautier V., Lalanne C., Lamari F. & Silar P. (2020) Lignin degradation and its use in signaling development by the coprophilous ascomycete _Podospora anserina_. **Journal of Fungi** 6:278. DOI: 10.3390/jof6040278
+90- Dicko M., Ferrari R., Tangthirasunun N., Gautier V., Lalanne C., Lamari F. & Silar P. (2020) Lignin degradation and its use in signaling development by the coprophilous ascomycete _Podospora anserina_. **Journal of Fungi** 6:278.
+DOI: 10.3390/jof6040278
 
 89- Lorena Ament-Velásquez S., Johannesson H, Giraud T., Debuchy R., Saupe S.J., Debets  A.J.M., Bastiaans E., Malagnac F., Grognet P., Peraza-Reyes  L., Gladieux P., Kruys Å., Silar  P, Huhndorf S.M., Miller A. & Vogan A. (2020) The taxonomy of the model filamentous fungus _Podospora anserina_. **MycoKeys** 75:51-69. doi: 10.3897/mycokeys.75.55968
 
 **2019**
 
-88- Mercier A, Clairet C., Debuchy R, Morais D. Silar P & Brun S (2019) The mitochondrial translocase of the inner membrane PaTim54 is involved in defense response and longevity in _Podospora anserina_. **Fung. Genet. Biol.** 132: 1032572. doi: 10.1016/j.fgb.2019.103257
+88- Mercier A, Clairet C., Debuchy R, Morais D. Silar P & Brun S (2019) The mitochondrial translocase of the inner membrane PaTim54 is involved in defense response and longevity in _Podospora anserina_. **Fung. Genet. Biol.** 132: 1032572. 
+doi: 10.1016/j.fgb.2019.103257
 
-87- Demoor A, Silar P & Brun S (2019) Appressorium: The Breakthrough in Dikarya. **J. Fungi** 5(3): 72. DOI: 10.3390/jof5030072
+87- Demoor A, Silar P & Brun S (2019) Appressorium: The Breakthrough in Dikarya. **J. Fungi** 5(3): 72.
+DOI: 10.3390/jof5030072
 
-86- Silar P, Dauget JM, Gautier V, Grognet P, Chablat M, Hermann Le Denmat S, Couloux A, Wincker P & Debuchy R (2019) A gene graveyard in the genome of the fungus _Podospora comata_. **Mol. Gen. Genom.** 294: 177-190. doi: 10.1007/s00438-018-1497-3
+86- Silar P, Dauget JM, Gautier V, Grognet P, Chablat M, Hermann Le Denmat S, Couloux A, Wincker P & Debuchy R (2019) A gene graveyard in the genome of the fungus _Podospora comata_. **Mol. Gen. Genom.** 294: 177-190.
+doi: 10.1007/s00438-018-1497-3
 
 **2018**
 
-85- Nguyen TS, Lalucque H & Silar P (2018) Identification and characterization of PDC1, a novel protein involved in the epigenetic cell degeneration Crippled Growth in _Podospora anserina_. **Mol. Microbiol.** 110(4): 499-512. DOI: 10.1111/mmi.14096
+85- Nguyen TS, Lalucque H & Silar P (2018) Identification and characterization of PDC1, a novel protein involved in the epigenetic cell degeneration Crippled Growth in _Podospora anserina_. **Mol. Microbiol.** 110(4): 499-512. 
+DOI: 10.1111/mmi.14096
 
 84- Ferrari R, Lacaze I, Le Faouder P, Bertrand-Michel J, Oger C, Galano JM, Durand T, Moularat S, Chan Ho Tong L, Boucher C, Kilani J, Petit Y, Vanparis O, Trannoy C, Brun S, Lalucque H, Malagnac F & Silar (2018) Cyclooxygenases and lipoxygenases are used by the fungus _Podospora anserina_ to repel nematodes. **Biochimica & Biophysica Acta (BBA) - General Subjects** 1862(10): 2174-2182. doi: 10.1016/j.bbagen.2018.07.012
 
@@ -99,17 +104,20 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 **2015**
 
-69- Tangthirasunun N, Silar P, Bhat DJ, Maharachchikumbura SSN, Wijayawardene NN, Bahkali AH & Hyde KD (2015) Morphology and phylogeny of two appendaged genera of coelomycetes: _Ciliochorella_ and _Discosia_. **Sydowia** 66: 217-226. DOI 10.12905/0380.sydowia67-2015-0217
+69- Tangthirasunun N, Silar P, Bhat DJ, Maharachchikumbura SSN, Wijayawardene NN, Bahkali AH & Hyde KD (2015) Morphology and phylogeny of two appendaged genera of coelomycetes: _Ciliochorella_ and _Discosia_. **Sydowia** 66: 217-226. 
+DOI 10.12905/0380.sydowia67-2015-0217
 
 68- Chapeland-Leclerc F, Dilmaghani A, Ez-Zaki L, Boisnard S, Da Silva B, Gaslonde T, Porée FH & Ruprich-Robert G (2015) Systematic gene deletion and functional characterization of histidine kinase phosphorelay receptors (HKRs) in the human pathogenic fungus _Aspergillus fumigatus_. **Fung. Genet. Biol.** 84: 1-11. doi: 10.1016/j.fgb.2015.09.005
 
-67- Chan Ho Tong L, Dairou J, Bui LC, Bouillon J, Rodrigues-Lima F, Dupret JM & Silar P (2015) Screen for soil fungi highly resistant to dichloroaniline uncovers mostly Fusarium species. **Fung. Genet. Biol.** 81: 82-87. doi: 10.1016/j.fgb.2015.05.011
+67- Chan Ho Tong L, Dairou J, Bui LC, Bouillon J, Rodrigues-Lima F, Dupret JM & Silar P (2015) Screen for soil fungi highly resistant to dichloroaniline uncovers mostly Fusarium species. **Fung. Genet. Biol.** 81: 82-87. 
+doi: 10.1016/j.fgb.2015.05.011
 
 66- Grognet P & Silar P (2015) Maintaining heterokaryosis in pseudo-homothallic fungi. **Comm. Int. Biol.** 8(4): e994382. doi: 10.4161/19420889.2014.994382
 
 65- Lacaze I, Lalucque H, Siegmund U, Silar P & Brun S (2015) Identification of NoxD/Pro41 as the homologue of the p22phox NADPH oxidase subunit in fungi. **Mol. Microbiol.** 95: 1006-1024. doi: 10.1111/mmi.12876
 
-64- Goarin A, Silar P & Malagnac F (2015) Gene replacement in _Penicillium roqueforti_. **Curr. Genet.** 61: 203-210. doi: 10.1007/s00294-014-0456-8
+64- Goarin A, Silar P & Malagnac F (2015) Gene replacement in _Penicillium roqueforti_. **Curr. Genet.** 61: 203-210. 
+doi: 10.1007/s00294-014-0456-8
 
 63- Xie N, Ruprich-Robert G, Silar P & Chapeland-Leclerc F (2015) Bilirubin oxidase-like proteins from _Podospora anserina_: promising thermostable enzymes for application in transformation of plant biomass. **Env. Microbiol.** 17: 866-875. doi: 10.1111/1462-2920.12549
 
@@ -121,7 +129,8 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 60- Tangthirasunun N, Silar P, Bhat DJ, Chukeatirote E, Wikee S, Maharachchikumbura SNM, Hyde KD & Wang Y (2014) Morphology and phylogeny of _Chaetospermum_ (asexual coelomycetous Basidiomycota). **Phytotaxa** 175: 061-072. doi.org/10.11646/phytotaxa.175.2.1 
 
-59- Silar P (2014) Simple genetic tools to study fruiting body development in fungi. **Open Mycol.** 8: 148-155. DOI: 10.2174/1874437001408010148
+59- Silar P (2014) Simple genetic tools to study fruiting body development in fungi. **Open Mycol.** 8: 148-155.
+DOI: 10.2174/1874437001408010148
 
 58- Tangthirasunun N, Silar P, Bhat DJ, Chukeatirote E, Wijayawardene DNN, Maharachchikumbura SSN & Hyde KD (2014) Morphology and phylogeny of _Pseudorobillarda eucalypti sp. nov._, from Thailand. **Phytotaxa** 176: 251-259. doi.org/10.11646/phytotaxa.176.1.24
 
@@ -157,121 +166,133 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 44- Lalucque H, Malagnac F, Brun S, Kicka S & Silar P (2012) A non-mendelian MAPK-generated hereditary unit controlled by a second MAPK pathway in _Podospora anserina_. **Genetics** 191: 419–433. doi: 10.1534/genetics.112.139469
 
-43- Lasrama S, Oueslati S, Mliki A, Ghorbel A, Silar P & Chebil S (2012) Ochratoxin A and ochratoxigenic black Aspergillus species in Tunisian grapes cultivated in different geographic areas. **Food Control** 25: 75-80.
+43- Lasrama S, Oueslati S, Mliki A, Ghorbel A, Silar P & Chebil S (2012) Ochratoxin A and ochratoxigenic black Aspergillus species in Tunisian grapes cultivated in different geographic areas. **Food Control** 25: 75-80. doi.org/10.1016/j.foodcont.2011.10.006
 
-42- Bourdais A, Bidard F, Zickler D, Berteaux-Lecellier V, Silar P & Espagne E (2012) Wood utilization is dependent on catalase activities in the filamentous fungus _Podospora anserina_. **PLoS One** 7(4): e29820.
+42- Bourdais A, Bidard F, Zickler D, Berteaux-Lecellier V, Silar P & Espagne E (2012) Wood utilization is dependent on catalase activities in the filamentous fungus _Podospora anserina_. **PLoS One** 7(4): e29820. doi.org/10.1371/journal.pone.0029820
 
 **2011**
 
-41- Bidard F, Aït Benkhali J, Coppin E, Imbeaud S, Grognet P, Delacroix H & Debuchy R (2011) Genome-wide gene expression profiling of fertilization competent mycelium in opposite mating types in the heterothallic fungus _Podospora anserina_. **PLoS One** 6(6): e21476.
+41- Bidard F, Aït Benkhali J, Coppin E, Imbeaud S, Grognet P, Delacroix H & Debuchy R (2011) Genome-wide gene expression profiling of fertilization competent mycelium in opposite mating types in the heterothallic fungus _Podospora anserina_. **PLoS One** 6(6): e21476. doi.org/10.1371/journal.pone.0021476
 
-40- Silar P (2011) Grafting as a mean to study development in the filamentous fungus _Podospora anserina_. **Fungal Biol.** 115: 793-802.
+40- Silar P (2011) Grafting as a mean to study development in the filamentous fungus _Podospora anserina_. **Fungal Biol.** 115: 793-802. doi.org/10.1016/j.funbio.2011.06.005
 
-39- Espagne E, Vasnier C, Storlazzi A, Kleckner N, Silar P, Zickler D & Malagnac F (2011) Sme4 coiled-coil protein mediates synaptonemal complex assembly, recombinosome relocalization and spindle pole body morphogenesis. **Proc. Natl. Acad. Sci. U.S.A.** 26: 10614-10619.
+39- Espagne E, Vasnier C, Storlazzi A, Kleckner N, Silar P, Zickler D & Malagnac F (2011) Sme4 coiled-coil protein mediates synaptonemal complex assembly, recombinosome relocalization and spindle pole body morphogenesis. **Proc. Natl. Acad. Sci. U.S.A.** 26: 10614-10619. doi.org/10.1073/pnas.1107272108
 
 **2010**
 
-38- Martins M, Dairou J, Rodrigues-Lima F, Dupret JM & Silar P (2010) Insights into the phylogeny or arylamine N-acetyltransferases in fungi. **J. Mol. Evol.** 71: 141–152.
+38- Martins M, Dairou J, Rodrigues-Lima F, Dupret JM & Silar P (2010) Insights into the phylogeny or arylamine N-acetyltransferases in fungi. **J. Mol. Evol.** 71: 141–152. doi: 10.1007/s00239-010-9371
 
-37- Grissa I, Bidard F, Grognet P, Grossetete S & Silar P (2010) The Nox/Ferric reductase/Ferric reductase-like families of Eumycetes. **Fungal Biol.** 114: 766-777.
+37- Grissa I, Bidard F, Grognet P, Grossetete S & Silar P (2010) The Nox/Ferric reductase/Ferric reductase-like families of Eumycetes. **Fungal Biol.** 114: 766-777. doi: 10.1016/j.funbio.2010.07.002
 
-36- Bidard F, Imbeaud S, Reymond N, Lespinet O, Silar P, Clave C, Delacroix H, Berteaux-Lecellier V & Debuchy R (2010) A general framework for optimization of probes for gene expression microarray and its application to the fungus _Podospora anserina_. **BMC Res Notes** 3: 171.
+36- Bidard F, Imbeaud S, Reymond N, Lespinet O, Silar P, Clave C, Delacroix H, Berteaux-Lecellier V & Debuchy R (2010) A general framework for optimization of probes for gene expression microarray and its application to the fungus _Podospora anserina_. **BMC Res Notes** 3: 171. doi: 10.1186/1756-0500-3-171
 
 **2009**
 
-35- Brun S, Malagnac F, Bidard F, Lalucque H & Silar P (2009) Functions and regulation of the Nox family in the filamentous fungus _Podospora anserina_: a new role in cellulose degradation. **Mol. Microbiol.** 74: 480-496.
+35- Brun S, Malagnac F, Bidard F, Lalucque H & Silar P (2009) Functions and regulation of the Nox family in the filamentous fungus _Podospora anserina_: a new role in cellulose degradation. **Mol. Microbiol.** 74: 480-496. 
+doi: 10.1111/j.1365-2958.2009.06878
 
-34- Martins M, Rodrigues-Lima F, Dairou J, Lamouri A, Malagnac F, Silar P & Dupret JM (2009) An acetyltransferase conferring tolerance to toxic aromatic amine chemicals: molecular and functional studies. **J. Biol. Chem.** 284: 18726-18733.
+34- Martins M, Rodrigues-Lima F, Dairou J, Lamouri A, Malagnac F, Silar P & Dupret JM (2009) An acetyltransferase conferring tolerance to toxic aromatic amine chemicals: molecular and functional studies. **J. Biol. Chem.** 284: 18726-18733. doi: 10.1074/jbc.M109.015230
 
 **2008**
 
-33- Malagnac F, Bidard F, Lalucque H, Brun S, Lambou K, Lebrun MH & Silar P (2008) Convergent evolution of morphogenetic processes in fungi: Role of tetraspanins and NADPH oxidases 2 in plant pathogens and saprobes. **Communicative & Integrative Biology** 1:180-181.
+33- Malagnac F, Bidard F, Lalucque H, Brun S, Lambou K, Lebrun MH & Silar P (2008) Convergent evolution of morphogenetic processes in fungi: Role of tetraspanins and NADPH oxidases 2 in plant pathogens and saprobes. **Communicative & Integrative Biology** 1:180-181. doi: 10.4161/cib.1.2.7198
 
-32- Lambou K, Malagnac F, Barbisan C, Tharreau D, Lebrun MH & Silar P (2008) The crucial role during ascospore germination of the Pls1 tetraspanin in Podospora anserina provides an example of the convergent evolution of morphogenetic processes in fungal plant pathogens and saprobes. **Euk. Cell** 7: 1809-1818.
+32- Lambou K, Malagnac F, Barbisan C, Tharreau D, Lebrun MH & Silar P (2008) The crucial role during ascospore germination of the Pls1 tetraspanin in Podospora anserina provides an example of the convergent evolution of morphogenetic processes in fungal plant pathogens and saprobes. **Euk. Cell** 7: 1809-1818. doi.org/10.1128/ec.00149-08
 
-31- Espagne E$, Lespinet O$, Malagnac F$, Da Silva C, Jaillon O, Porcel BM, Couloux A, Aury J.M, Ségurens B, Poulain J, Anthouard V, Grossetete S, Khalili H, Coppin E, Déquard-Chablat M, Picard M, Contamine V, Arnaise S, Bourdais A, Berteaux-Lecellier V, Gautheret D, de Vries RP, Battaglia E, Coutinho PM, Danchin EGJ, Henrissat B, El Khoury R, Sainsard-Chanet A, Boivin A, Pinan-Lucarré B, Sellem C.H, Debuchy R, Wincker P, Weissenbach J & Silar P (2008) The Genome Sequence of the Model Ascomycete Fungus *Podospora anserina*. **Genome Biology** 9: R77. $ These authors contributed equally to the work
+
+31- Espagne E$, Lespinet O$, Malagnac F$, Da Silva C, Jaillon O, Porcel BM, Couloux A, Aury J.M, Ségurens B, Poulain J, Anthouard V, Grossetete S, Khalili H, Coppin E, Déquard-Chablat M, Picard M, Contamine V, Arnaise S, Bourdais A, Berteaux-Lecellier V, Gautheret D, de Vries RP, Battaglia E, Coutinho PM, Danchin EGJ, Henrissat B, El Khoury R, Sainsard-Chanet A, Boivin A, Pinan-Lucarré B, Sellem C.H, Debuchy R, Wincker P, Weissenbach J & Silar P (2008) The Genome Sequence of the Model Ascomycete Fungus *Podospora anserina*. **Genome Biology** 9: R77. $ These authors contributed equally to the work.
+doi.org/10.1186/gb-2008-9-5-r77
 
 **2007**
 
 30- Malagnac M, Klapholz B & Silar P (2007) PaTrx1 and PaTrx3, two cytosolic thioredoxins of the filamentous ascomycete _Podospora anserina_ involved in sexual development and cell degeneration. **Euk. Cell** 6: 2323-2331.
+doi: 10.1128/EC.00083-07
 
 29- Jamet-Vierny C, Debuchy R, Prigent M & Silar P (2007) IDC1, a Pezizomycotina-specific gene that belongs to the PaMpk1 MAP kinase transduction cascade of the filamentous fungus _Podospora anserina_. **Fung. Genet. Biol.** 44: 1219-1230.
+doi: 10.1016/j.fgb.2007.04.005
 
-28- Coppin E & Silar P (2007) Identification of PaPKS1, a polyketide synthase involved in melanin formation and its utilization as a genetic tool in _Podospora anserina_. **Mycol. Res.** 111: 901-908.
+28- Coppin E & Silar P (2007) Identification of PaPKS1, a polyketide synthase involved in melanin formation and its utilization as a genetic tool in _Podospora anserina_. **Mycol. Res.** 111: 901-908. doi: 10.1016/j.mycres.2007.05.011
 
 **2006**
 
-27- Dequard-Chablat M & Silar P (2006) _Podospora anserina_ AS6 gene encodes the cytosolic ribosomal protein of the _E. coli_ S12 family. **Fung. Genet. Newslett.** 53: 26-29.
+27- Dequard-Chablat M & Silar P (2006) _Podospora anserina_ AS6 gene encodes the cytosolic ribosomal protein of the _E. coli_ S12 family. **Fung. Genet. Newslett.** 53: 26-29. doi.org/10.4148/1941-4765.1111
 
-26- Malagnac F & Silar P (2006) Regulation, cell differentiation and protein-based inheritance. **Cell Cycle** 5: 2584 - 2587.
+26- Malagnac F & Silar P (2006) Regulation, cell differentiation and protein-based inheritance. **Cell Cycle** 5: 2584 - 2587. doi: 10.4161/cc.5.22.3465
 
-25- Kicka S, Bonnet C, Sobering AK, Ganesan LP & Silar P (2006) A mitotically inheritable unit containing a MAP kinase module. **Proc. Natl. Acad. Sci. U.S.A.** 36: 13445-13450.
+25- Kicka S, Bonnet C, Sobering AK, Ganesan LP & Silar P (2006) A mitotically inheritable unit containing a MAP kinase module. **Proc. Natl. Acad. Sci. U.S.A.** 36: 13445-13450. DOI: 10.1073/pnas.0603693103
 
 **2005**
 
-24- Haedens V, Malagnac F & Silar P (2005) Genetic control of an epigenetic cell degeneration syndrome in _Podospora anserina_. **Fung. Genet. Biol.** 42: 564-577.
+24- Haedens V, Malagnac F & Silar P (2005) Genetic control of an epigenetic cell degeneration syndrome in _Podospora anserina_. **Fung. Genet. Biol.** 42: 564-577. doi: 10.1016/j.fgb.2005.03.011
 
-23- Silar P (2005) Peroxide accumulation and cell death in filamentous fungi induced by contact with a contestant. **Mycol. Res.** 109: 137-149.
+23- Silar P (2005) Peroxide accumulation and cell death in filamentous fungi induced by contact with a contestant. **Mycol. Res.** 109: 137-149. doi.org/10.1017/S0953756204002230
 
 **2004**
 
-22- Malagnac F, Lalucque H, Lepère G & Silar P (2004) Two NADPH oxidase isoforms are required for sexual reproduction and ascospore germination in the filamentous fungus _Podospora anserina_. **Fung. Genet. Biol.** 41: 982-997.
+22- Malagnac F, Lalucque H, Lepère G & Silar P (2004) Two NADPH oxidase isoforms are required for sexual reproduction and ascospore germination in the filamentous fungus _Podospora anserina_. **Fung. Genet. Biol.** 41: 982-997. 
+doi: 10.1016/j.fgb.2004.07.008
 
-21- Graziani S, Silar P & Daboussi MJ (2004) Bistability and hysteresis of the "Secteur" differentiation is controlled by a two-gene locus in _Nectria haematococca_. **BMC Biology** 2:18.
+21- Graziani S, Silar P & Daboussi MJ (2004) Bistability and hysteresis of the "Secteur" differentiation is controlled by a two-gene locus in _Nectria haematococca_. **BMC Biology** 2:18. doi: 10.1186/1741-7007-2-18
 
-20- Kicka S & Silar P (2004) PaASK1, a MAPKKK that controls cell degeneration and cell differentiation in _Podospora anserina_. **Genetics** 166: 1241-1252.
+20- Kicka S & Silar P (2004) PaASK1, a MAPKKK that controls cell degeneration and cell differentiation in _Podospora anserina_. **Genetics** 166: 1241-1252. doi: 10.1534/genetics.166.3.1241
 
 19- Lalucque H & Silar P (2004) Incomplete penetrance and variable expressivity of a growth defect as a consequence of knocking out two K+ transporters in the euascomycete fungus _Podospora anserina_. **Genetics** 166: 125-134.
+doi: 10.1534/genetics.166.1.125
+
 
 **2003**
 
 18- Malagnac F & Silar P (2003) Non-Mendelian determinants of morphology in fungi. **Curr. Op. Microbiol.** 6: 641-645.
+DOI: 10.1016/j.mib.2003.10.003
 
-17- Silar P, Barreau C, Debuchy R, Kicka S, Turcq B, Sainsard-Chanet A, Sellem CH, Billault A, Cattolico L, Duprat S & Weissenbach J (2003) Characterization of the genomic organization of the region bordering the centromere of chromosome V of _Podospora anserina_ by direct sequencing. **Fung. Genet. Biol.** 39: 250-263.
+17- Silar P, Barreau C, Debuchy R, Kicka S, Turcq B, Sainsard-Chanet A, Sellem CH, Billault A, Cattolico L, Duprat S & Weissenbach J (2003) Characterization of the genomic organization of the region bordering the centromere of chromosome V of _Podospora anserina_ by direct sequencing. **Fung. Genet. Biol.** 39: 250-263. doi: 10.1016/s1087-1845(03)00025-2.
 
 16- Lalucque H & Silar P (2003) NADPH oxidases : an enzyme for multicellularity? **Trends Microbiol.** 11: 9-12.
+doi: 10.1016/s0966-842x(02)00007-0
 
 **2002**
 
-15- Barreau C, Sellem C, Silar P, Sainsard-Chanet A & Turcq B (2002) A rapid and efficient method using chromoslots to assign any newly cloned DNA sequence to its cognate chromosome in the filamentous fungus _Podospora anserina_. **FEMS Microbiol. Lett.** 216: 55-60.
+15- Barreau C, Sellem C, Silar P, Sainsard-Chanet A & Turcq B (2002) A rapid and efficient method using chromoslots to assign any newly cloned DNA sequence to its cognate chromosome in the filamentous fungus _Podospora anserina_. **FEMS Microbiol. Lett.** 216: 55-60. doi: 10.1111/j.1574-6968.2002.tb11414.x
 
 **2001**
 
-14- Silar P, Lalucque H, Haedens V, Zickler D & Picard M (2001) eEF1A controls ascospore differentiation through elevated accuracy, but controls longevity and fruiting body formation through another mechanism in _Podospora anserina_. **Genetics** 158: 1477–1489.
+14- Silar P, Lalucque H, Haedens V, Zickler D & Picard M (2001) eEF1A controls ascospore differentiation through elevated accuracy, but controls longevity and fruiting body formation through another mechanism in _Podospora anserina_. **Genetics** 158: 1477–1489. doi: 10.1093/genetics/158.4.1477
 
-13- Silar P, Lalucque H & Vierny C (2001) Cell degeneration in the model system _Podospora anserina_. **Biogerontology** 2: 1-17.
+13- Silar P, Lalucque H & Vierny C (2001) Cell degeneration in the model system _Podospora anserina_. **Biogerontology** 2: 1-17. doi: 10.1023/a:1010000816277
 
 **2000**
 
-12- Lalucque H & Silar P (2000) In vivo labelling of functional ribosomes reveals spatial regulation during starvation in _Podospora anserina_. **BMC Genetics** 1: 3.
+12- Lalucque H & Silar P (2000) In vivo labelling of functional ribosomes reveals spatial regulation during starvation in _Podospora anserina_. **BMC Genetics** 1: 3.  DOI: 10.1186/1471-2156-1-3
 
-11- Silar P, Rossignol M, Tahar R, Derhy Z & Mazabraud M (2000) Informational suppressor alleles of eEF1A gene, fertility & cell degeneration in _Podospora anserina_. **Mol. Gen. Genet.** 264: 354-362.
+11- Silar P, Rossignol M, Tahar R, Derhy Z & Mazabraud M (2000) Informational suppressor alleles of eEF1A gene, fertility & cell degeneration in _Podospora anserina_. **Mol. Gen. Genet.** 264: 354-362. doi: 10.1007/s004380000337
 
-10- Silar P, Rossignol M, Haedens V, Derhy Z & Mazabraud A (2000) Deletion & dosage modulation of the eEF1A gene in _Podospora anserina_: effect on the life cycle. **Biogerontology** 1: 47-54.
+10- Silar P, Rossignol M, Haedens V, Derhy Z & Mazabraud A (2000) Deletion & dosage modulation of the eEF1A gene in _Podospora anserina_: effect on the life cycle. **Biogerontology** 1: 47-54. doi: 10.1023/a:1010029723081
 
 **1999**
 
-9- Jamet-Vierny C, Rossignol M, Haedens V & Silar P (1999) What triggers Senescence in _Podospora anserina_? **Fung. Genet. Biol.** 27: 26-35.
+9- Jamet-Vierny C, Rossignol M, Haedens V & Silar P (1999) What triggers Senescence in _Podospora anserina_? **Fung. Genet. Biol.** 27: 26-35. doi.org/10.1006/fgbi.1999.1127
 
 8- Silar P & Daboussi MJ (1999) Non-conventional infectious elements in filamentous fungi. **Trends Genet.** 15: 141-145.
+doi: 10.1016/s0168-9525(99)01698-4
 
 7- Silar P, Haedens V, Rossignol M & Lalucque H (1999) Propagation of a novel cytoplasmic, infectious and deleterious determinant is controlled by translational accuracy in _Podospora anserina_. **Genetics** 151: 87-95.
+doi: 10.1093/genetics/151.1.87
 
 **1998**
 
-6- Gagny B & Silar P (1998) Identification of the genes encoding the cytosolic translation release factors from _Podospora anserina_ and analysis of their role during the life cycle. **Genetics** 149: 1763-1765.
+6- Gagny B & Silar P (1998) Identification of the genes encoding the cytosolic translation release factors from _Podospora anserina_ and analysis of their role during the life cycle. **Genetics** 149: 1763-1765. doi: 10.1093/genetics/149.4.1763
 
 **1997**
 
-5- Jamet-Vierny C, Contamine V, Boulay J, Zickler D & Picard M (1997) Mutations in genes encoding the mitochondrial outer membrane proteins Tom70 and Mdm10 of _Podospora anserina_ modify the spectrum of mitochondrial DNA rearrangements associated with cellular death. **Mol. Cell. Biol.** 17: 6359-6366.
+5- Jamet-Vierny C, Contamine V, Boulay J, Zickler D & Picard M (1997) Mutations in genes encoding the mitochondrial outer membrane proteins Tom70 and Mdm10 of _Podospora anserina_ modify the spectrum of mitochondrial DNA rearrangements associated with cellular death. **Mol. Cell. Biol.** 17: 6359-6366. doi: 10.1128/MCB.17.11.6359
 
-4- Gagny B, Rossignol M & Silar P (1997) Cloning, sequencing and transgenic expression of _Podospora curvicolla_ and _Sordaria macrospora_ eEF1A genes: relationship between cytosolic translation and longevity in filamentous fungi. **Fung. Genet. Biol.** 22: 191-198.
+4- Gagny B, Rossignol M & Silar P (1997) Cloning, sequencing and transgenic expression of _Podospora curvicolla_ and _Sordaria macrospora_ eEF1A genes: relationship between cytosolic translation and longevity in filamentous fungi. **Fung. Genet. Biol.** 22: 191-198. DOI: 10.1006/fgbi.1997.1012
 
-3- Silar P, Koll F & Rossignol M (1997) Cytosolic ribosomal mutations that abolish amplification of circular intron without preventing senescence in _Podospora anserina_. **Genetics** 145: 697:705.
+3- Silar P, Koll F & Rossignol M (1997) Cytosolic ribosomal mutations that abolish amplification of circular intron without preventing senescence in _Podospora anserina_. **Genetics** 145: 697:705. doi: 10.1093/genetics/145.3.697
 
-2- Jamet-Vierny C, Boulay J, Begel O & Silar P (1997) Contribution of various classes of defective mitochondrial DNA molecules to senescence in _Podospora anserina_. **Curr. Genet.** 31: 171-178.
+2- Jamet-Vierny C, Boulay J, Begel O & Silar P (1997) Contribution of various classes of defective mitochondrial DNA molecules to senescence in _Podospora anserina_. **Curr. Genet.** 31: 171-178. doi: 10.1007/s002940050192
 
-1- Jamet-Vierny C, Boulay J & Briand JF (1997) Intramolecular cross-overs generate deleted mitochondrial DNA molecules in _Podospora anserina_. **Curr. Genet.** 31: 162-170.
+1- Jamet-Vierny C, Boulay J & Briand JF (1997) Intramolecular cross-overs generate deleted mitochondrial DNA molecules in _Podospora anserina_. **Curr. Genet.** 31: 162-170. doi: 10.1007/s002940050191
 <br/><br/>
 ## Livres
 

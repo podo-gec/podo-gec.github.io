@@ -57,33 +57,33 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 87- Demoor A, Silar P & Brun S (2019) Appressorium: The Breakthrough in Dikarya. **J. Fungi** 5(3): 72. DOI: 10.3390/jof5030072
 
-86- Silar P, Dauget JM, Gautier V, Grognet P, Chablat M, Hermann Le Denmat S, Couloux A, Wincker P & Debuchy R (2019) A gene graveyard in the genome of the fungus _Podospora comata_. **Mol. Gen. Genom.** 294: 177-190.
+86- Silar P, Dauget JM, Gautier V, Grognet P, Chablat M, Hermann Le Denmat S, Couloux A, Wincker P & Debuchy R (2019) A gene graveyard in the genome of the fungus _Podospora comata_. **Mol. Gen. Genom.** 294: 177-190. doi: 10.1007/s00438-018-1497-3
 
 **2018**
 
-85- Nguyen TS, Lalucque H & Silar P (2018) Identification and characterization of PDC1, a novel protein involved in the epigenetic cell degeneration Crippled Growth in _Podospora anserina_. **Mol. Microbiol.** 110(4): 499-512.
+85- Nguyen TS, Lalucque H & Silar P (2018) Identification and characterization of PDC1, a novel protein involved in the epigenetic cell degeneration Crippled Growth in _Podospora anserina_. **Mol. Microbiol.** 110(4): 499-512. DOI: 10.1111/mmi.14096
 
-84- Ferrari R, Lacaze I, Le Faouder P, Bertrand-Michel J, Oger C, Galano JM, Durand T, Moularat S, Chan Ho Tong L, Boucher C, Kilani J, Petit Y, Vanparis O, Trannoy C, Brun S, Lalucque H, Malagnac F & Silar (2018) Cyclooxygenases and lipoxygenases are used by the fungus _Podospora anserina_ to repel nematodes. **Biochimica & Biophysica Acta (BBA) - General Subjects** 1862(10): 2174-2182.
+84- Ferrari R, Lacaze I, Le Faouder P, Bertrand-Michel J, Oger C, Galano JM, Durand T, Moularat S, Chan Ho Tong L, Boucher C, Kilani J, Petit Y, Vanparis O, Trannoy C, Brun S, Lalucque H, Malagnac F & Silar (2018) Cyclooxygenases and lipoxygenases are used by the fungus _Podospora anserina_ to repel nematodes. **Biochimica & Biophysica Acta (BBA) - General Subjects** 1862(10): 2174-2182. doi: 10.1016/j.bbagen.2018.07.012
 
-83- Gautier V, Chan Ho Tong L, Nguyen TS, Debuchy R & Silar P (2018) PaPro1 and IDC4, two genes controlling stationary phase, sexual development and cell degeneration in _Podospora anserina_. **J. Fungi.** 4(3): 85.
+83- Gautier V, Chan Ho Tong L, Nguyen TS, Debuchy R & Silar P (2018) PaPro1 and IDC4, two genes controlling stationary phase, sexual development and cell degeneration in _Podospora anserina_. **J. Fungi.** 4(3): 85. doi.org/10.1016/j.ydbio.2016.12.016
 
-82- Xie N, Ruprich-Robert G, Silar P, Herbert E, Ferrari R & Chapeland-Leclerc F (2018) Characterization of three multicopper oxidases in the filamentous fungus _Podospora anserina_: A new role of ABR1-like in fungal development. **Fung. Genet. Biol.** 116: 1-13.
+82- Xie N, Ruprich-Robert G, Silar P, Herbert E, Ferrari R & Chapeland-Leclerc F (2018) Characterization of three multicopper oxidases in the filamentous fungus _Podospora anserina_: A new role of ABR1-like in fungal development. **Fung. Genet. Biol.** 116: 1-13. doi.org/10.1016/j.fgb.2018.04.007
 
-81- Silar P (2018) Epitypification of _Malinvernia anserina_ revisited. **Schlechtendalia** 34: 1-2.
+81- Silar P (2018) Epitypification of _Malinvernia anserina_ revisited. **Schlechtendalia** 34: 1-2. doi.org/10.25673/90162
 
-80- Cohen M, Lepesant G, Lamari F, Bilodeau C, Benyei P, Angles S, Bouillon J, Bourrand K, Landoulsi R, Jaboeuf D, Alonso-Roldan M, Espadas I, Belandria V, Silar P & Dicko M (2018) Biomolecules from olive pruning waste in Sierra Mágina - Engaging the energy transition by multi-actor and multidisciplinary analyses. **J. Env. Manag.** 216: 204-213.
+80- Cohen M, Lepesant G, Lamari F, Bilodeau C, Benyei P, Angles S, Bouillon J, Bourrand K, Landoulsi R, Jaboeuf D, Alonso-Roldan M, Espadas I, Belandria V, Silar P & Dicko M (2018) Biomolecules from olive pruning waste in Sierra Mágina - Engaging the energy transition by multi-actor and multidisciplinary analyses. **J. Env. Manag.** 216: 204-213. doi.org/10.1016/j.jenvman.2017.03.067
 
 **2017**
 
-79- Boucher C., Nguyen TS & Silar P (2017) Species delimitation in the _Podospora anserina_/_P. pauciseta_/_P. comata_ species complex (_Sordariales_). **Cryptogamie Mycologie** 38(4): 485-506.
+79- Boucher C., Nguyen TS & Silar P (2017) Species delimitation in the _Podospora anserina_/_P. pauciseta_/_P. comata_ species complex (_Sordariales_). **Cryptogamie Mycologie** 38(4): 485-506. doi.org/10.7872/crym/v38.iss4.2017.485
 
-78- Xie N, Ruprich-Robert G, Chapeland-Leclerc F, Coppin E, Lalucque H, Brun S, Debuchy R & Silar P (2017) Inositol-phosphate signaling as mediator for growth and sexual reproduction in _Podospora anserina_. **Dev. Biol.** 429: 285-305.
+78- Xie N, Ruprich-Robert G, Chapeland-Leclerc F, Coppin E, Lalucque H, Brun S, Debuchy R & Silar P (2017) Inositol-phosphate signaling as mediator for growth and sexual reproduction in _Podospora anserina_. **Dev. Biol.** 429: 285-305. doi: 10.1016/j.ydbio.2017.06.017
 
-77- Lalucque H, Malagnac F, Green K, Gautier V, Grognet P, Chan Ho Tong L, Scott B & Silar P (2017) IDC2 and IDC3, two genes involved in cell non-autonomous signaling of fruiting body development in the model fungus _Podospora anserina_. **Dev. Biol.** 421: 126-138.
+77- Lalucque H, Malagnac F, Green K, Gautier V, Grognet P, Chan Ho Tong L, Scott B & Silar P (2017) IDC2 and IDC3, two genes involved in cell non-autonomous signaling of fruiting body development in the model fungus _Podospora anserina_. **Dev. Biol.** 421: 126-138. DOI: 10.1016/j.ydbio.2016.12.016
 
-76- Green KA2, Becker Y, Tanaka A, Takemoto D, Fitzsimons HL, Seiler S, Lalucque H, Silar P & Scott B (2017) SymB and SymC, two membrane associated proteins, are required for _Epichloë festucae_ hyphal cell-cell fusion and maintenance of a mutualistic interaction with _Lolium perenne_. **Mol. Microbiol.** 103: 657-677.
+76- Green KA2, Becker Y, Tanaka A, Takemoto D, Fitzsimons HL, Seiler S, Lalucque H, Silar P & Scott B (2017) SymB and SymC, two membrane associated proteins, are required for _Epichloë festucae_ hyphal cell-cell fusion and maintenance of a mutualistic interaction with _Lolium perenne_. **Mol. Microbiol.** 103: 657-677. DOI: 10.1111/mmi.13580
 
-75- Tangthirasunun N, Navarro D, Garajova S, Chevret D, Chan Ho Tong L, Gautier V, Hyde KD, Silar P & Berrin JG (2017) Inactivation of Cellobiose Dehydrogenases Modifies the Cellulose Degradation Mechanism of _Podospora anserina_. **Appl. Env. Microbiol.** 83: e02716-16.
+75- Tangthirasunun N, Navarro D, Garajova S, Chevret D, Chan Ho Tong L, Gautier V, Hyde KD, Silar P & Berrin JG (2017) Inactivation of Cellobiose Dehydrogenases Modifies the Cellulose Degradation Mechanism of _Podospora anserina_. **Appl. Env. Microbiol.** 83: e02716-16. doi: 10.1128/AEM.02716-16
 
 **2016**
 

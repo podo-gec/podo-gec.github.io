@@ -31,13 +31,13 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 **2022**
 
-96- Nguyen T.S., Gautier V., Chan Ho Tong L. & Silar P. (2022) A gene cluster with positive and negative elements controls bistability and hysteresis of the Crippled versus Normal growth in the fungus *Podospora anserina*. **Fung. Fenet. Biol.** 161: 103711. 10.1016/j.fgb.2022.103711
+96- Nguyen T.S., Gautier V., Chan Ho Tong L. & Silar P. (2022) A gene cluster with positive and negative elements controls bistability and hysteresis of the Crippled versus Normal growth in the fungus *Podospora anserina*. **Fung. Fenet. Biol.** 161: 103711. doi: 10.1093/g3journal/jkab159
 
 **2021**
 
-95- Gautier V., Levert E., Giraud T. & Silar P. (2021) Important role of melanin for fertility in the fungus *Podospora anserina*. **G3** 11(8), jkab159.
+95- Gautier V., Levert E., Giraud T. & Silar P. (2021) Important role of melanin for fertility in the fungus *Podospora anserina*. **G3** 11(8), jkab159. doi: 10.1093/g3journal/jkab159
 
-94- Vogan A., Miller A.N. & Silar P. (2021) Proposal to change the conserved type of Podospora, nom. cons. (Ascomycota). **Taxon** 70(2): 429-430.
+94- Vogan A., Miller A.N. & Silar P. (2021) Proposal to change the conserved type of Podospora, nom. cons. (Ascomycota). **Taxon** 70(2): 429-430. doi.org/10.1002/tax.12478
 
 93- Hartmann F.E., Ament-Velásquez S.L., Vogan A.A., Gautier V., Le Prieur S., Berramdane M., Snirc A., Johannesson H., Grognet P, Malagnac F., Silar P. & Giraud T. (2021) Size variation of the non-recombining region on the mating-type chromosomes in the fungal *Podospora anserina* species complex. **Mol. Biol. Evol.** 38(6):2475-2492.
 

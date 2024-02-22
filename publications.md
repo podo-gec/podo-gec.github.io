@@ -19,7 +19,7 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 **2023**
 
-100- Luong T.T.H., Silar P., Poeaim S. & Tangthirasunun N, (2023) Isolation, screening wood rot fungi from the tropical forest of Thailand and their lignocellulolytic enzyme production under solid-state fermentation using agricultural waste as substrate. Biomass Conv. Bioref. doi.org/10.1007/s13399-023-05129-1
+100- Luong T.T.H., Silar P., Poeaim S. & Tangthirasunun N, (2023) Isolation, screening wood rot fungi from the tropical forest of Thailand and their lignocellulolytic enzyme production under solid-state fermentation using agricultural waste as substrate. **Biomass Conv. Bioref.** doi.org/10.1007/s13399-023-05129-1
 
 99- Hensen N., Bonometti L., Westerberg I., Brännströmc I.O., Guillou S., Cros-Aarteil S., Calhoun S., Haridas S., Kuo A., Mondo S., Pangilinan J., Riley R., LaButti K., Andreopoulos B., Lipzen A., Chen C., Yan M., Daum C., Ng V., Clum A., Steindorff A., Ohm R., Martin F., Silar P., Natvig D., Lalanne C., Gautier V., Ament-Velásquez S.L., Kruys A., Hutchinson M.I., Powell A.J., Barry K., Miller A.N., Grigoriev I.V., Debuchy R.,  Gladieux P., Hiltunen Thorén M. & Johannesson H. (2023) Genome-scale phylogeny and comparative genomics of the fungal order Sordariales. **Mol. Phylogenet. Evol.** 189: 107938.
 

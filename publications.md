@@ -17,13 +17,14 @@ doi:10.3390/jof10010079
 102- Gautier V., Nguyen T.S. & Silar P. (2024) Fungal/bacterial syntrophy of glycerol utilization **Cryptogamie Mycologie** In the press.
 
 101- Ferrari R., Gautier V., Tangthirasunun N., Chan Ho Tong L. & Silar P. (2024) Characterization of the *Podospora anserina* peroxidase gene family. **Cryptogamie Mycologie** 45(2): 11-28.
+doi.org/10.5252/cryptogamie-mycologie2024v45a2
 
 **2023**
 
 100- Luong T.T.H., Silar P., Poeaim S. & Tangthirasunun N, (2023) Isolation, screening wood rot fungi from the tropical forest of Thailand and their lignocellulolytic enzyme production under solid-state fermentation using agricultural waste as substrate. **Biomass Conv. Bioref.** 
 doi.org/10.1007/s13399-023-05129-1
 
-99- Hensen N., Bonometti L., Westerberg I., Brännströmc I.O., Guillou S., Cros-Aarteil S., Calhoun S., Haridas S., Kuo A., Mondo S., Pangilinan J., Riley R., LaButti K., Andreopoulos B., Lipzen A., Chen C., Yan M., Daum C., Ng V., Clum A., Steindorff A., Ohm R., Martin F., Silar P., Natvig D., Lalanne C., Gautier V., Ament-Velásquez S.L., Kruys A., Hutchinson M.I., Powell A.J., Barry K., Miller A.N., Grigoriev I.V., Debuchy R.,  Gladieux P., Hiltunen Thorén M. & Johannesson H. (2023) Genome-scale phylogeny and comparative genomics of the fungal order Sordariales. **Mol. Phylogenet. Evol.** 189: 107938. 
+99- Hensen N., Bonometti L., Westerberg I., Brännströmc I.O., Guillou S., Cros-Aarteil S., Calhoun S., Haridas S., Kuo A., Mondo S., Pangilinan J., Riley R., LaButti K., Andreopoulos B., Lipzen A., Chen C., Yan M., Daum C., Ng V., Clum A., Steindorff A., Ohm R., Martin F., Silar P., Natvig D., Lalanne C., Gautier V., Ament-Velásquez S.L., Kruys A., Hutchinson M.I., Powell A.J., Barry K., Miller A.N., Grigoriev I.V., Debuchy R.,  Gladieux P., Hiltunen Thorén M. & Johannesson H. (2023) Genome-scale phylogeny and comparative genomics of the fungal order Sordariales. **Mol. Phylogenet. Evol.** 189: 107938.
 doi.org/10.1016/j.ympev.2023.107938
 
 98- Vittorelli N., Rodríguez de la Vega R.C., Snirc A., Levert E., Gautier V., Lalanne C., De Filippo E., Gladieux P., Guillou S., Zhang Y., Tejomurthula S., Grigoriev I.V., Debuchy R., Silar P., Giraud T. & Hartmann F.E. (2023) Stepwise recombination suppression around the mating-type locus in an ascomycete fungus with self-fertile spores. **PLOS Genet.** 19(2):e1010347. 
@@ -70,7 +71,7 @@ doi:10.3897/mycokeys.75.55968
 doi:10.1016/j.fgb.2019.103257
 
 87- Demoor A, Silar P & Brun S (2019) Appressorium: The Breakthrough in Dikarya. **J. Fungi** 5(3): 72.
-DOI: 10.3390/jof5030072
+DOI:10.3390/jof5030072
 
 86- Silar P, Dauget JM, Gautier V, Grognet P, Chablat M, Hermann Le Denmat S, Couloux A, Wincker P & Debuchy R (2019) A gene graveyard in the genome of the fungus _Podospora comata_. **Mol. Gen. Genom.** 294: 177-190.
 doi:10.1007/s00438-018-1497-3
@@ -121,7 +122,7 @@ doi.org/10.1051/mattech/2016035
 doi.org/10.1186/s13071-016-1763-3
 
 72- Timpano H, Chan Ho Tong L, Gautier V, Lalucque H & Silar P (2016) The PaPsr1 and PaWhi2 genes are members of the regulatory network that connect stationary phase to mycelium differentiation and reproduction in _Podospora anserina_. **Fung. Genet. Biol.** 94: 1-10. 
-doi: 10.1016/j.fgb.2016.06.006
+doi:10.1016/j.fgb.2016.06.006
 
 71- Couturier M, Tangthirasunun N, Xie N, Brun S, Gautier V, Bennati-Granier C, Silar P, Berrin JG (2016) Plant biomass degrading ability of the coprophilic ascomycete fungus _Podospora anserina_. **Biotechnology Advances** 34: 976-983. doi.org/10.1016/j.biotechadv.2016.05.010
 
@@ -270,7 +271,7 @@ doi:10.1128/EC.00083-07
 doi:10.1016/j.fgb.2007.04.005
 
 28- Coppin E & Silar P (2007) Identification of PaPKS1, a polyketide synthase involved in melanin formation and its utilization as a genetic tool in _Podospora anserina_. **Mycol. Res.** 111: 901-908.
-doi: 10.1016/j.mycres.2007.05.011
+doi:10.1016/j.mycres.2007.05.011
 
 **2006**
 

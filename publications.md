@@ -454,38 +454,52 @@ doi.org/10.1051/jbio/2013024
 5- Pereira C, Azé J, Denise A, Drevet C, Froidevaux C, Silar P & Lespinet O (2013) Comparative analysis of phylogenetic profiles for the enzymatic characterization of fungal groups. **JOBIM**, editors: Christine Gaspin, Nic Lindley and Cédric Notredame, pages 269-279.
 
 4- Cocaign A, Dairou J, Rodrigues-Lima F, Silar P & Dupret JM (2012) Biotransformation of aromatic amines in contaminated soils: characterization of fungal acetyltransferases. **FEBS J.** 279(SI1): 438.
+doi.org/10.1111/j.1742-4658.2010.08705.x
 
 3- Silar P, Dairou J, Cocaign A, Busi F, Rodrigues-Lima F & Dupret JM (2011) Fungi as a promising tool for bioremediation of soils contaminated with aromatic amines, a major class of pollutants. **Nat. Rev. Microbiol.** 9: 477.
+doi.org/10.1038/nrmicro2519-c1
 
-2- Martins M, Silar P, Dairou J, Malagnac F, Rodrigues-Lima F & Dupret JM (2007) Cloning, and functional characterization of two NAT enzymes in the soil fungus _Podospora anserina_. **FEBS J.** 274: 226.
+2- Martins M, Silar P, Dairou J, Malagnac F, Rodrigues-Lima F & Dupret JM (2007) Cloning, and functional characterization of two NAT enzymes in the soil fungus _Podospora anserina_. **FEBS J.** 274(S1): 226.
+doi.org/10.1111/j.0014-2956.2007.05861_4.x
 
 1- Silar P, Vierny C, Gagny B, Rossignol M & Haedens V (1997) Génétique de deux dégénérescences cellulaires chez le champignon filamenteux Podospora anserina. **C. R. Soc. Biol.** 191: 563-577.
 
 ## Autres publications des membres du laboratoire en collaboration externe
 
 12- Planchon M, Léger T, Spalla O, Huber G & Ferrari R (2017) Metabolomic and proteomic investigations of impacts of titanium dioxide nanoparticles on _Escherichia coli_. **PLOS One** 12(6): e0178437.
+DOI:10.1371/journal.pone.0178437
 
 11- Huang SK, Tangthirasunun N, Phillipps AJL, Dai, DQ, Wanasinghe DN, Wen, TC, Bahkali AH, Hyde KD & Kang JC (2016) Morphology and Phylogeny of _Neoscytalidium orchidacearum sp. nov._ (Botryosphaeriaceae). **Mycobiology** 44: 79-84.
+doi:10.5941/MYCO.2016.44.2.79
 
 10 -Abdallah J, Mihoub M, Gautier V & Richarme G (2016) The DJ-1 superfamily members YhbO and YajL from _Escherichia coli_ repair proteins from glycation by methylglyoxal and glyoxal. **Biochem Biophys Res Commun** 470(2): 282-286.
+DOI:10.1016/j.bbrc.2016.01.068
 
 9- Samazan F, Rokbi B, Seguin D, Telles F, Gautier V, Richarme G, Chevret D, Varela PF, Velours C & Poquet I (2015) Production, secretion and purification of a correctly folded staphylococcal antigen in _Lactococcus lactis_. **Microb Cell Fact.** 14: 104.
+doi.org/10.1186/s12934-015-0271-z
 
 8- Messaoudi N, Gautier V, Dairou J, Mihoub M, Lelandais G, Bouloc P, Landoulsi A & Richarme G (2015) Fermentation and Alternative Respiration Compensate for NADH Dehydrogenase Deficiency in a Prokaryotic Model of DJ-1 Associated Parkinsonism. **Microbiology** 161: 2220-2231
+doi: 10.1099/mic.0.000181
 
 7- Gelabert A, Gobbi P, Sivry Yann M, Nina, Brayner R, Siron V, BenedettiM & Ferrari R (2015) Testing Nano effect onto model bacteria: impact of speciation and genotypes. **Nanotoxicology** 23: 1-10.
 
 6- Song Y, Tangthirasunun N, Maharachchikumbura SSN, Jiang Y, Xu J, Hyde KD & Wang Y (2014) Novel Pestalotiopsis Species from Thailand Point to the Rich Undiscovered Diversity of this Chemically Creative Genus. **Cryptogamie, Mycologie** 25: 139-149.
+doi.org/10.7872/crym.v35.iss2.2014.139
 
 5- Ruprich-Robert G, Wery M, Després D, Boulard Y & Thuriaux P (2011) Crucial role of a dicarboxylic motif in the catalytic center of yeast RNA polymerases. **Curr Genet.** 57: 327-34.
+ DOI:10.1007/s00294-011-0350-6
 
 4- Chapeland-Leclerc F, Hennequin C, Papon N, Noël T, Girard A, Socié G, Ribaud P & Lacroix C (2010) Acquisition of flucytosine, azole, and caspofungin resistance in _Candida glabrata_ bloodstream isolates serially obtained from a hematopoietic stem cell transplant recipient. **Antimicrob Agents Chemother.** 54: 1360-2.
+doi:10.1128/AAC.01138-09
 
 3- Ruprich-Robert G, Thuriaux P (2010) Non-canonical DNA transcription enzymes and the conservation of two-barrel RNA polymerases. **Nucleic Acids Res.** 38: 4559-4569.
+doi: 10.1093/nar/gkq201
 
 2- Storlazzi A, Gargano S, Ruprich-Robert G, Falque M, David M, Kleckner N & Zickler D (2010) Recombination proteins mediate meiotic spatial chromosome organization and pairing. **Cell** 141: 94-106.
+doi:10.1016/j.cell.2010.02.041
 
 1- Padilla-Parra S, Audugé N, Lalucque H, Mevel JC, Coppey-Moisan M & Tramier M. (2009) Quantitative comparison of different fluorescent protein couples for fast FRET-FLIM acquisition. **Biophys J.** 97: 2368-2376.
+doi:10.1016/j.bpj.2009.07.044
 <br/><br/>
 ## Thèses du laboratoire
 

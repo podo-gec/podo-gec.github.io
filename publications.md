@@ -398,46 +398,58 @@ doi:10.1007/s002940050191
 **2022**
 
 11- Silar P (2022) Prions and Prion-like Phenomena in Epigenetic Inheritance. In **Handbook of Epigenetics: The New Molecular and Medical Genetics** (3rd edition). Trygve Tollefsbol ed., pp 73-87.
+doi.org/10.1016/B978-0-323-91909-8.00013-X
 
 **2021**
 
 10- Ferrari R, Gautier V & Silar P (2021) Lignin degradation by ascomycetes. In **Advances in Botanical Research** 99: 77-113.
+doi.org/10.1016/bs.abr.2021.05.006
 
 **2019**
 
 9- Silar P (2019) Phenotypic instability in fungi. In **Adv. Appl. Microbiol.** 107: 141-187.
+doi:10.1016/bs.aambs.2019.03.002. Epub 2019 Apr 25
 
 **2017**
 
 8- Nguyen TS, Lalucque H, Malagnac F & Silar P (2017) Prions and Prion-like Phenomena in Epigenetic Inheritance. In **Handbook of Epigenetics** (2nd edition). Trygve Tollefsbol ed., pp. 61-72.
+doi.org/10.1016/B978-0-12-805388-1.00005-5
 
 **2013**
 
 7- Silar P (2013) _Podospora anserina_: from laboratory to biotechnology. In **Genomics of Soil- and Plant-Associated Fungi**. Benjamin Horwitz et al., eds. pp 283-309.
+doi.org/10.1007/978-3-642-39339-6_12
 
 **2012**
 
 6- Silar P (2012) Hyphal Interference: self versus non-self fungal recognition and hyphal death. In **Biocommunication of Fungi**. Günther Witzany ed. pp 155-170.
+doi.org/10.1007/978-94-007-4264-2_10
 
 **2011**
 
 5- Cocaign A, Dairou J, Busi F, Silar P, Martins M, Mougin C, Rodrigues-Lima F & Dupret JM (2011) Pesticide-Derived Armatic Amines and Their Biotransformation. In **Pesticide in the Modern World**. Margarita Stoytcheva ed. pp 601-614.
+DOI:10.5772/18279
 
 **2010**
 
 4- Malagnac F & Silar P (2010) Epigenetics of Eukaryotic Microbes. In **Handbook of Epigenetics**. Trygve Tollefsbol ed. pp. 185-201.
+doi.org/10.1016/B978-0-12-375709-8.00013-7
 
 3- Lalucque H, Malagnac F & Silar P (2010) Prions and Prion-like Phenomena in Epigenetic Inheritance. In **Handbook of Epigenetics**. Trygve Tollefsbol ed. pp. 63-76.
+doi.org/10.1016/B978-0-12-375709-8.00005-8
 
 2- Brun S & Silar P (2010) Convergent evolution of morphogenetic processes in fungi. In **Evolutionary Biology -- Concepts, Molecular and Morphological Evolution**. pp. 317-328.
+doi.org/10.1007/978-3-642-12340-5_19
 
 1- Debuchy R, Berteaux-Lecellier V & Silar P (2010) Mating Systems and Sexual Morphogenesis in Ascomycetes. In **Cellular and Molecular Biology of Filamentous Fungi**. K. Borkovich and D. Ebbole eds. pp. 501-535.
+doi.org/10.1128/9781555816636.ch33
 <br/><br/>
 ## Autres
 
 7- Silar P (2020) À la découverte des microbes - I : un aperçu de leur classification. **Bulletin de la Société linnéenne Nord-Picardie** 38 : 3-7.
 
-6- Silar P (2013) La mycologie au début du 21 siècle : crise et renouveau. **Biol. Auj.** 207: 1-7.
+6- Silar P (2013) La mycologie au début du 21 siècle : crise et renouveau. **Biol. Auj.** 207(4), pages 269-275.
+doi.org/10.1051/jbio/2013024
 
 5- Pereira C, Azé J, Denise A, Drevet C, Froidevaux C, Silar P & Lespinet O (2013) Comparative analysis of phylogenetic profiles for the enzymatic characterization of fungal groups. **JOBIM**, editors: Christine Gaspin, Nic Lindley and Cédric Notredame, pages 269-279.
 

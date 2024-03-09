@@ -428,7 +428,7 @@ doi.org/10.1007/978-94-007-4264-2_10
 **2011**
 
 5- Cocaign A, Dairou J, Busi F, Silar P, Martins M, Mougin C, Rodrigues-Lima F & Dupret JM (2011) Pesticide-Derived Armatic Amines and Their Biotransformation. In **Pesticide in the Modern World**. Margarita Stoytcheva ed. pp 601-614.
-DOI:10.5772/18279
+doi:10.5772/18279
 
 **2010**
 
@@ -446,12 +446,16 @@ doi.org/10.1128/9781555816636.ch33
 <br/><br/>
 ## Autres
 
+8- Silar P (2021) À la découverte des microbes - II :  les bactéries et les archées. **Bulletin de la Société linnéenne Nord-Picardie** 39 : 3-7.
+
 7- Silar P (2020) À la découverte des microbes - I : un aperçu de leur classification. **Bulletin de la Société linnéenne Nord-Picardie** 38 : 3-7.
+https://linneenne-amiens.org/wp-content/uploads/2023/02/Annee-2020-volume-38-.pdf
 
 6- Silar P (2013) La mycologie au début du 21 siècle : crise et renouveau. **Biol. Auj.** 207(4), pages 269-275.
 doi.org/10.1051/jbio/2013024
 
 5- Pereira C, Azé J, Denise A, Drevet C, Froidevaux C, Silar P & Lespinet O (2013) Comparative analysis of phylogenetic profiles for the enzymatic characterization of fungal groups. **JOBIM**, editors: Christine Gaspin, Nic Lindley and Cédric Notredame, pages 269-279.
+https://www.researchgate.net/publication/261511728_Comparative_analysis_of_phylogenetic_profiles_for_the_enzymatic_characterization_of_fungal_group#fullTextFileContent
 
 4- Cocaign A, Dairou J, Rodrigues-Lima F, Silar P & Dupret JM (2012) Biotransformation of aromatic amines in contaminated soils: characterization of fungal acetyltransferases. **FEBS J.** 279(SI1): 438.
 doi.org/10.1111/j.1742-4658.2010.08705.x
@@ -463,17 +467,18 @@ doi.org/10.1038/nrmicro2519-c1
 doi.org/10.1111/j.0014-2956.2007.05861_4.x
 
 1- Silar P, Vierny C, Gagny B, Rossignol M & Haedens V (1997) Génétique de deux dégénérescences cellulaires chez le champignon filamenteux Podospora anserina. **C. R. Soc. Biol.** 191: 563-577.
+https://gallica.bnf.fr/ark:/12148/bpt6k97545582/f75.item#
 
 ## Autres publications des membres du laboratoire en collaboration externe
 
 12- Planchon M, Léger T, Spalla O, Huber G & Ferrari R (2017) Metabolomic and proteomic investigations of impacts of titanium dioxide nanoparticles on _Escherichia coli_. **PLOS One** 12(6): e0178437.
-DOI:10.1371/journal.pone.0178437
+doi:10.1371/journal.pone.0178437
 
 11- Huang SK, Tangthirasunun N, Phillipps AJL, Dai, DQ, Wanasinghe DN, Wen, TC, Bahkali AH, Hyde KD & Kang JC (2016) Morphology and Phylogeny of _Neoscytalidium orchidacearum sp. nov._ (Botryosphaeriaceae). **Mycobiology** 44: 79-84.
 doi:10.5941/MYCO.2016.44.2.79
 
 10 -Abdallah J, Mihoub M, Gautier V & Richarme G (2016) The DJ-1 superfamily members YhbO and YajL from _Escherichia coli_ repair proteins from glycation by methylglyoxal and glyoxal. **Biochem Biophys Res Commun** 470(2): 282-286.
-DOI:10.1016/j.bbrc.2016.01.068
+doi:10.1016/j.bbrc.2016.01.068
 
 9- Samazan F, Rokbi B, Seguin D, Telles F, Gautier V, Richarme G, Chevret D, Varela PF, Velours C & Poquet I (2015) Production, secretion and purification of a correctly folded staphylococcal antigen in _Lactococcus lactis_. **Microb Cell Fact.** 14: 104.
 doi.org/10.1186/s12934-015-0271-z
@@ -482,12 +487,13 @@ doi.org/10.1186/s12934-015-0271-z
 doi: 10.1099/mic.0.000181
 
 7- Gelabert A, Gobbi P, Sivry Yann M, Nina, Brayner R, Siron V, BenedettiM & Ferrari R (2015) Testing Nano effect onto model bacteria: impact of speciation and genotypes. **Nanotoxicology** 23: 1-10.
+doi:10.3109/17435390.2015.1048323
 
 6- Song Y, Tangthirasunun N, Maharachchikumbura SSN, Jiang Y, Xu J, Hyde KD & Wang Y (2014) Novel Pestalotiopsis Species from Thailand Point to the Rich Undiscovered Diversity of this Chemically Creative Genus. **Cryptogamie, Mycologie** 25: 139-149.
 doi.org/10.7872/crym.v35.iss2.2014.139
 
 5- Ruprich-Robert G, Wery M, Després D, Boulard Y & Thuriaux P (2011) Crucial role of a dicarboxylic motif in the catalytic center of yeast RNA polymerases. **Curr Genet.** 57: 327-34.
- DOI:10.1007/s00294-011-0350-6
+doi:10.1007/s00294-011-0350-6
 
 4- Chapeland-Leclerc F, Hennequin C, Papon N, Noël T, Girard A, Socié G, Ribaud P & Lacroix C (2010) Acquisition of flucytosine, azole, and caspofungin resistance in _Candida glabrata_ bloodstream isolates serially obtained from a hematopoietic stem cell transplant recipient. **Antimicrob Agents Chemother.** 54: 1360-2.
 doi:10.1128/AAC.01138-09

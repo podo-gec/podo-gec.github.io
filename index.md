@@ -48,6 +48,7 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 
 - Le cours online de [Génétique de Licence](http://gec.sdv.univ-paris-diderot.fr/cours/genetique/). Il reprend le cours en version PDF disponible [ici]( https://hal.archives-ouvertes.fr/hal-02921475). Ce cours contient encore des coquilles: merci de me les signaler... [ici](mailto:philippe.silar@univ-paris-diderot.fr)
 - [Annales de M1](http://podo-gec.sdv.univ-paris-diderot.fr/examenmicrobioeuc.zip) (Archive zip)
-- [planning présentations de M1](http://podo-gec.sdv.univ-paris-diderot.fr/présentations.pdf) (Fichier PDF)
-- [cours de M1 de M. Jérôme Clain](http://podo-gec.sdv.univ-paris-diderot.fr/parasito.zip) (Fichier zip)
+- [présentations de M1](http://podo-gec.sdv.univ-paris-diderot.fr/présentationsM1.zip) (Fichier zip)
+- [cours Biobanque L3pro](http://podo-gec.sdv.univ-paris-diderot.fr/Biobanque.pdf) (Fichier PDF)
+- [cours microbio eucaryote L3pro](http://podo-gec.sdv.univ-paris-diderot.fr/licencepro.pdf) (Fichier PDF)
 

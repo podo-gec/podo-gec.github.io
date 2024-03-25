@@ -19,17 +19,18 @@ resp. Philippe Silar - 6 ects
 
 **Progamme des cours:**
 
-- Cours de M. Silar (15h)
-
+- Cours 1 de M. Silar (16h)
   - Origine de la cellule eucaryote  
   - Grands évènements jalonnant l’évolution des eucaryotes
   - Diversité du monde eucaryote: La nouvelle classification phylogénétique des eucaryotes 
   - Rôles des protistes eucaryotes dans la biosphère: Les biotopes à l’échelle des microbes eucaryotes, Cycle global du carbone, Cycle de l’azote et autres cycles géochimiques 
-  - Interactions des protistes avec les sociétés humaines : Rôles dans l’alimentation, Rôle dans l’industrie pharmaceutique : les métabolites secondaires, Les parasites de l’homme et de ses animaux commensaux, Les parasites des plantes et des autres eucaryotes  
+  - Interactions des protistes avec les sociétés humaines : Rôles dans l’alimentation, Rôle dans l’industrie pharmaceutique : les métabolites secondaires, Les parasites de l’homme et de ses animaux commensaux, Les parasites des plantes et des autres eucaryotes
 
+- Cours de M. Clain (5h)
+  - Introduction à la parasitologie
+    
 - Cours de M. Brun (10h)
-
-  - Un exemple de cellule eucaryote, Saccharomyces cerevisiae
+  - Un exemple de cellule eucaryote, *Saccharomyces cerevisiae*
   - Biologie, Culture et Nutrition
   - Synthèse et Structure des Macromolécules
   - Insertion des Macromolécules dans la Physiologie Cellulaire
@@ -38,9 +39,8 @@ resp. Philippe Silar - 6 ects
   - La Reproduction Sexuée
   - Utilisation de la Levure par l’Homme
 
-- Cours de M. Lalucque (10h)
-
-  - Un exemple d’analyse d’un phénomène biologique utilisant un modèle de microbe eucaryote : le phénomène PSI chez la levure Saccharomyces cerevisiae
+- Cours M. Silar (8h)
+  - Un exemple d’analyse d’un phénomène biologique utilisant un modèle de microbe eucaryote : le phénomène CG chez le champignon *Podospora anserina*
   - Méthodes génétiques, génomiques, biochimiques et cytologiques
 
 - TD: présentations de groupes phylogénétiques par les étudiants et corrections d'annales 
@@ -76,6 +76,7 @@ Le parcours est un des trois parcours du M2 de microbiologie du Master BMC de l'
   - Programmes de développement (P. Silar, LIED) 
   - Evolution des génomes fongiques (P. Silar, LIED)  
   - L'exemple des *Sordariales* (P. Silar, LIED)
+  - Cours 6 qui change chaque année
 
 
 - **B - Biodiversité des Microorganismes Eucaryotes - Acquisition des méthodes pour étudier les Big Data (génomique, transcriptomique, métagénomique) pertinents aux champignons**

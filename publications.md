@@ -15,7 +15,8 @@ https://doi.org/10.1093/gbe/evae034.
 103- Essadik I., Boucher C., Bobée C., Cabet E., Gautier V., Lalucque H., Silar P., Chapeland-Leclerc F. & Ruprich-Robert G. (2024) Mutations in *Podospora anserina MCM1* and *VelC* trigger spontaneous development of barren fruiting bodies. **JoF** 10: 79. 
 doi:10.3390/jof10010079
 
-102- Gautier V., Nguyen T.S. & Silar P. (2024) Fungal/bacterial syntrophy of glycerol utilization **Cryptogamie Mycologie** 45(6): 53-66.
+102- Gautier V., Nguyen T.S. & Silar P. (2024) Fungal/bacterial syntrophy of glycerol utilization **Cryptogamie Mycologie** 45(6): 53-66. 
+doi.org/10.5252/cryptogamiemycologie2024v45a6
 
 101- Ferrari R., Gautier V., Tangthirasunun N., Chan Ho Tong L. & Silar P. (2024) Characterization of the *Podospora anserina* peroxidase gene family. **Cryptogamie Mycologie** 45(2): 11-28.
 doi.org/10.5252/cryptogamiemycologie2024v45a2

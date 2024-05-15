@@ -16,7 +16,7 @@ https://doi.org/10.1093/gbe/evae034.
 doi:10.3390/jof10010079
 
 102- Gautier V., Nguyen T.S. & Silar P. (2024) Fungal/bacterial syntrophy of glycerol utilization **Cryptogamie Mycologie** 45(6): 53-66. 
-doi.org/10.5252/cryptogamiemycologie2024v45a6
+doi.org/10.5252/cryptogamie-mycologie2024v45a6
 
 101- Ferrari R., Gautier V., Tangthirasunun N., Chan Ho Tong L. & Silar P. (2024) Characterization of the *Podospora anserina* peroxidase gene family. **Cryptogamie Mycologie** 45(2): 11-28.
 doi.org/10.5252/cryptogamiemycologie2024v45a2

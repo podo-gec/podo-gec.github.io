@@ -13,7 +13,7 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 - [RENAULT Aurélien](mailto:aurelien.renault@u-paris.fr), AGT Université de Paris Cité
 - PARADIS Aymeric, Doctorant, Université de Paris Cité
 
--Invited researcher: Dr. Narumon Tangthirasunun
+
 
 ## Anciens membres
 
@@ -34,7 +34,7 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 - GOARIN Anne, doctorante (2008-2011)
 - GROGNET Pierre, doctorant (2010-2013)
 - XIE Ning, doctorant Univ. P7 Denis Diderot + postdoc (2010-2014)
-- TANGTHIRASUNUN Narumon, doctorante (2011-2014) et Postdoctorante Ambassade de France Bangkok
+- TANGTHIRASUNUN Narumon, doctorante (2011-2014), Postdoctorante Ambassade de France Bangkok et chercheur invitée (juin-décembre 2023)
 - NGUYEN Tinh-Suong, Doctorante (2015-2018)
 - DEMOOR Alexander, Doctorant Univ. Paris 7 (2017-2021)
 - BROZZATTI Lorenzo, Thèse d’exercice Erasmus (2014)

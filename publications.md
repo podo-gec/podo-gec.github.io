@@ -9,6 +9,22 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 **2024**
 
+105- Bhunjun CS, Chen YJ, Phukhamsakda C, Boekhout T, Groenewald JZ, McKenzie EHC, Francisco EC, Frisvad JC, Groenewald M, Hurdeal 
+VG, Luangsa-ard J, Perrone G, Visagie CM, Bai FY, Błaszkowski J, Braun U, de Souza FA, de Queiroz MB, Dutta AK, Gonkhom D, Goto 
+BT, Guarnaccia V, Hagen F, Houbraken J, Lachance MA, Li JJ, Luo KY, Magurno F, Mongkolsamrit S, Robert V, Roy N, Tibpromma S, 
+Wanasinghe DN, Wang DQ, Wei DP, Zhao CL, Aiphuk W, Ajayi-Oyetunde O, Arantes TD, Araujo JC, Begerow D, Bakhshi M, Barbosa RN, 
+Behrens FH, Bensch K, Bezerra JDP, Bilański P, Bradley CA, Bubner B, Burgess TI, Buyck B, Čadež N, Cai L, Calaça FJS, Campbell LJ, 
+Chaverri P, Chen YY, Chethana KWT, Coetzee B, Costa MM, Chen Q, Custódio FA, Dai YC, Damm U, de Azevedo Santiago ALCM, De 
+Miccolis Angelini RM, Dijksterhuis J, Dissanayake AJ, Doilom M, Dong W, Alvarez-Duarte E, Fischer M, Gajanayake AJ, Gené J, Gomdola 
+D, Gomes AAM, Hausner G, He MQ, Hou L, Iturrieta-González I, Jami F, Jankowiak R, Jayawardena RS, Kandemir H, Kiss L, Kobmoo N, 
+Kowalski T, Landi L, Lin CG, Liu JK, Liu XB, Loizides M, Luangharn T, Maharachchikumbura SSN, Makhathini Mkhwanazi GJ, Manawasinghe 
+IS, Marin-Felix Y, McTaggart AR, Moreau PA, Morozova OV, Mostert L, Osiewacz HD, Pem D, Phookamsak R, Pollastro S, Pordel A, 
+Poyntner C, Phillips AJL, Phonemany M, Promputtha I, Rathnayaka AR, Rodrigues AM, Romanazzi G, Rothmann L, Salgado-Salazar C, 
+Sandoval-Denis M, Saupe SJ, Scholler M, Scott P, Shivas RG, Silar P, Souza-Motta CM, Silva-Filho AGS, Spies CFJ, Stchigel AM, Sterflinger 
+K, Summerbell RC, Svetasheva TY, Takamatsu S, Theelen B, Theodoro RC, Thines M, Thongklang N, Torres R, Turchetti B, van den Brule T, 
+Wang XW, Wartchow F, Welti S, Wijesinghe SN, Wu F, Xu R, Yang ZL, Yilmaz N, Yurkov A, Zhao L, Zhao RL, Zhou N, Hyde KD, Crous PW 
+(2024). What are the 100 most cited fungal genera? **Studies in Mycology** 108: 1-411.
+
 104- Ament-Velásquez S.L., Vogan A.A., Wallerman O., Hartmann F., Gautier V., Silar P., Giraud T. & Johannesson H. (2024) High-quality genome assemblies of four members of the *Podospora anserina* species complex. **GBE** 16(3) evae034.
 https://doi.org/10.1093/gbe/evae034.
 

@@ -24,9 +24,10 @@ Sandoval-Denis M, Saupe SJ, Scholler M, Scott P, Shivas RG, Silar P, Souza-Motta
 K, Summerbell RC, Svetasheva TY, Takamatsu S, Theelen B, Theodoro RC, Thines M, Thongklang N, Torres R, Turchetti B, van den Brule T, 
 Wang XW, Wartchow F, Welti S, Wijesinghe SN, Wu F, Xu R, Yang ZL, Yilmaz N, Yurkov A, Zhao L, Zhao RL, Zhou N, Hyde KD, Crous PW 
 (2024). What are the 100 most cited fungal genera? **Studies in Mycology** 108: 1-411.
+doi: 10.3114/sim.2024.108.01
 
 104- Ament-Velásquez S.L., Vogan A.A., Wallerman O., Hartmann F., Gautier V., Silar P., Giraud T. & Johannesson H. (2024) High-quality genome assemblies of four members of the *Podospora anserina* species complex. **GBE** 16(3) evae034.
-https://doi.org/10.1093/gbe/evae034.
+doi.org/10.1093/gbe/evae034
 
 103- Essadik I., Boucher C., Bobée C., Cabet E., Gautier V., Lalucque H., Silar P., Chapeland-Leclerc F. & Ruprich-Robert G. (2024) Mutations in *Podospora anserina MCM1* and *VelC* trigger spontaneous development of barren fruiting bodies. **JoF** 10: 79. 
 doi:10.3390/jof10010079

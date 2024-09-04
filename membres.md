@@ -7,7 +7,6 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 ## Equipe actuelle
 
 - [SILAR Philippe](mailto:philippe.silar@univ-paris-diderot.fr), professeur Université de Paris Cité (resp. eq.) habilité à diriger les recherches
-- [FERRARI Roselyne](mailto:ferrari@ipgp.fr), maître de conférences Université de Paris Cité
 - [GAUTIER Valérie](mailto:valerie.gautier@univ-paris-diderot.fr), IE Université de Paris Cité
 - [LALANNE Christophe](mailto:christophe.lalanne@univ-paris-diderot.fr), IR Université de Paris Cité
 - [RENAULT Aurélien](mailto:aurelien.renault@u-paris.fr), AGT Université de Paris Cité
@@ -23,6 +22,7 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 - CHAPELAND-LECLERC Florence, maître de conférences Univ. P5 René Descartes, Habilitée à Diriger les Recherches (2009-2015)
 - RUPRICH-ROBERT Gwenaël, maître de conférences Univ. P5 René Descartes (2009-2015)
 - BRUN Sylvain, maître de conférences Univ. P7 Denis Diderot (2007-2021)
+- FERRARI Roselyne, maître de conférences Université de Paris Cité (2014-2024)
 - ROSSIGNOL Michèle, IE CNRS (1994-1999)
 - HAEDENS Vicki, IE CNRS (1997-2004)
 - FRANCOIS Sylvie, ADT (2006-2013)

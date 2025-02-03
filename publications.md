@@ -7,6 +7,10 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 ## Dans les revues à comité de lecture
 <br/><br/>
 
+**2025**
+
+106- Lalanne C. & Silar P. (2025) FungANI, a BLAST-based program for analyzing Average Nucleotide Identity (ANI) between two fungal genomes, enables easy fungal species delimitation. **Fung. Genet. Biol.** In the press.
+
 **2024**
 
 105- Bhunjun CS, Chen YJ, Phukhamsakda C, Boekhout T, Groenewald JZ, McKenzie EHC, Francisco EC, Frisvad JC, Groenewald M, Hurdeal 

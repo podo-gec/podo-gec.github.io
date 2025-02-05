@@ -48,5 +48,6 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 
 - Le cours online de [Génétique de Licence](http://gec.sdv.univ-paris-diderot.fr/cours/genetique/). Il reprend le cours en version PDF disponible [ici]( https://hal.archives-ouvertes.fr/hal-02921475). Ce cours contient encore des coquilles: merci de me les signaler... [ici](mailto:philippe.silar@univ-paris-diderot.fr)
 - [Annales de M1](http://podo-gec.sdv.univ-paris-diderot.fr/examenmicrobioeuc.zip) (Archive zip)
-- [Cours de L3 IMVI](http://podo-gec.sdv.univ-paris-diderot.fr/IMVI.pdf) (fichier PDF)
+- [articles pour le cours de M1](http://podo-gec.sdv.univ-paris-diderot.fr/articles.zip) (fichier Zip)
+
 - [Présentations de L3 IMVI](http://podo-gec.sdv.univ-paris-diderot.fr/présentations.zip) (fichier Zip)

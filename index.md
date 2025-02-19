@@ -10,7 +10,7 @@ Cette page présente maintenant les projets de Philippe Silar, Valérie Gautier 
 
 contact: Professeur Philippe Silar<br>
 Tel: (33) 1 57 27 84 72<br>
-E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-diderot.fr)
+E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@u-paris.fr)
 
 **Mots clés:** mycologie, diversité fongique, Sordariales
 

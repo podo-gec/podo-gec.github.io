@@ -46,10 +46,6 @@ favicons:
 navigation_header:
   - title: Accueil
     url: /
-  - title: Présentation
-    url: /membres/
-  - title: Recherche
-    url: /recherche/
   - title: Enseignements
     url: /enseignements/
   - title: Publications

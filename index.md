@@ -4,17 +4,17 @@ feature_image: "static/img/podospora_anserina_50pct.jpg"
 ---
 
 L'équipe GEC est maintenant fermée et ses membres encore actifs ont rejoint l'équipe [MICA](https://liedlab.net/microsystemes-cellulaires/) du [Laboratoire Interdisciplinaire des Energies de Demain](https://liedlab.net/) (LIED, UMR 8236). 
-Cette page présente maintenant les projets de Philippe Silar, Valérie Gautier et Christophe Lalanne.
+Cette page présente maintenant les projets de Philippe Silar, Valérie Gautier et Christophe Lalanne qui traite de la diversité des Sordariales.
 
 ## Diversité des Sordariales
 
-Professeur Philippe Silar<br>
+contact: Professeur Philippe Silar<br>
 Tel: (33) 1 57 27 84 72<br>
 E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-diderot.fr)
 
 **Mots clés:** mycologie, diversité fongique, Sordariales
 
-nous développons un projet d’analyse de la biodiversité fongique en nous concentrant sur les espèces appartenant à l’ordre des Sordariales. Nous isolons des souches de Sordariales que nous caractérisons morphologiquement et moléculairement, avec pour les plus intéressantes d’entre elles l’établissement de la séquence complète des génomes.
+nous développons un projet d’analyse de la biodiversité fongique en nous concentrant sur les espèces appartenant à l’ordre des Sordariales. Nous isolons des souches de Sordariales que nous caractérisons morphologiquement et moléculairement, avec pour les plus intéressantes d’entre elles l’établissement de la séquence complète des génomes. Nous collaborons sur plusieurs projets faisant appel à la diversité des Sordariales, principalement avec les Drs. Tatiana Giraud et Fanny Hartmann du [Laboratoire Écologie, Systématique et Évolution](https://www.ese.universite-paris-saclay.fr/) sur l'inhibition de la recombinaison autour du type sexuel chez les Sordariales, avec le Dr. Pierre Gladieux du [Plant Health Institute Montpellier](https://umr-phim.cirad.fr/) sur la phylogénie des Sordariales et le Dr. Narumon Tangthirasunun du [King Mongkut's Institute of Technology Ladkrabang](https://www.kmitl.ac.th/) sur la diversité des Sordariales.
 
 ## Ressources scientifiques produites par P. Silar
 

@@ -19,7 +19,6 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 ## Publications de l'équipe GEC (1997-2024)
 
 ## Dans les revues à comité de lecture
-<br/><br/>
 
 **2024**
 
@@ -592,3 +591,9 @@ doi:10.1016/j.bpj.2009.07.044
   Université de Paris
   "ETUDE DES GENES ET DES PROCESSUS CELLULAIRES IMPLIQUES DANS LA GERMINATION DES ASCOSPORES ET LA FORMATION DE L’APPRESSORIUM CHEZ PODOSPORA ANSERINA"
 <br/><br/>
+- Thèse de Aymeric Paradis
+  Juin 2025
+  Université de Paris
+  "MAITRISE DU CYCLE CELLULAIRE DE PENICILLIUM CAMEMBERTI AFIN D’AMELIORER LA PRODUCTION DE CONIDIES EN MILIEU INDUSTRIEL"
+<br/><br/>
+

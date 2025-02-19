@@ -14,6 +14,7 @@ E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-
 
 **Mots clés:** mycologie, diversité fongique, Sordariales
 
+nous développons un projet d’analyse de la biodiversité fongique en nous concentrant sur les espèces appartenant à l’ordre des Sordariales. Nous isolons des souches de Sordariales que nous caractérisons morphologiquement et moléculairement, avec pour les plus intéressantes d’entre elles l’établissement de la séquence complète des génomes.
 
 ## Ressources scientifiques produites par P. Silar
 

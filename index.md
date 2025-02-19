@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Diversité des *Sordariales*
+title: Diversité des _Sordariales_
 feature_image: "static/img/podospora_anserina_50pct.jpg"
 ---
 
-L'équipe GEC est maintenant fermée et ses membres encore actifs ont rejoint l'équipe [MICA](https://liedlab.net/microsystemes-cellulaires/) du [Laboratoire Interdisciplinaire des Energies de Demain](http://www.lied-pieri.univ-paris-diderot.fr/) (LIED, UMR 8236). Cette page présente maintenant les projets de Philippe Silar et Valérie Gautier, en collaboration principalement avec Christophe Lalanne.
+L'équipe GEC est maintenant fermée et ses membres encore actifs ont rejoint l'équipe [MICA](https://liedlab.net/microsystemes-cellulaires/) du [Laboratoire Interdisciplinaire des Energies de Demain](https://liedlab.net/) (LIED, UMR 8236). 
+Cette page présente maintenant les projets de Philippe Silar et Valérie Gautier, en collaboration principalement avec Christophe Lalanne.
 
 Professeur Philippe Silar<br>
 Tel: (33) 1 57 27 84 72<br>

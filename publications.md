@@ -6,10 +6,9 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 <br/><br/>
 
 
-## Publications de l'équipe MICA (2025-)
+## Publications de l'équipe MICA sur la diversité des Sordariales (2025-)
 
 ## Dans les revues à comité de lecture
-
 
 **2025**
 

@@ -1,31 +1,18 @@
 ---
 layout: page
-title: Génétique et Epigénétique des Champignons
+title: Diversité des *Sordariales*
 feature_image: "static/img/podospora_anserina_50pct.jpg"
 ---
 
-L'équipe GEC est constituée d'enseignants-chercheurs et est donc engagée dans la découverte de nouvelles connaissances ainsi que dans leur diffusion via un enseignement classique ou directement sur internet.
+L'équipe GEC est maintenant fermée et ses membres encore actifs ont rejoint l'équipe [MICA](https://liedlab.net/microsystemes-cellulaires/) du [Laboratoire Interdisciplinaire des Energies de Demain](http://www.lied-pieri.univ-paris-diderot.fr/) (LIED, UMR 8236). Cette page présente maintenant les projets de Philippe Silar et Valérie Gautier, en collaboration principalement avec Christophe Lalanne.
 
-L'équipe GEC fait partie du [Laboratoire Interdisciplinaire des Energies de Demain](http://www.lied-pieri.univ-paris-diderot.fr/) (LIED, UMR 8236).
-
-**Responsable de l'équipe:**
 Professeur Philippe Silar<br>
 Tel: (33) 1 57 27 84 72<br>
 E-mail: [philippe.silar@univ-paris-diderot.fr](mailto:philippe.silar@univ-paris-diderot.fr)
 
-**Mots clés:** mycologie, génétique et épigénétique, régulation/différentiation, énergie, déconstruction de la biomasse.
+**Mots clés:** mycologie, diversité fongique, Sordariales
 
-## Ressources scientifiques produites par le laboratoire
-
-<br>
-
-<center>
-{% include button.html text="Page web de <em>Podospora anserina</em>" link="http://podospora.i2bc.paris-saclay.fr/" color="#6a1d33" %}
-</center>
-
-<br>
-
-## Diffusion des connaissances
+## Ressources scientifiques produites par P. Silar
 
 **gratuit**
 

@@ -4,12 +4,23 @@ title: Publications
 feature_image: "../static/img/podospora_anserina_50pct.jpg"
 ---
 <br/><br/>
+
+
+## Publications de l'équipe MICA (2025-)
+
 ## Dans les revues à comité de lecture
 <br/><br/>
 
 **2025**
 
 106- Lalanne C. & Silar P. (2025) FungANI, a BLAST-based program for analyzing Average Nucleotide Identity (ANI) between two fungal genomes, enables easy fungal species delimitation. **Fung. Genet. Biol.** 177: 103969. doi.org/10.1016/j.fgb.2025.103969
+
+
+
+## Publications de l'équipe GEC (1997-2024)
+
+## Dans les revues à comité de lecture
+<br/><br/>
 
 **2024**
 

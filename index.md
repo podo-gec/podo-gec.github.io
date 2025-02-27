@@ -41,4 +41,5 @@ nous développons un projet d’analyse de la biodiversité fongique en nous con
 - [Annales de M1](http://podo-gec.sdv.univ-paris-diderot.fr/examenmicrobioeuc.zip) (Archive zip)
 - [articles pour le cours de M1](http://podo-gec.sdv.univ-paris-diderot.fr/articles.zip) (fichier Zip)
 - [Présentations de M1](http://podo-gec.sdv.univ-paris-diderot.fr/présentations.pdf) (fichier PDF)
-- [Présentations de L3 IMVI](http://podo-gec.sdv.univ-paris-diderot.fr/présentations.zip) (fichier Zip)
+- [cours de parasitologie de M. Clain](http://podo-gec.sdv.univ-paris-diderot.fr/M1_Parasitologie_25-26 Fév 2025_JCLAIN.pdf)
+

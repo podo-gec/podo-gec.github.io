@@ -39,7 +39,7 @@ nous développons un projet d’analyse de la biodiversité fongique en nous con
 
 - Le cours online de [Génétique de Licence](http://gec.sdv.univ-paris-diderot.fr/cours/genetique/). Il reprend le cours en version PDF disponible [ici]( https://hal.archives-ouvertes.fr/hal-02921475). Ce cours contient encore des coquilles: merci de me les signaler... [ici](mailto:philippe.silar@univ-paris-diderot.fr)
 - [Annales de M1](http://podo-gec.sdv.univ-paris-diderot.fr/examenmicrobioeuc.zip) (Archive zip)
-- [articles pour le cours de M1](http://podo-gec.sdv.univ-paris-diderot.fr/articles.zip) (fichier Zip)
 - [Présentations de M1](http://podo-gec.sdv.univ-paris-diderot.fr/présentations.pdf) (fichier PDF)
-- [cours de parasitologie de M. Clain](http://podo-gec.sdv.univ-paris-diderot.fr/M1_Parasitologie_2025JCLAIN.pdf)
+  [Cours de L3 pro](http://podo-gec.sdv.univ-paris-diderot.fr/courslicencepro.pdf) (fichier PDF)
+  [Cours de L3 pro biobanque](http://podo-gec.sdv.univ-paris-diderot.fr/coursBiobanquechampignons.pdf) (fichier PDF)
 

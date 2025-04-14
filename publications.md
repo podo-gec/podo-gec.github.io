@@ -12,6 +12,8 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 **2025**
 
+2- Silar P., Gautier V., Lalanne C., Tangthirasunun N., Arthur M., Hartmann F.E. and Giraud T. The *Podospora anserina* species complex in metropolitan and overseas France with description of a new species, *Podospora reunionensis* sp. nov. **Cryptogamie Mycologie** in the press.
+
 1- Lalanne C. & Silar P. (2025) FungANI, a BLAST-based program for analyzing Average Nucleotide Identity (ANI) between two fungal genomes, enables easy fungal species delimitation. **Fung. Genet. Biol.** 177: 103969. doi.org/10.1016/j.fgb.2025.103969
 
 <br/><br/>

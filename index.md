@@ -20,6 +20,9 @@ nous développons un projet d’analyse de la biodiversité fongique en nous con
 
 **gratuit**
 
+* Le livre de _Microbiologie eucaryote_ - Seconde édition (ISBN 978-2-9555841-4-9), en [version PDF](bientôt en ligne) gratuite<br>
+  ![Microbiologie eucaryote](static/img/pe2.jpg)
+
 * le livre de Génétique (ISBN 978-2-9555841-3-2), en [version PDF](https://hal.archives-ouvertes.fr/hal-02921475) gratuite<br>
   ![Génétique](static/img/gen.jpg)
 
@@ -39,7 +42,5 @@ nous développons un projet d’analyse de la biodiversité fongique en nous con
 
 - Le cours online de [Génétique de Licence](http://gec.sdv.univ-paris-diderot.fr/cours/genetique/). Il reprend le cours en version PDF disponible [ici]( https://hal.archives-ouvertes.fr/hal-02921475). Ce cours contient encore des coquilles: merci de me les signaler... [ici](mailto:philippe.silar@univ-paris-diderot.fr)
 - [Annales de M1](http://podo-gec.sdv.univ-paris-diderot.fr/examenmicrobioeuc.zip) (Archive zip)
-- [Présentations de M1](http://podo-gec.sdv.univ-paris-diderot.fr/présentations.pdf) (fichier PDF)
-- [Cours de L3 pro](http://podo-gec.sdv.univ-paris-diderot.fr/courslicencepro.pdf) (fichier PDF)
-- [Cours de L3 pro biobanque](http://podo-gec.sdv.univ-paris-diderot.fr/coursBiobanquechampignons.pdf) (fichier PDF)
+
 

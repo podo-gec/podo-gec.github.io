@@ -20,7 +20,7 @@ nous développons un projet d’analyse de la biodiversité fongique en nous con
 
 **gratuit**
 
-* **Prochainement**: Le livre de _Microbiologie eucaryote_ - Seconde édition 2025 (ISBN 978-2-9555841-4-9), en [version PDF]() gratuite<br>
+* **Prochainement**: Le livre de _Microbiologie eucaryote_ - Seconde édition 2025 (ISBN 978-2-9555841-4-9), en [version PDF] gratuite<br>
   ![Microbiologie eucaryote](static/img/pe2.jpg)
 
 * le livre de Génétique (ISBN 978-2-9555841-3-2), en [version PDF](https://hal.archives-ouvertes.fr/hal-02921475) gratuite<br>

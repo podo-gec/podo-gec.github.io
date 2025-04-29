@@ -20,10 +20,10 @@ nous développons un projet d’analyse de la biodiversité fongique en nous con
 
 **gratuit**
 
-* **Prochainement**: Le livre de _Microbiologie eucaryote_ - Seconde édition 2025 (ISBN 978-2-9555841-4-9), en [version PDF] gratuite<br>
+* Le livre de _Microbiologie eucaryote_ - Seconde édition 2025 (ISBN 978-2-9555841-4-9), en (https://hal.science/hal-05035918)[version PDF] gratuite<br>
   ![Microbiologie eucaryote](static/img/pe2.jpg)
 
-* le livre de Génétique (ISBN 978-2-9555841-3-2), en [version PDF](https://hal.archives-ouvertes.fr/hal-02921475) gratuite<br>
+* Le livre de Génétique (ISBN 978-2-9555841-3-2), en [version PDF](https://hal.archives-ouvertes.fr/hal-02921475) gratuite<br>
   ![Génétique](static/img/gen.jpg)
 
  * Le livre sur _Podospora anserina_ (ISBN 978-2-9555841-2-5), en [version PDF](https://hal.archives-ouvertes.fr/hal-02475488) gratuite<br>

@@ -41,6 +41,5 @@ nous développons un projet d’analyse de la biodiversité fongique en nous con
 ## Liens de téléchargements des cours pour les étudiants de l'Université de Paris Cité
 
 - Le cours online de [Génétique de Licence](http://gec.sdv.univ-paris-diderot.fr/cours/genetique/). Il reprend le cours en version PDF disponible [ici]( https://hal.archives-ouvertes.fr/hal-02921475). Ce cours contient encore des coquilles: merci de me les signaler... [ici](mailto:philippe.silar@univ-paris-diderot.fr)
-- [Annales de M1](http://podo-gec.sdv.univ-paris-diderot.fr/examenmicrobioeuc.zip) (Archive zip)
-- [présentattions de M1](http://podo-gec.sdv.univ-paris-diderot.fr/presentationsM1.zip) (Archive zip)
+- [Annales de M1](https://github.com/podo-gec/podo-gec.github.io/blob/master/docs/examenmicrobioeuc.zip) (Archive zip)
 

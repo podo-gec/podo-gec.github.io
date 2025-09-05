@@ -11,7 +11,7 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 ## Dans les revues à comité de lecture
 
 **2025**
-3- De Filippo E., Gautier V., Lalanne C., Levert E., Chahine E., Hartmann F.E., Giraud T. and Silar P. (2025) Huge genetic diversity of *Schizothecium tetrasporum* (Wint.). N. Lundq.: delimitation of 18 species distributed into three complexes through genome sequencing. **Mycosphere** sous presse.
+3- De Filippo E., Gautier V., Lalanne C., Levert E., Chahine E., Hartmann F.E., Giraud T. and Silar P. (2025) Huge genetic diversity of *Schizothecium tetrasporum* (Wint.). N. Lundq.: delimitation of 18 species distributed into three complexes through genome sequencing. **Mycosphere** in the press.
 
 2- Silar P., Gautier V., Lalanne C., Tangthirasunun N., Arthur M., Hartmann F.E. and Giraud T. (2025) The *Podospora anserina* species complex in metropolitan and overseas France with description of a new species, *Podospora reunionensis* sp. nov. **Cryptogamie Mycologie** in the press.
 
@@ -23,7 +23,7 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 ## Autres
 
-2- Silar P. (2025) Mycophilie ou mycophobie ? Mycophilie ou mycophobie ? Le Courrier de la nature n° 346: 45-47
+2- Silar P. (2025) Mycophilie ou mycophobie ? Le Courrier de la nature n° 346: 45-47
 
 1- Silar P. (2025) À la conquête des écosystèmes. Le Courrier de la nature n° 346: 21-27
 

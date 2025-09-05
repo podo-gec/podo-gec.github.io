@@ -22,6 +22,11 @@ De Filippo E., Gautier V., Lalanne C., Levert E., Chahine E., Hartmann F.E., Gir
 
 1- Philippe Silar (2025) **Protistes Eucaryotes : Origine, Evolution et Biologie des Microbes Eucaryotes**. Seconde édition. En accès libre (<https://hal.science/hal-05035918>) ISBN : 978-2-9555841-4-9
 
+## Autres
+
+2- Silar P. (2025) Mycophilie ou mycophobie ? Mycophilie ou mycophobie ? Le Courrier de la nature n° 346: 45-47
+
+1- Silar P. (2025) À la conquête des écosystèmes. Le Courrier de la nature n° 346: 21-27
 
 <br/><br/>
 

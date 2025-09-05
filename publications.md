@@ -11,10 +11,17 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 ## Dans les revues à comité de lecture
 
 **2025**
+De Filippo E., Gautier V., Lalanne C., Levert E., Chahine E., Hartmann F.E., Giraud T. and Silar P. (2025) Huge genetic diversity of *Schizothecium tetrasporum* (Wint.). N. Lundq.: delimitation of 18 species distributed into three complexes through genome sequencing. **Mycosphere** sous presse.
+3-
 
-2- Silar P., Gautier V., Lalanne C., Tangthirasunun N., Arthur M., Hartmann F.E. and Giraud T. The *Podospora anserina* species complex in metropolitan and overseas France with description of a new species, *Podospora reunionensis* sp. nov. **Cryptogamie Mycologie** in the press.
+2- Silar P., Gautier V., Lalanne C., Tangthirasunun N., Arthur M., Hartmann F.E. and Giraud T. (2025) The *Podospora anserina* species complex in metropolitan and overseas France with description of a new species, *Podospora reunionensis* sp. nov. **Cryptogamie Mycologie** in the press.
 
 1- Lalanne C. & Silar P. (2025) FungANI, a BLAST-based program for analyzing Average Nucleotide Identity (ANI) between two fungal genomes, enables easy fungal species delimitation. **Fung. Genet. Biol.** 177: 103969. doi.org/10.1016/j.fgb.2025.103969
+
+## Livres
+
+1- Philippe Silar (2025) **Protistes Eucaryotes : Origine, Evolution et Biologie des Microbes Eucaryotes**. Seconde édition. En accès libre (<https://hal.science/hal-05035918>) ISBN : 978-2-9555841-4-9
+
 
 <br/><br/>
 

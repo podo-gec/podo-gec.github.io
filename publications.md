@@ -14,7 +14,7 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 4- Paradis A., Lalanne C., Hardy N., Gautier V. & Silar P. (2025) Carbon sources effects on conidiation in *Penicillium camemberti*: a transcriptomic analysis. Res. Microbiol. In the press.
 
-3- De Filippo E., Gautier V., Lalanne C., Levert E., Chahine E., Hartmann F.E., Giraud T. & Silar P. (2025) Huge genetic diversity of *Schizothecium tetrasporum* (Wint.). N. Lundq.: delimitation of 18 species distributed into three complexes through genome sequencing. **Mycosphere** 16(1): 2936–2974. Doi 10.5943/mycosphere/16/1/20
+3- De Filippo E., Gautier V., Lalanne C., Levert E., Chahine E., Hartmann F.E., Giraud T. & Silar P. (2025) Huge genetic diversity of *Schizothecium tetrasporum* (Wint.). N. Lundq.: delimitation of 18 species distributed into three complexes through genome sequencing. **Mycosphere** 16(1): 2848-2886. Doi 10.5943/mycosphere/16/1/19
 
 2- Silar P., Gautier V., Lalanne C., Tangthirasunun N., Arthur M., Hartmann F.E. & Giraud T. (2025) The *Podospora anserina* species complex in metropolitan and overseas France with description of a new species, *Podospora reunionensis* sp. nov. **Cryptogamie Mycologie** in the press.
 

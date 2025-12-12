@@ -12,11 +12,11 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 **2025**
 
-6- Tangthirasunun N., Gautier V., Lalanne C., Bonometti L., Cros-Arteil S., Hayes R., Calhoun S., Riley R., Pangilinan J., Lipzen A., Ng V., Grigoriev I.V., Gladieux P., Giraud T. &  Silar P. (2025) Diversity of _Sordariales_ fungi: Identification of seven new species of _Naviculisporaceae_ through morphological analyses and genome sequencing. Journal of Fungi. 11(12), 880. doi.org/10.3390/jof11120880.
+6- Tangthirasunun N., Gautier V., Lalanne C., Bonometti L., Cros-Arteil S., Hayes R., Calhoun S., Riley R., Pangilinan J., Lipzen A., Ng V., Grigoriev I.V., Gladieux P., Giraud T. &  Silar P. (2025) Diversity of _Sordariales_ fungi: Identification of seven new species of _Naviculisporaceae_ through morphological analyses and genome sequencing. **Journal of Fungi** 11(12), 880. doi.org/10.3390/jof11120880.
 
-5- De Filippo E., Chahine E., Legendre-Despas J., Snirc A., Labat A., Michel P., Grognet P., Gautier V., Levert E., Lalanne C., Silar P., Giraud T. & Hartmann1 F.E. (2025) Stepwise recombination suppression around the mating-type locus associated with a diploid-like life cycle in Schizothecium fungi. Mol. Biol. Evol. In the press.
+5- De Filippo E., Chahine E., Legendre-Despas J., Snirc A., Labat A., Michel P., Grognet P., Gautier V., Levert E., Lalanne C., Silar P., Giraud T. & Hartmann1 F.E. (2025) Stepwise recombination suppression around the mating-type locus associated with a diploid-like life cycle in Schizothecium fungi. **Mol. Biol. Evol.** In the press.
 
-4- Paradis A., Lalanne C., Hardy N., Gautier V. & Silar P. (2025) Carbon sources effects on conidiation in *Penicillium camemberti*: a transcriptomic analysis. Res. Microbiol. In the press.
+4- Paradis A., Lalanne C., Hardy N., Gautier V. & Silar P. (2025) Carbon sources effects on conidiation in *Penicillium camemberti*: a transcriptomic analysis. **Res. Microbiol.** In the press.
 
 3- De Filippo E., Gautier V., Lalanne C., Levert E., Chahine E., Hartmann F.E., Giraud T. & Silar P. (2025) Huge genetic diversity of *Schizothecium tetrasporum* (Wint.). N. Lundq.: delimitation of 18 species distributed into three complexes through genome sequencing. **Mycosphere** 16(1): 2848-2886. doi.org/10.5943/mycosphere/16/1/19
 

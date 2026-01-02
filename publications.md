@@ -498,7 +498,7 @@ doi.org/10.1128/9781555816636.ch33
 <br/><br/>
 ## Autres
 
-10- Silar P (2024) À la découverte des microbes - III : es grandes lignes de l’évolution des cellules à noyaux ou eucaryotes. **Bulletin de la Société linnéenne Nord-Picardie** 421 : 4-10.
+10- Silar P (2024) À la découverte des microbes - III : les grandes lignes de l’évolution des cellules à noyaux ou eucaryotes. **Bulletin de la Société linnéenne Nord-Picardie** 421 : 4-10.
 
 9- Silar P (2022-2023) À la découverte des microbes - IV :  les grandes lignes de l’évolution des plantes et de leurs cousins microbiens . **Bulletin de la Société linnéenne Nord-Picardie** 40-41 : 14-22.
 

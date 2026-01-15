@@ -79,19 +79,19 @@ Le parcours est un des trois parcours du M2 de microbiologie du Master BMC de l'
   - Parasitologie (J. Clain, 2 cours)
 
 
-- **B - Biodiversité des Microorganismes Eucaryotes - Acquisition des méthodes pour étudier les Big Data (génomique, transcriptomique, métagénomique) pertinents aux champignons**
+- **B - Biodiversité des Microorganismes Eucaryotes - Acquisition des méthodes pour étudier les Big Data (génomique, transcriptomique, métagénomique) pertinents aux champignons et aux parasites**
   
   - Notions de bioinformatiques, phylogénie et constructions d'arbres phylogénétiques : 2 TD de 2.5 h (Christophe Lalanne)
   - Première approches de génomiques: assemblage de génome, phylogénie, génomique des populations (atelier pratique d'une semaine: Philippe Silar & Jérôme Clain)
 
 
 
-**II- UE en partenariat avec Sorbonne Université:BIOLOGIE MOLECULAIRE ET CELLULAIRE DES AGENTS INFECTIEUX ET DE LA CELLULE HOTE** - 12 ects
+**II- UE en partenariat avec Sorbonne Université:BIOLOGIE MOLECULAIRE ET CELLULAIRE DES AGENTS INFECTIEUX ET DE LA CELLULE HOTE** - 2 UE de Sorbonne Université 2X6=12 ects
   
   équipe pédagogique: Christophe Hennequin, Olivier Silvie & Valérie Soulard - Code de l’UE : 5V641 
 
 a) Objectifs de l'Unité d'Enseignement 
-Ce  module  est  le  premier  module  du  parcours  de M2 Parasitologie/Mycologie  fondamentale  et médicale de Sorbonne Université .  Son objectif  est  la  formation  des  personnes  qui  auront  en  charge  la  lutte  contre  les  maladies parasitaires et fongiques, qu’elles soient humaines ou animales. Cette formation passe par une meilleure  connaissance,  au  niveau  cellulaire  et  moléculaire,  du  parasite,  du  phénomène parasitaire et des interactions hôte-parasite. Les outils de la biologie cellulaire et de la biologie moléculaire  ont  permis  dernièrement  des  avancées  remarquables  dans  la  connaissance  des agents et processus parasitaires. Ce savoir est la base indispensable aux parasitologues, qu’ils soient  fondamentalistes  ou  plus  impliqués  dans  une  démarche  clinique,  diagnostique, thérapeutique  ou  encore  dans  des  actions  de  valorisation.  Il  leur  permettra  de  mieux appréhender la physiopathologie des maladies parasitaires et fongiques et d’aborder sur une base rationnelle les stratégies vaccinales et thérapeutiques. Le module s’achève par un exposé des  étudiants  (validation  du  module  sous  forme  d’une  analyse  critique  de  projets  et/ou d’articles scientifiques).  
+Cette UE regroupe 2 UE  du  parcours  de M2 Parasitologie/Mycologie  fondamentale  et médicale de Sorbonne Université .  Son objectif  est  la  formation  des  personnes  qui  auront  en  charge  la  lutte  contre  les  maladies parasitaires et fongiques, qu’elles soient humaines ou animales. Cette formation passe par une meilleure  connaissance,  au  niveau  cellulaire  et  moléculaire,  du  parasite,  du  phénomène parasitaire et des interactions hôte-parasite. Les outils de la biologie cellulaire et de la biologie moléculaire  ont  permis  dernièrement  des  avancées  remarquables  dans  la  connaissance  des agents et processus parasitaires. Ce savoir est la base indispensable aux parasitologues, qu’ils soient  fondamentalistes  ou  plus  impliqués  dans  une  démarche  clinique,  diagnostique, thérapeutique  ou  encore  dans  des  actions  de  valorisation.  Il  leur  permettra  de  mieux appréhender la physiopathologie des maladies parasitaires et fongiques et d’aborder sur une base rationnelle les stratégies vaccinales et thérapeutiques. Le module s’achève par un exposé des  étudiants  (validation  du  module  sous  forme  d’une  analyse  critique  de  projets  et/ou d’articles scientifiques).  
  
 b) Thèmes abordés  
   Evolution,  phylogénie,  relation  génotypes/phénotypes,  diversité  etc.  application  aux parasites 
@@ -123,5 +123,6 @@ b) Thèmes abordés
 - **CL (2016) attaché scientifique en industrie pharmaceutique en CDI**  
 
   Après l’obtention d’une licence en Sciences pour la Santé à l’Université Paris Descartes, j'ai suivi le Master IMVI en me spécialisant en Microbiologie, pour ensuite faire le M2 Microbiologie-Mycologie environnementale et médicale. J'ai beaucoup appris lors de mon parcours, grâce à cette formation, que j'ai trouvé très complète. J'ai été très suivie pendant ces deux années de Master grâce aux enseignants qui ont à cœur la réussite de leurs étudiants. Même si la formation est axée principalement vers la recherche, elle m'a permise d’acquérir des compétences diversifiées et une réelle expérience qui sont des atouts importants aussi recherchés en entreprise tels que la capacité à réfléchir à des problèmes complexes et la capacité d'adaptation... J'ai décidé de ne pas poursuivre une thèse et j'ai été embauchée en CDI en tant qu'attachée scientifique en information médicale en industrie pharmaceutique. 
+
 
 

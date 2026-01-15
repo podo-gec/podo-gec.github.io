@@ -54,7 +54,7 @@ Contrôle des connaissance:  présentation orale de TD = CC 30% de la note + exa
 <Br>
 ![](../docs/Image2.png)
 
-Présentation du parcours de **Mycologie  Environnementale et Médicale**
+Présentation du parcours de **Biologie de microorganismes eucaryotes**
 
 resp. Philippe Silar
 
@@ -64,9 +64,9 @@ Le parcours est un des trois parcours du M2 de microbiologie du Master BMC de l'
 
 2 UE sont spécifiques au parcours :
 
-**I- UE Outils modernes d’analyse de la biodiversité fongique** - 6 ects
+**I- UE Outils modernes d’analyse de la biodiversité des microorganismes eucaryotes** - 6 ects
 
-- **A - Acquisition de notions approfondies de la biologie, de la diversité et de la classification des champignons**
+- **A - Acquisition de notions approfondies de la biologie, de la diversité et de la classification des champignons et des parasites**
 
   Programme du cours 2022-2023
 
@@ -76,12 +76,13 @@ Le parcours est un des trois parcours du M2 de microbiologie du Master BMC de l'
   - Evolution des génomes fongiques (P. Silar, LIED)  
   - L'exemple des *Sordariales* (P. Silar, LIED)
   - Cours 6 qui change chaque année
+  - Parasitologie (J. Clain, 2 cours)
 
 
 - **B - Biodiversité des Microorganismes Eucaryotes - Acquisition des méthodes pour étudier les Big Data (génomique, transcriptomique, métagénomique) pertinents aux champignons**
   
   - Notions de bioinformatiques, phylogénie et constructions d'arbres phylogénétiques : 2 TD de 2.5 h (Christophe Lalanne)
-  - Première approches de génomiques: assemblage de génome, de transcriptomes et analyses quantitives de transcriptomes (atelier pratique d'une semaine: Christophe Lalanne & Philippe Silar)
+  - Première approches de génomiques: assemblage de génome, phylogénie, génomique des populations (atelier pratique d'une semaine: Philippe Silar & Jérôme Clain)
 
 
 
@@ -122,3 +123,4 @@ b) Thèmes abordés
 - **CL (2016) attaché scientifique en industrie pharmaceutique en CDI**  
 
   Après l’obtention d’une licence en Sciences pour la Santé à l’Université Paris Descartes, j'ai suivi le Master IMVI en me spécialisant en Microbiologie, pour ensuite faire le M2 Microbiologie-Mycologie environnementale et médicale. J'ai beaucoup appris lors de mon parcours, grâce à cette formation, que j'ai trouvé très complète. J'ai été très suivie pendant ces deux années de Master grâce aux enseignants qui ont à cœur la réussite de leurs étudiants. Même si la formation est axée principalement vers la recherche, elle m'a permise d’acquérir des compétences diversifiées et une réelle expérience qui sont des atouts importants aussi recherchés en entreprise tels que la capacité à réfléchir à des problèmes complexes et la capacité d'adaptation... J'ai décidé de ne pas poursuivre une thèse et j'ai été embauchée en CDI en tant qu'attachée scientifique en information médicale en industrie pharmaceutique. 
+

@@ -17,7 +17,7 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 **2025**
 
-5- Paradis A., Lalanne C., Hardy N., Gautier V. & Silar P. (2025) Carbon sources effects on conidiation in *Penicillium camemberti*: a transcriptomic analysis. **Res. Microbiol.** In the press. doi.org/10.1016/j.resmic.2025.104339
+5- Paradis A., Lalanne C., Hardy N., Gautier V. & Silar P. (2025) Carbon sources effects on conidiation in *Penicillium camemberti*: a transcriptomic analysis. **Res. Microbiol.** 76(8): 104339. doi.org/10.1016/j.resmic.2025.104339
 
 4- Tangthirasunun N., Gautier V., Lalanne C., Bonometti L., Cros-Arteil S., Hayes R., Calhoun S., Riley R., Pangilinan J., Lipzen A., Ng V., Grigoriev I.V., Gladieux P., Giraud T. &  Silar P. (2025) Diversity of _Sordariales_ fungi: Identification of seven new species of _Naviculisporaceae_ through morphological analyses and genome sequencing. **Journal of Fungi** 11(12), 880. doi.org/10.3390/jof11120880
 

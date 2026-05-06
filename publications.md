@@ -33,6 +33,8 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 ## Autres
 
+3- Tangthirasunun N. & Silar P. (2026) Taxonomic novelties. Index Fungorum n°583. URL: https://www.indexfungorum.org/Publications/Index%20Fungorum%20no.583.pdf
+
 2- Silar P. (2025) Mycophilie ou mycophobie ? Le Courrier de la nature n° 346: 45-47
 
 1- Silar P. (2025) À la conquête des écosystèmes. Le Courrier de la nature n° 346: 21-27

@@ -13,7 +13,9 @@ feature_image: "../static/img/podospora_anserina_50pct.jpg"
 
 **2026**
 
-6- De Filippo E., Chahine E., Legendre-Despas J., Snirc A., Labat A., Michel P., Grognet P., Gautier V., Levert E., Lalanne C., Silar P., Giraud T. & Hartmann1 F.E. (2025) Stepwise recombination suppression around the mating-type locus associated with a diploid-like life cycle in Schizothecium fungi. **Mol. Biol. Evol.** 43(1): msaf325. doi.org/10.1093/molbev/msaf325
+7- Tangthirasunun N., Gautier V., Lalanne C., Gladieux P. and Silar P. (2026) Diversity of Sordariales fungi: Similihumicolaceae fam. nov. and Similihumicola gen. nov. to accommodate Similihumicola phialophoroides comb. nov. and Similihumicola thailandica sp. nov. **Cryptogamie Mycologie** in the press.
+
+6- De Filippo E., Chahine E., Legendre-Despas J., Snirc A., Labat A., Michel P., Grognet P., Gautier V., Levert E., Lalanne C., Silar P., Giraud T. & Hartmann1 F.E. (2026) Stepwise recombination suppression around the mating-type locus associated with a diploid-like life cycle in Schizothecium fungi. **Mol. Biol. Evol.** 43(1): msaf325. doi.org/10.1093/molbev/msaf325
 
 **2025**
 
